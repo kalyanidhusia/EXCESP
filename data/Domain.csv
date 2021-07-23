@@ -1,0 +1,5236 @@
+Entry,Region,Start,End,domain name
+O75581,Repeat,63,106,LDL-receptor class B 1
+O75581,Repeat,107,149,LDL-receptor class B 2
+O75581,Repeat,150,193,LDL-receptor class B 3
+O75581,Repeat,194,236,LDL-receptor class B 4
+O75581,Repeat,237,276,LDL-receptor class B 5
+O75581,Domain,282,324,EGF-like 1
+O75581,Repeat,372,414,LDL-receptor class B 6
+O75581,Repeat,415,457,LDL-receptor class B 7
+O75581,Repeat,458,501,LDL-receptor class B 8
+O75581,Repeat,502,542,LDL-receptor class B 9
+O75581,Repeat,543,584,LDL-receptor class B 10
+O75581,Domain,588,628,EGF-like 2
+O75581,Repeat,674,716,LDL-receptor class B 11
+O75581,Repeat,717,759,LDL-receptor class B 12
+O75581,Repeat,760,802,LDL-receptor class B 13
+O75581,Repeat,803,842,LDL-receptor class B 14
+O75581,Repeat,843,885,LDL-receptor class B 15
+O75581,Domain,889,930,EGF-like 3
+O75581,Repeat,977,1025,LDL-receptor class B 16
+O75581,Repeat,1026,1068,LDL-receptor class B 17
+O75581,Repeat,1069,1113,LDL-receptor class B 18
+O75581,Repeat,1114,1156,LDL-receptor class B 19
+O75581,Repeat,1157,1198,LDL-receptor class B 20
+O75581,Domain,1203,1244,EGF-like 4
+O75581,Domain,1248,1286,LDL-receptor class A 1
+O75581,Domain,1287,1323,LDL-receptor class A 2
+O75581,Domain,1325,1361,LDL-receptor class A 3
+P13688,Domain,35,142,Ig-like V-type
+P13688,Domain,145,232,Ig-like C2-type 1
+P13688,Domain,237,317,Ig-like C2-type 2
+P13688,Domain,323,413,Ig-like C2-type 3
+P19022,Domain,160,267,Cadherin 1
+P19022,Domain,268,382,Cadherin 2
+P19022,Domain,383,497,Cadherin 3
+P19022,Domain,498,603,Cadherin 4
+P19022,Domain,604,714,Cadherin 5
+P00533,Repeat,75,300,Approximate
+P00533,Repeat,390,600,Approximate
+P00533,Domain,712,979,Protein kinase
+P35613,Domain,37,120,Ig-like
+P35613,Domain,138,219,Ig-like C2-type
+P35613,Domain,221,315,Ig-like V-type
+P12830,Domain,155,262,Cadherin 1
+P12830,Domain,263,375,Cadherin 2
+P12830,Domain,376,486,Cadherin 3
+P12830,Domain,487,593,Cadherin 4
+P12830,Domain,594,697,Cadherin 5
+P78310,Domain,20,134,Ig-like C2-type 1
+P78310,Domain,141,228,Ig-like C2-type 2
+Q13873,Domain,203,504,Protein kinase
+P04626,Domain,720,987,Protein kinase
+Q02413,Domain,50,158,Cadherin 1
+Q02413,Domain,159,270,Cadherin 2
+Q02413,Domain,271,385,Cadherin 3
+Q02413,Domain,386,497,Cadherin 4
+Q02413,Repeat,813,839,Desmoglein repeat 1
+Q02413,Repeat,840,869,Desmoglein repeat 2
+Q02413,Repeat,870,899,Desmoglein repeat 3
+Q02413,Repeat,900,927,Desmoglein repeat 4
+Q02413,Repeat,928,956,Desmoglein repeat 5
+Q13586,Domain,63,98,EF-hand
+Q13586,Domain,132,200,SAM
+P04629,Repeat,90,113,LRR 1
+P04629,Repeat,116,137,LRR 2
+P04629,Domain,148,193,LRRCT
+P04629,Domain,194,283,Ig-like C2-type 1
+P04629,Domain,299,365,Ig-like C2-type 2
+P04629,Domain,510,781,Protein kinase
+P08575,Domain,391,483,Fibronectin type-III 1
+P08575,Domain,484,576,Fibronectin type-III 2
+P08575,Domain,653,912,Tyrosine-protein phosphatase 1
+P08575,Domain,944,1228,Tyrosine-protein phosphatase 2
+P05556,Domain,140,378,VWFA
+P05556,Repeat,466,515,I
+P05556,Repeat,516,559,II
+P05556,Repeat,560,598,III
+P05556,Repeat,599,635,IV
+P07949,Domain,168,272,Cadherin
+P07949,Domain,724,1016,Protein kinase
+Q9BY67,Domain,45,139,Ig-like V-type
+Q9BY67,Domain,144,238,Ig-like C2-type 1
+Q9BY67,Domain,243,329,Ig-like C2-type 2
+P21860,Domain,709,966,Protein kinase
+Q14118,Domain,603,712,Peptidase S72
+Q9NZC2,Domain,29,112,Ig-like V-type
+Q02763,Domain,44,123,Ig-like C2-type 1
+Q02763,Domain,210,252,EGF-like 1
+Q02763,Domain,254,299,EGF-like 2
+Q02763,Domain,301,341,EGF-like 3
+Q02763,Domain,350,440,Ig-like C2-type 2
+Q02763,Domain,447,541,Fibronectin type-III 1
+Q02763,Domain,545,636,Fibronectin type-III 2
+Q02763,Domain,641,735,Fibronectin type-III 3
+Q02763,Domain,824,1096,Protein kinase
+Q96JQ0,Domain,43,143,Cadherin 1
+Q96JQ0,Domain,144,255,Cadherin 2
+Q96JQ0,Domain,256,362,Cadherin 3
+Q96JQ0,Domain,367,472,Cadherin 4
+Q96JQ0,Domain,474,578,Cadherin 5
+Q96JQ0,Domain,579,685,Cadherin 6
+Q96JQ0,Domain,686,790,Cadherin 7
+Q96JQ0,Domain,791,894,Cadherin 8
+Q96JQ0,Domain,895,1000,Cadherin 9
+Q96JQ0,Domain,1001,1111,Cadherin 10
+Q96JQ0,Domain,1112,1211,Cadherin 11
+Q96JQ0,Domain,1218,1324,Cadherin 12
+Q96JQ0,Domain,1333,1436,Cadherin 13
+Q96JQ0,Domain,1437,1546,Cadherin 14
+Q96JQ0,Domain,1547,1649,Cadherin 15
+Q96JQ0,Domain,1650,1751,Cadherin 16
+Q96JQ0,Domain,1752,1855,Cadherin 17
+Q96JQ0,Domain,1856,1960,Cadherin 18
+Q96JQ0,Domain,1965,2068,Cadherin 19
+Q96JQ0,Domain,2069,2171,Cadherin 20
+Q96JQ0,Domain,2172,2277,Cadherin 21
+Q96JQ0,Domain,2278,2376,Cadherin 22
+Q96JQ0,Domain,2377,2482,Cadherin 23
+Q96JQ0,Domain,2483,2602,Cadherin 24
+Q96JQ0,Domain,2603,2706,Cadherin 25
+Q96JQ0,Domain,2707,2813,Cadherin 26
+Q96JQ0,Domain,2814,2933,Cadherin 27
+P15941,Repeat,61,80,1
+P15941,Repeat,81,100,2
+P15941,Repeat,101,120,3
+P15941,Repeat,121,140,4
+P15941,Repeat,141,160,5
+P15941,Repeat,161,180,6
+P15941,Repeat,181,200,7
+P15941,Repeat,201,220,8
+P15941,Repeat,221,240,9
+P15941,Repeat,241,260,10
+P15941,Repeat,261,280,11
+P15941,Repeat,281,300,12
+P15941,Repeat,301,320,13
+P15941,Repeat,321,340,14
+P15941,Repeat,341,360,15
+P15941,Repeat,361,380,16
+P15941,Repeat,381,400,17
+P15941,Repeat,401,420,18
+P15941,Repeat,421,440,19
+P15941,Repeat,441,460,20
+P15941,Repeat,461,480,21
+P15941,Repeat,481,500,22
+P15941,Repeat,501,520,23
+P15941,Repeat,521,540,24
+P15941,Repeat,541,560,25
+P15941,Repeat,561,580,26
+P15941,Repeat,581,600,27
+P15941,Repeat,601,620,28
+P15941,Repeat,621,640,29
+P15941,Repeat,641,660,30
+P15941,Repeat,661,680,31
+P15941,Repeat,681,700,32
+P15941,Repeat,701,720,33
+P15941,Repeat,721,740,34
+P15941,Repeat,741,760,35
+P15941,Repeat,761,780,36
+P15941,Repeat,781,800,37
+P15941,Repeat,801,820,38
+P15941,Repeat,821,840,39
+P15941,Repeat,841,860,40
+P15941,Repeat,861,880,41
+P15941,Repeat,881,900,42
+P15941,Repeat,901,920,43
+P15941,Repeat,921,940,44
+P15941,Repeat,941,960,45
+P15941,Repeat,961,980,46
+P15941,Repeat,981,1000,47
+P15941,Repeat,1001,1020,48
+P15941,Domain,1039,1148,SEA
+P16284,Domain,35,121,Ig-like C2-type 1
+P16284,Domain,145,233,Ig-like C2-type 2
+P16284,Domain,236,315,Ig-like C2-type 3
+P16284,Domain,328,401,Ig-like C2-type 4
+P16284,Domain,424,493,Ig-like C2-type 5
+P16284,Domain,499,591,Ig-like C2-type 6
+Q07954,Domain,25,66,LDL-receptor class A 1
+Q07954,Domain,70,110,LDL-receptor class A 2
+Q07954,Domain,111,149,EGF-like 1
+Q07954,Domain,150,189,EGF-like calcium-binding
+Q07954,Repeat,292,334,LDL-receptor class B 1
+Q07954,Repeat,335,378,LDL-receptor class B 2
+Q07954,Repeat,379,422,LDL-receptor class B 3
+Q07954,Domain,474,520,EGF-like 3
+Q07954,Repeat,571,613,LDL-receptor class B 4
+Q07954,Repeat,614,659,LDL-receptor class B 5
+Q07954,Repeat,660,710,LDL-receptor class B 6
+Q07954,Repeat,711,754,LDL-receptor class B 7
+Q07954,Domain,803,843,EGF-like 4
+Q07954,Domain,852,892,LDL-receptor class A 3
+Q07954,Domain,893,933,LDL-receptor class A 4
+Q07954,Domain,934,973,LDL-receptor class A 5
+Q07954,Domain,974,1013,LDL-receptor class A 6
+Q07954,Domain,1013,1053,LDL-receptor class A 7
+Q07954,Domain,1060,1099,LDL-receptor class A 8
+Q07954,Domain,1102,1142,LDL-receptor class A 9
+Q07954,Domain,1143,1182,LDL-receptor class A 10
+Q07954,Domain,1183,1222,EGF-like 5
+Q07954,Domain,1223,1262,EGF-like 6
+Q07954,Repeat,1309,1355,LDL-receptor class B 8
+Q07954,Repeat,1356,1398,LDL-receptor class B 9
+Q07954,Repeat,1399,1445,LDL-receptor class B 10
+Q07954,Repeat,1446,1490,LDL-receptor class B 11
+Q07954,Repeat,1491,1531,LDL-receptor class B 12
+Q07954,Domain,1536,1579,EGF-like 7
+Q07954,Repeat,1627,1669,LDL-receptor class B 13
+Q07954,Repeat,1670,1713,LDL-receptor class B 14
+Q07954,Repeat,1714,1753,LDL-receptor class B 15
+Q07954,Repeat,1754,1798,LDL-receptor class B 16
+Q07954,Domain,1846,1887,EGF-like 8
+Q07954,Repeat,1934,1976,LDL-receptor class B 17
+Q07954,Repeat,1977,2019,LDL-receptor class B 18
+Q07954,Repeat,2020,2063,LDL-receptor class B 19
+Q07954,Repeat,2064,2107,LDL-receptor class B 20
+Q07954,Domain,2155,2195,EGF-like 9
+Q07954,Repeat,2253,2294,LDL-receptor class B 21
+Q07954,Repeat,2295,2343,LDL-receptor class B 22
+Q07954,Repeat,2344,2388,LDL-receptor class B 23
+Q07954,Repeat,2389,2431,LDL-receptor class B 24
+Q07954,Repeat,2432,2473,LDL-receptor class B 25
+Q07954,Domain,2478,2518,EGF-like 10
+Q07954,Domain,2522,2563,LDL-receptor class A 11
+Q07954,Domain,2564,2602,LDL-receptor class A 12
+Q07954,Domain,2603,2641,LDL-receptor class A 13
+Q07954,Domain,2642,2690,LDL-receptor class A 14
+Q07954,Domain,2694,2732,LDL-receptor class A 15
+Q07954,Domain,2732,2771,LDL-receptor class A 16
+Q07954,Domain,2772,2814,LDL-receptor class A 17
+Q07954,Domain,2816,2855,LDL-receptor class A 18
+Q07954,Domain,2856,2899,LDL-receptor class A 19
+Q07954,Domain,2902,2940,LDL-receptor class A 20
+Q07954,Domain,2941,2981,EGF-like 11
+Q07954,Domain,2982,3022,EGF-like 12
+Q07954,Repeat,3069,3113,LDL-receptor class B 26
+Q07954,Repeat,3114,3156,LDL-receptor class B 27
+Q07954,Repeat,3157,3200,LDL-receptor class B 28
+Q07954,Repeat,3201,3243,LDL-receptor class B 29
+Q07954,Repeat,3244,3284,LDL-receptor class B 30
+Q07954,Domain,3290,3331,EGF-like 13
+Q07954,Domain,3332,3371,LDL-receptor class A 21
+Q07954,Domain,3372,3410,LDL-receptor class A 22
+Q07954,Domain,3411,3450,LDL-receptor class A 23
+Q07954,Domain,3451,3491,LDL-receptor class A 24
+Q07954,Domain,3492,3533,LDL-receptor class A 25
+Q07954,Domain,3534,3572,LDL-receptor class A 26
+Q07954,Domain,3573,3611,LDL-receptor class A 27
+Q07954,Domain,3611,3649,LDL-receptor class A 28
+Q07954,Domain,3652,3692,LDL-receptor class A 29
+Q07954,Domain,3693,3733,LDL-receptor class A 30
+Q07954,Domain,3739,3778,LDL-receptor class A 31
+Q07954,Domain,3781,3823,EGF-like 14
+Q07954,Domain,3824,3861,EGF-like 15
+Q07954,Repeat,3912,3954,LDL-receptor class B 31
+Q07954,Repeat,3970,4012,LDL-receptor class B 32
+Q07954,Repeat,4013,4056,LDL-receptor class B 33
+Q07954,Repeat,4057,4101,LDL-receptor class B 34
+Q07954,Domain,4147,4183,EGF-like 16
+Q07954,Domain,4196,4232,EGF-like 17
+Q07954,Domain,4232,4268,EGF-like 18
+Q07954,Domain,4268,4304,EGF-like 19
+Q07954,Domain,4304,4340,EGF-like 20
+Q07954,Domain,4340,4375,EGF-like 21
+Q07954,Domain,4373,4409,EGF-like 22
+Q92932,Domain,745,1005,Tyrosine-protein phosphatase
+O60602,Repeat,45,68,LRR 1
+O60602,Repeat,71,93,LRR 2
+O60602,Repeat,95,117,LRR 3
+O60602,Repeat,120,143,LRR 4
+O60602,Repeat,146,166,LRR 5
+O60602,Repeat,171,192,LRR 6
+O60602,Repeat,197,211,LRR 7
+O60602,Repeat,214,229,LRR 8
+O60602,Repeat,234,235,LRR 9
+O60602,Repeat,260,284,LRR 11
+O60602,Repeat,289,301,LRR 12
+O60602,Repeat,313,334,LRR 13
+O60602,Repeat,337,355,LRR 14
+O60602,Repeat,385,401,LRR 16
+O60602,Repeat,412,431,LRR 17
+O60602,Repeat,449,470,LRR 18
+O60602,Repeat,474,495,LRR 19
+O60602,Repeat,503,524,LRR 20
+O60602,Repeat,527,546,LRR 21
+O60602,Repeat,549,567,LRR 22
+O60602,Domain,579,631,LRRCT
+O60602,Domain,691,837,TIR
+O00206,Repeat,55,76,LRR 1
+O00206,Repeat,79,100,LRR 2
+O00206,Repeat,103,124,LRR 3
+O00206,Repeat,127,148,LRR 4
+O00206,Repeat,151,172,LRR 5
+O00206,Repeat,176,199,LRR 6
+O00206,Repeat,205,225,LRR 7
+O00206,Repeat,227,247,LRR 8
+O00206,Repeat,331,351,LRR 9
+O00206,Repeat,352,373,LRR 10
+O00206,Repeat,374,394,LRR 11
+O00206,Repeat,400,422,LRR 12
+O00206,Repeat,423,444,LRR 13
+O00206,Repeat,448,456,LRR 14
+O00206,Repeat,472,495,LRR 15
+O00206,Repeat,497,518,LRR 16
+O00206,Repeat,521,542,LRR 17
+O00206,Repeat,545,565,LRR 18
+O00206,Domain,579,629,LRRCT
+O00206,Domain,672,818,TIR
+P05107,Domain,124,363,VWFA
+P05107,Repeat,449,496,I
+P05107,Repeat,497,540,II
+P05107,Repeat,541,581,III
+P05107,Repeat,582,617,IV
+P55283,Domain,170,277,Cadherin 1
+P55283,Domain,278,392,Cadherin 2
+P55283,Domain,393,507,Cadherin 3
+P55283,Domain,508,613,Cadherin 4
+P55283,Domain,614,724,Cadherin 5
+P16109,Domain,58,158,C-type lectin
+P16109,Domain,159,195,EGF-like
+P16109,Domain,198,259,Sushi 1
+P16109,Domain,260,321,Sushi 2
+P16109,Domain,322,383,Sushi 3
+P16109,Domain,384,445,Sushi 4
+P16109,Domain,446,507,Sushi 5
+P16109,Domain,508,569,Sushi 6
+P16109,Domain,570,631,Sushi 7
+P16109,Domain,640,701,Sushi 8
+P16109,Domain,702,763,Sushi 9
+P06213,Domain,624,726,Fibronectin type-III 1
+P06213,Domain,757,842,Fibronectin type-III 2
+P06213,Domain,853,947,Fibronectin type-III 3
+P06213,Domain,1023,1298,Protein kinase
+Q5IJ48,Domain,67,106,EGF-like 1
+Q5IJ48,Domain,108,144,EGF-like 2
+Q5IJ48,Domain,146,182,EGF-like 3
+Q5IJ48,Domain,184,221,EGF-like 4
+Q5IJ48,Domain,223,259,EGF-like 5
+Q5IJ48,Domain,261,318,EGF-like 6
+Q5IJ48,Domain,320,356,EGF-like 7
+Q5IJ48,Domain,358,394,EGF-like 8
+Q5IJ48,Domain,396,436,EGF-like 9
+Q5IJ48,Domain,431,603,Laminin G-like 1
+Q5IJ48,Domain,605,641,EGF-like 10
+Q5IJ48,Domain,647,805,Laminin G-like 2
+Q5IJ48,Domain,807,843,EGF-like 11
+Q5IJ48,Domain,871,1054,Laminin G-like 3
+Q5IJ48,Domain,1056,1092,EGF-like 12
+Q5IJ48,Domain,1094,1130,EGF-like 13
+Q5IJ48,Domain,1134,1171,EGF-like 14
+Q5IJ48,Domain,1173,1209,EGF-like 15
+Q86YT9,Domain,20,132,Ig-like V-type 1
+Q86YT9,Domain,137,250,Ig-like V-type 2
+Q6UVK1,Domain,30,192,Laminin G-like 1
+Q6UVK1,Domain,202,380,Laminin G-like 2
+Q6UVK1,Repeat,428,523,CSPG 1
+Q6UVK1,Repeat,553,645,CSPG 2
+Q6UVK1,Repeat,662,764,CSPG 3
+Q6UVK1,Repeat,783,878,CSPG 4
+Q6UVK1,Repeat,898,989,CSPG 5
+Q6UVK1,Repeat,1018,1110,CSPG 6
+Q6UVK1,Repeat,1126,1216,CSPG 7
+Q6UVK1,Repeat,1238,1337,CSPG 8
+Q6UVK1,Repeat,1356,1449,CSPG 9
+Q6UVK1,Repeat,1473,1563,CSPG 10
+Q6UVK1,Repeat,1581,1679,CSPG 11
+Q6UVK1,Repeat,1704,1803,CSPG 12
+Q6UVK1,Repeat,1832,1924,CSPG 13
+Q6UVK1,Repeat,1941,2029,CSPG 14
+Q6UVK1,Repeat,2038,2147,CSPG 15
+P16422,Domain,63,135,Thyroglobulin type-1
+P29317,Domain,28,206,Eph LBD
+P29317,Domain,328,432,Fibronectin type-III 1
+P29317,Domain,438,529,Fibronectin type-III 2
+P29317,Domain,613,875,Protein kinase
+P29317,Domain,904,968,SAM
+P01732,Domain,22,135,Ig-like V-type
+P01730,Domain,26,125,Ig-like V-type
+P01730,Domain,126,203,Ig-like C2-type 1
+P01730,Domain,204,317,Ig-like C2-type 2
+P01730,Domain,318,374,Ig-like C2-type 3
+P06729,Domain,25,128,Ig-like V-type
+P06729,Domain,129,209,Ig-like C2-type
+P35968,Domain,46,110,Ig-like C2-type 1
+P35968,Domain,141,207,Ig-like C2-type 2
+P35968,Domain,224,320,Ig-like C2-type 3
+P35968,Domain,328,414,Ig-like C2-type 4
+P35968,Domain,421,548,Ig-like C2-type 5
+P35968,Domain,551,660,Ig-like C2-type 6
+P35968,Domain,667,753,Ig-like C2-type 7
+P35968,Domain,834,1162,Protein kinase
+Q8N126,Domain,25,126,Ig-like V-type
+Q8N126,Domain,130,228,Ig-like C2-type 1
+Q8N126,Domain,233,315,Ig-like C2-type 2
+Q9UQC9,Domain,311,483,VWFA
+Q14126,Domain,50,160,Cadherin 1
+Q14126,Domain,161,273,Cadherin 2
+Q14126,Domain,274,388,Cadherin 3
+Q14126,Domain,389,503,Cadherin 4
+Q14126,Repeat,881,912,Desmoglein repeat 1
+Q14126,Repeat,913,942,Desmoglein repeat 2
+Q14126,Repeat,943,968,Desmoglein repeat 3
+Q14126,Repeat,969,992,Desmoglein repeat 4
+Q14126,Repeat,993,1021,Desmoglein repeat 5
+Q14126,Repeat,1022,1051,Desmoglein repeat 6
+P33151,Domain,48,151,Cadherin 1
+P33151,Domain,152,258,Cadherin 2
+P33151,Domain,259,372,Cadherin 3
+P33151,Domain,373,477,Cadherin 4
+P33151,Domain,478,593,Cadherin 5
+Q04721,Domain,26,63,EGF-like 1
+Q04721,Domain,64,102,EGF-like 2
+Q04721,Domain,105,143,EGF-like 3
+Q04721,Domain,144,180,EGF-like 4
+Q04721,Domain,182,219,EGF-like 5
+Q04721,Domain,221,258,EGF-like 6
+Q04721,Domain,260,296,EGF-like 7
+Q04721,Domain,298,336,EGF-like 8
+Q04721,Domain,338,374,EGF-like 9
+Q04721,Domain,375,413,EGF-like 10
+Q04721,Domain,415,454,EGF-like 11
+Q04721,Domain,456,492,EGF-like 12
+Q04721,Domain,494,530,EGF-like 13
+Q04721,Domain,532,568,EGF-like 14
+Q04721,Domain,570,605,EGF-like 15
+Q04721,Domain,607,643,EGF-like 16
+Q04721,Domain,645,680,EGF-like 17
+Q04721,Domain,682,718,EGF-like 18
+Q04721,Domain,720,755,EGF-like 19
+Q04721,Domain,757,793,EGF-like 20
+Q04721,Domain,795,831,EGF-like 21
+Q04721,Domain,833,871,EGF-like 22
+Q04721,Domain,873,909,EGF-like 23
+Q04721,Domain,911,947,EGF-like 24
+Q04721,Domain,949,985,EGF-like 25
+Q04721,Domain,987,1023,EGF-like 26
+Q04721,Domain,1025,1061,EGF-like 27
+Q04721,Domain,1063,1099,EGF-like 28
+Q04721,Domain,1101,1147,EGF-like 29
+Q04721,Domain,1149,1185,EGF-like 30
+Q04721,Domain,1187,1223,EGF-like 31
+Q04721,Domain,1225,1262,EGF-like 32
+Q04721,Domain,1264,1302,EGF-like 33
+Q04721,Domain,1304,1343,EGF-like 34
+Q04721,Domain,1374,1412,EGF-like 35
+Q04721,Repeat,1425,1465,LNR 1
+Q04721,Repeat,1466,1502,LNR 2
+Q04721,Repeat,1503,1544,LNR 3
+Q04721,Repeat,1827,1871,ANK 1
+Q04721,Repeat,1876,1905,ANK 2
+Q04721,Repeat,1909,1939,ANK 3
+Q04721,Repeat,1943,1972,ANK 4
+Q04721,Repeat,1976,2005,ANK 5
+Q04721,Repeat,2009,2038,ANK 6
+P37173,Domain,244,544,Protein kinase
+Q9ULL4,Domain,45,471,Sema
+Q9ULL4,Domain,473,526,PSI 1
+Q9ULL4,Domain,620,682,PSI 2
+Q9ULL4,Domain,787,833,PSI 3
+Q9ULL4,Domain,835,925,IPT/TIG 1
+Q9ULL4,Domain,927,1012,IPT/TIG 2
+Q9ULL4,Domain,1015,1145,IPT/TIG 3
+Q9ULL4,Domain,1159,1244,IPT/TIG 4
+P82279,Domain,30,68,EGF-like 1
+P82279,Domain,70,108,EGF-like 2
+P82279,Domain,110,146,EGF-like 3
+P82279,Domain,148,184,EGF-like 4
+P82279,Domain,186,222,EGF-like 5
+P82279,Domain,224,260,EGF-like 6
+P82279,Domain,262,299,EGF-like 7
+P82279,Domain,301,337,EGF-like 8
+P82279,Domain,339,395,EGF-like 9
+P82279,Domain,397,439,EGF-like 10
+P82279,Domain,441,481,EGF-like 11
+P82279,Domain,485,670,Laminin G-like 1
+P82279,Domain,672,708,EGF-like 12
+P82279,Domain,714,885,Laminin G-like 2
+P82279,Domain,887,923,EGF-like 13
+P82279,Domain,924,960,EGF-like 14
+P82279,Domain,950,1137,Laminin G-like 3
+P82279,Domain,1139,1175,EGF-like 15
+P82279,Domain,1177,1212,EGF-like 16
+P82279,Domain,1214,1250,EGF-like 17
+P82279,Domain,1255,1295,EGF-like 18
+P82279,Domain,1297,1333,EGF-like 19
+P07202,Domain,740,795,Sushi
+P07202,Domain,796,839,EGF-like
+Q96QU1,Domain,40,147,Cadherin 1
+Q96QU1,Domain,148,265,Cadherin 2
+Q96QU1,Domain,278,395,Cadherin 3
+Q96QU1,Domain,396,509,Cadherin 4
+Q96QU1,Domain,510,616,Cadherin 5
+Q96QU1,Domain,617,717,Cadherin 6
+Q96QU1,Domain,719,819,Cadherin 7
+Q96QU1,Domain,820,926,Cadherin 8
+Q96QU1,Domain,927,1035,Cadherin 9
+Q96QU1,Domain,1037,1144,Cadherin 10
+Q96QU1,Domain,1145,1259,Cadherin 11
+Q99523,Repeat,145,156,BNR 1
+Q99523,Repeat,198,209,BNR 2
+Q99523,Repeat,240,251,BNR 3
+Q99523,Repeat,287,298,BNR 4
+Q99523,Repeat,328,339,BNR 5
+Q99523,Repeat,377,388,BNR 6
+Q99523,Repeat,428,439,BNR 7
+Q99523,Repeat,506,517,BNR 8
+Q99523,Repeat,548,559,BNR 9
+P08F94,Domain,24,111,IPT/TIG 1
+P08F94,Domain,137,232,IPT/TIG 2
+P08F94,Domain,259,335,IPT/TIG 3
+P08F94,Domain,322,485,PA14
+P08F94,Domain,931,1015,IPT/TIG 4
+P08F94,Domain,1019,1103,IPT/TIG 5
+P08F94,Domain,1108,1192,IPT/TIG 6
+P08F94,Domain,1196,1289,IPT/TIG 7
+P08F94,Domain,1301,1382,IPT/TIG 8
+P08F94,Domain,1389,1481,IPT/TIG 9
+P08F94,Domain,1486,1570,IPT/TIG 10
+P08F94,Domain,1573,1659,IPT/TIG 11
+P08F94,Domain,1658,1742,IPT/TIG 12
+P08F94,Domain,1932,2053,G8 1
+P08F94,Repeat,2226,2248,PbH1 1
+P08F94,Repeat,2249,2271,PbH1 2
+P08F94,Repeat,2292,2325,PbH1 3
+P08F94,Repeat,2326,2347,PbH1 4
+P08F94,Repeat,2409,2431,PbH1 5
+P08F94,Repeat,2469,2502,PbH1 6
+P08F94,Domain,2747,2873,G8 2
+P08F94,Repeat,3010,3032,PbH1 7
+P08F94,Repeat,3033,3055,PbH1 8
+P08F94,Repeat,3086,3108,PbH1 9
+P58400,Domain,91,289,Laminin G-like
+P11215,Repeat,18,75,FG-GAP 1
+P11215,Repeat,76,135,FG-GAP 2
+P11215,Domain,150,328,VWFA
+P11215,Repeat,339,390,FG-GAP 3
+P11215,Repeat,391,442,FG-GAP 4
+P11215,Repeat,443,503,FG-GAP 5
+P11215,Repeat,506,564,FG-GAP 6
+P11215,Repeat,569,629,FG-GAP 7
+P08887,Domain,26,112,Ig-like C2-type
+P08887,Domain,113,217,Fibronectin type-III 1
+P08887,Domain,218,316,Fibronectin type-III 2
+Q9NPG4,Domain,28,135,Cadherin 1
+Q9NPG4,Domain,136,244,Cadherin 2
+Q9NPG4,Domain,245,352,Cadherin 3
+Q9NPG4,Domain,355,460,Cadherin 4
+Q9NPG4,Domain,461,565,Cadherin 5
+Q9NPG4,Domain,600,711,Cadherin 6
+Q92673,Repeat,136,147,BNR 1
+Q92673,Repeat,232,243,BNR 2
+Q92673,Repeat,441,452,BNR 3
+Q92673,Repeat,521,532,BNR 4
+Q92673,Repeat,562,573,BNR 5
+Q92673,Repeat,800,843,LDL-receptor class B 1
+Q92673,Repeat,844,887,LDL-receptor class B 2
+Q92673,Repeat,888,932,LDL-receptor class B 3
+Q92673,Repeat,933,970,LDL-receptor class B 4
+Q92673,Repeat,971,1013,LDL-receptor class B 5
+Q92673,Domain,1026,1072,EGF-like
+Q92673,Domain,1076,1114,LDL-receptor class A 1
+Q92673,Domain,1115,1155,LDL-receptor class A 2
+Q92673,Domain,1156,1194,LDL-receptor class A 3
+Q92673,Domain,1198,1236,LDL-receptor class A 4
+Q92673,Domain,1238,1272,LDL-receptor class A 5
+Q92673,Domain,1273,1317,LDL-receptor class A 6
+Q92673,Domain,1323,1361,LDL-receptor class A 7
+Q92673,Domain,1366,1405,LDL-receptor class A 8
+Q92673,Domain,1417,1455,LDL-receptor class A 9
+Q92673,Domain,1469,1508,LDL-receptor class A 10
+Q92673,Domain,1512,1551,LDL-receptor class A 11
+Q92673,Domain,1557,1649,Fibronectin type-III 1
+Q92673,Domain,1653,1745,Fibronectin type-III 2
+Q92673,Domain,1749,1844,Fibronectin type-III 3
+Q92673,Domain,1843,1927,Fibronectin type-III 4
+Q92673,Domain,1934,2029,Fibronectin type-III 5
+Q92673,Domain,2030,2118,Fibronectin type-III 6
+P10721,Domain,27,112,Ig-like C2-type 1
+P10721,Domain,121,205,Ig-like C2-type 2
+P10721,Domain,212,308,Ig-like C2-type 3
+P10721,Domain,317,410,Ig-like C2-type 4
+P10721,Domain,413,507,Ig-like C2-type 5
+P10721,Domain,589,937,Protein kinase
+Q9HBB8,Domain,71,124,Cadherin 1
+Q9HBB8,Domain,125,237,Cadherin 2
+Q9HBB8,Domain,249,354,Cadherin 3
+Q9HBB8,Domain,355,459,Cadherin 4
+Q9HBB8,Repeat,540,570,1
+Q9HBB8,Repeat,571,601,2
+Q9HBB8,Repeat,602,631,3
+Q9HBB8,Repeat,632,645,4
+P14151,Domain,55,155,C-type lectin
+P14151,Domain,156,192,EGF-like
+P14151,Domain,195,256,Sushi 1
+P14151,Domain,257,318,Sushi 2
+P98164,Domain,27,63,LDL-receptor class A 1
+P98164,Domain,66,104,LDL-receptor class A 2
+P98164,Domain,107,143,LDL-receptor class A 3
+P98164,Domain,146,180,LDL-receptor class A 4
+P98164,Domain,182,218,LDL-receptor class A 5
+P98164,Domain,221,257,LDL-receptor class A 6
+P98164,Domain,265,308,LDL-receptor class A 7
+P98164,Repeat,436,478,LDL-receptor class B 1
+P98164,Repeat,479,521,LDL-receptor class B 2
+P98164,Repeat,522,568,LDL-receptor class B 3
+P98164,Repeat,569,613,LDL-receptor class B 4
+P98164,Repeat,753,795,LDL-receptor class B 5
+P98164,Repeat,796,837,LDL-receptor class B 6
+P98164,Repeat,838,881,LDL-receptor class B 7
+P98164,Repeat,882,925,LDL-receptor class B 8
+P98164,Domain,1025,1061,LDL-receptor class A 8
+P98164,Domain,1066,1102,LDL-receptor class A 9
+P98164,Domain,1108,1144,LDL-receptor class A 10
+P98164,Domain,1148,1184,LDL-receptor class A 11
+P98164,Domain,1186,1223,LDL-receptor class A 12
+P98164,Domain,1229,1267,LDL-receptor class A 13
+P98164,Domain,1270,1306,LDL-receptor class A 14
+P98164,Domain,1304,1349,LDL-receptor class A 15
+P98164,Domain,1390,1429,EGF-like 1
+P98164,Repeat,1478,1520,LDL-receptor class B 9
+P98164,Repeat,1521,1563,LDL-receptor class B 10
+P98164,Repeat,1566,1609,LDL-receptor class B 11
+P98164,Repeat,1610,1654,LDL-receptor class B 12
+P98164,Repeat,1655,1695,LDL-receptor class B 13
+P98164,Domain,1700,1741,EGF-like 2
+P98164,Repeat,1790,1832,LDL-receptor class B 14
+P98164,Repeat,1833,1882,LDL-receptor class B 15
+P98164,Repeat,1883,1930,LDL-receptor class B 16
+P98164,Repeat,1931,1972,LDL-receptor class B 17
+P98164,Repeat,1973,2013,LDL-receptor class B 18
+P98164,Repeat,2107,2156,LDL-receptor class B 19
+P98164,Repeat,2157,2201,LDL-receptor class B 20
+P98164,Repeat,2202,2245,LDL-receptor class B 21
+P98164,Repeat,2246,2289,LDL-receptor class B 22
+P98164,Repeat,2431,2477,LDL-receptor class B 23
+P98164,Repeat,2478,2518,LDL-receptor class B 24
+P98164,Repeat,2519,2562,LDL-receptor class B 25
+P98164,Repeat,2563,2604,LDL-receptor class B 26
+P98164,Repeat,2605,2646,LDL-receptor class B 27
+P98164,Domain,2699,2737,LDL-receptor class A 16
+P98164,Domain,2740,2776,LDL-receptor class A 17
+P98164,Domain,2779,2818,LDL-receptor class A 18
+P98164,Domain,2821,2860,LDL-receptor class A 19
+P98164,Domain,2863,2900,LDL-receptor class A 20
+P98164,Domain,2905,2944,LDL-receptor class A 21
+P98164,Domain,2947,2989,LDL-receptor class A 22
+P98164,Domain,2992,3028,LDL-receptor class A 23
+P98164,Domain,3031,3069,LDL-receptor class A 24
+P98164,Domain,3074,3110,LDL-receptor class A 25
+P98164,Domain,3110,3151,EGF-like 3
+P98164,Domain,3152,3192,EGF-like 4
+P98164,Repeat,3239,3281,LDL-receptor class B 28
+P98164,Repeat,3282,3324,LDL-receptor class B 29
+P98164,Repeat,3333,3376,LDL-receptor class B 30
+P98164,Repeat,3377,3419,LDL-receptor class B 31
+P98164,Repeat,3420,3460,LDL-receptor class B 32
+P98164,Domain,3511,3549,LDL-receptor class A 26
+P98164,Domain,3552,3590,LDL-receptor class A 27
+P98164,Domain,3593,3631,LDL-receptor class A 28
+P98164,Domain,3634,3672,LDL-receptor class A 29
+P98164,Domain,3677,3715,LDL-receptor class A 30
+P98164,Domain,3718,3755,LDL-receptor class A 31
+P98164,Domain,3758,3794,LDL-receptor class A 32
+P98164,Domain,3797,3833,LDL-receptor class A 33
+P98164,Domain,3841,3879,LDL-receptor class A 34
+P98164,Domain,3882,3921,LDL-receptor class A 35
+P98164,Domain,3927,3963,LDL-receptor class A 36
+P98164,Domain,4007,4048,EGF-like 5
+P98164,Repeat,4154,4196,LDL-receptor class B 33
+P98164,Repeat,4197,4240,LDL-receptor class B 34
+P98164,Repeat,4242,4283,LDL-receptor class B 35
+P98164,Domain,4377,4411,EGF-like 6
+P16070,Domain,32,120,Link
+P01130,Domain,25,65,LDL-receptor class A 1
+P01130,Domain,66,106,LDL-receptor class A 2
+P01130,Domain,107,145,LDL-receptor class A 3
+P01130,Domain,146,186,LDL-receptor class A 4
+P01130,Domain,195,233,LDL-receptor class A 5
+P01130,Domain,234,272,LDL-receptor class A 6
+P01130,Domain,274,313,LDL-receptor class A 7
+P01130,Domain,314,353,EGF-like 1
+P01130,Domain,354,393,EGF-like 2
+P01130,Repeat,397,438,LDL-receptor class B 1
+P01130,Repeat,439,485,LDL-receptor class B 2
+P01130,Repeat,486,528,LDL-receptor class B 3
+P01130,Repeat,529,572,LDL-receptor class B 4
+P01130,Repeat,573,615,LDL-receptor class B 5
+P01130,Repeat,616,658,LDL-receptor class B 6
+P01130,Domain,663,712,EGF-like 3
+P30203,Domain,45,156,SRCR 1
+P30203,Domain,161,260,SRCR 2
+P30203,Domain,265,361,SRCR 3
+P16234,Domain,24,113,Ig-like C2-type 1
+P16234,Domain,117,201,Ig-like C2-type 2
+P16234,Domain,202,306,Ig-like C2-type 3
+P16234,Domain,319,410,Ig-like C2-type 4
+P16234,Domain,414,517,Ig-like C2-type 5
+P16234,Domain,593,954,Protein kinase
+P09619,Domain,33,120,Ig-like C2-type 1
+P09619,Domain,129,210,Ig-like C2-type 2
+P09619,Domain,214,309,Ig-like C2-type 3
+P09619,Domain,331,403,Ig-like C2-type 4
+P09619,Domain,416,524,Ig-like C2-type 5
+P09619,Domain,600,962,Protein kinase
+P30273,Domain,54,82,ITAM
+P26006,Repeat,38,103,FG-GAP 1
+P26006,Repeat,110,171,FG-GAP 2
+P26006,Repeat,185,235,FG-GAP 3
+P26006,Repeat,236,292,FG-GAP 4
+P26006,Repeat,293,354,FG-GAP 5
+P26006,Repeat,356,411,FG-GAP 6
+P26006,Repeat,415,477,FG-GAP 7
+P15813,Domain,185,292,Ig-like
+P21802,Domain,25,125,Ig-like C2-type 1
+P21802,Domain,154,247,Ig-like C2-type 2
+P21802,Domain,256,358,Ig-like C2-type 3
+P21802,Domain,481,770,Protein kinase
+Q12864,Domain,30,128,Cadherin 1
+Q12864,Domain,129,244,Cadherin 2
+Q12864,Domain,245,340,Cadherin 3
+Q12864,Domain,341,449,Cadherin 4
+Q12864,Domain,450,566,Cadherin 5
+Q12864,Domain,567,667,Cadherin 6
+Q12864,Domain,668,777,Cadherin 7
+Q9H251,Domain,34,132,Cadherin 1
+Q9H251,Domain,133,236,Cadherin 2
+Q9H251,Domain,237,348,Cadherin 3
+Q9H251,Domain,349,460,Cadherin 4
+Q9H251,Domain,461,561,Cadherin 5
+Q9H251,Domain,562,671,Cadherin 6
+Q9H251,Domain,672,784,Cadherin 7
+Q9H251,Domain,779,890,Cadherin 8
+Q9H251,Domain,891,995,Cadherin 9
+Q9H251,Domain,996,1102,Cadherin 10
+Q9H251,Domain,1103,1208,Cadherin 11
+Q9H251,Domain,1210,1313,Cadherin 12
+Q9H251,Domain,1314,1418,Cadherin 13
+Q9H251,Domain,1420,1527,Cadherin 14
+Q9H251,Domain,1529,1634,Cadherin 15
+Q9H251,Domain,1635,1744,Cadherin 16
+Q9H251,Domain,1745,1851,Cadherin 17
+Q9H251,Domain,1852,1959,Cadherin 18
+Q9H251,Domain,1960,2069,Cadherin 19
+Q9H251,Domain,2070,2174,Cadherin 20
+Q9H251,Domain,2175,2293,Cadherin 21
+Q9H251,Domain,2297,2402,Cadherin 22
+Q9H251,Domain,2403,2509,Cadherin 23
+Q9H251,Domain,2510,2611,Cadherin 24
+Q9H251,Domain,2614,2722,Cadherin 25
+Q9H251,Domain,2729,2846,Cadherin 26
+Q9H251,Domain,2847,2975,Cadherin 27
+Q30201,Domain,207,298,Ig-like C1-type
+O00548,Domain,177,221,DSL
+O00548,Domain,226,254,EGF-like 1
+O00548,Domain,257,285,EGF-like 2
+O00548,Domain,292,325,EGF-like 3
+O00548,Domain,332,363,EGF-like 4
+O00548,Domain,370,402,EGF-like 5
+O00548,Domain,409,440,EGF-like 6
+O00548,Domain,447,478,EGF-like 7
+O00548,Domain,485,516,EGF-like 8
+Q15303,Domain,718,985,Protein kinase
+P03372,Domain,311,547,NR LBD
+Q99062,Domain,25,117,Ig-like C2-type
+Q99062,Domain,125,230,Fibronectin type-III 1
+Q99062,Domain,233,332,Fibronectin type-III 2
+Q99062,Domain,334,430,Fibronectin type-III 3
+Q99062,Domain,431,528,Fibronectin type-III 4
+Q99062,Domain,530,623,Fibronectin type-III 5
+Q14517,Domain,35,149,Cadherin 1
+Q14517,Domain,150,257,Cadherin 2
+Q14517,Domain,368,463,Cadherin 3
+Q14517,Domain,464,569,Cadherin 4
+Q14517,Domain,570,673,Cadherin 5
+Q14517,Domain,718,822,Cadherin 6
+Q14517,Domain,823,927,Cadherin 7
+Q14517,Domain,928,1034,Cadherin 8
+Q14517,Domain,1035,1139,Cadherin 9
+Q14517,Domain,1140,1245,Cadherin 10
+Q14517,Domain,1246,1357,Cadherin 11
+Q14517,Domain,1359,1456,Cadherin 12
+Q14517,Domain,1457,1562,Cadherin 13
+Q14517,Domain,1563,1667,Cadherin 14
+Q14517,Domain,1668,1765,Cadherin 15
+Q14517,Domain,1766,1879,Cadherin 16
+Q14517,Domain,1880,1979,Cadherin 17
+Q14517,Domain,1980,2081,Cadherin 18
+Q14517,Domain,2082,2182,Cadherin 19
+Q14517,Domain,2183,2283,Cadherin 20
+Q14517,Domain,2284,2390,Cadherin 21
+Q14517,Domain,2391,2492,Cadherin 22
+Q14517,Domain,2493,2596,Cadherin 23
+Q14517,Domain,2597,2703,Cadherin 24
+Q14517,Domain,2704,2809,Cadherin 25
+Q14517,Domain,2810,2918,Cadherin 26
+Q14517,Domain,2919,3023,Cadherin 27
+Q14517,Domain,3024,3125,Cadherin 28
+Q14517,Domain,3126,3230,Cadherin 29
+Q14517,Domain,3231,3335,Cadherin 30
+Q14517,Domain,3336,3440,Cadherin 31
+Q14517,Domain,3441,3545,Cadherin 32
+Q14517,Domain,3546,3647,Cadherin 33
+Q14517,Domain,3790,3827,EGF-like 1
+Q14517,Domain,3829,4009,Laminin G-like
+Q14517,Domain,4013,4050,EGF-like 2
+Q14517,Domain,4052,4088,EGF-like 3
+Q14517,Domain,4089,4125,EGF-like 4
+Q14517,Domain,4127,4163,EGF-like 5
+Q13740,Domain,28,120,Ig-like V-type 1
+Q13740,Domain,125,234,Ig-like V-type 2
+Q13740,Domain,245,328,Ig-like C2-type 1
+Q13740,Domain,333,409,Ig-like C2-type 2
+Q13740,Domain,416,501,Ig-like C2-type 3
+P05067,Domain,28,189,E1
+P05067,Domain,291,341,BPTI/Kunitz inhibitor
+P05067,Domain,374,565,E2
+P20594,Domain,513,786,Protein kinase
+P20594,Domain,861,991,Guanylate cyclase
+P19320,Domain,25,105,Ig-like C2-type 1
+P19320,Domain,109,212,Ig-like C2-type 2
+P19320,Domain,223,309,Ig-like C2-type 3
+P19320,Domain,312,399,Ig-like C2-type 4
+P19320,Domain,408,506,Ig-like C2-type 5
+P19320,Domain,511,595,Ig-like C2-type 6
+P19320,Domain,600,684,Ig-like C2-type 7
+Q16832,Domain,30,185,F5/8 type C
+Q16832,Domain,563,849,Protein kinase
+O60469,Domain,39,129,Ig-like C2-type 1
+O60469,Domain,125,216,Ig-like C2-type 2
+O60469,Domain,225,305,Ig-like C2-type 3
+O60469,Domain,313,401,Ig-like C2-type 4
+O60469,Domain,407,500,Ig-like C2-type 5
+O60469,Domain,504,592,Ig-like C2-type 6
+O60469,Domain,596,685,Ig-like C2-type 7
+O60469,Domain,690,783,Ig-like C2-type 8
+O60469,Domain,787,883,Ig-like C2-type 9
+O60469,Domain,885,982,Fibronectin type-III 1
+O60469,Domain,987,1086,Fibronectin type-III 2
+O60469,Domain,1091,1187,Fibronectin type-III 3
+O60469,Domain,1191,1285,Fibronectin type-III 4
+O60469,Domain,1285,1377,Ig-like C2-type 10
+O60469,Domain,1379,1473,Fibronectin type-III 5
+O60469,Domain,1474,1575,Fibronectin type-III 6
+P36896,Domain,177,206,GS
+P36896,Domain,207,497,Protein kinase
+P55291,Domain,61,152,Cadherin 1
+P55291,Domain,153,260,Cadherin 2
+P55291,Domain,261,375,Cadherin 3
+P55291,Domain,376,481,Cadherin 4
+P55291,Domain,482,590,Cadherin 5
+P10966,Domain,22,132,Ig-like V-type
+Q9BXJ7,Domain,202,254,VWFC
+P14784,Domain,134,234,Fibronectin type-III
+P49755,Domain,41,193,GOLD
+P25942,Repeat,25,60,TNFR-Cys 1
+P25942,Repeat,61,103,TNFR-Cys 2
+P25942,Repeat,104,144,TNFR-Cys 3
+P25942,Repeat,145,187,TNFR-Cys 4
+Q9Y639,Domain,29,134,Ig-like 1
+Q9Y639,Domain,148,235,Ig-like 2
+Q9Y639,Domain,238,329,Ig-like 3
+P46531,Domain,20,58,EGF-like 1
+P46531,Domain,59,99,EGF-like 2
+P46531,Domain,102,139,EGF-like 3
+P46531,Domain,140,176,EGF-like 4
+P46531,Domain,178,216,EGF-like 5
+P46531,Domain,218,255,EGF-like 6
+P46531,Domain,257,293,EGF-like 7
+P46531,Domain,295,333,EGF-like 8
+P46531,Domain,335,371,EGF-like 9
+P46531,Domain,372,410,EGF-like 10
+P46531,Domain,412,450,EGF-like 11
+P46531,Domain,452,488,EGF-like 12
+P46531,Domain,490,526,EGF-like 13
+P46531,Domain,528,564,EGF-like 14
+P46531,Domain,566,601,EGF-like 15
+P46531,Domain,603,639,EGF-like 16
+P46531,Domain,641,676,EGF-like 17
+P46531,Domain,678,714,EGF-like 18
+P46531,Domain,716,751,EGF-like 19
+P46531,Domain,753,789,EGF-like 20
+P46531,Domain,791,827,EGF-like 21
+P46531,Domain,829,867,EGF-like 22
+P46531,Domain,869,905,EGF-like 23
+P46531,Domain,907,943,EGF-like 24
+P46531,Domain,945,981,EGF-like 25
+P46531,Domain,983,1019,EGF-like 26
+P46531,Domain,1021,1057,EGF-like 27
+P46531,Domain,1059,1095,EGF-like 28
+P46531,Domain,1097,1143,EGF-like 29
+P46531,Domain,1145,1181,EGF-like 30
+P46531,Domain,1183,1219,EGF-like 31
+P46531,Domain,1221,1265,EGF-like 32
+P46531,Domain,1267,1305,EGF-like 33
+P46531,Domain,1307,1346,EGF-like 34
+P46531,Domain,1348,1384,EGF-like 35
+P46531,Domain,1387,1426,EGF-like 36
+P46531,Repeat,1449,1489,LNR 1
+P46531,Repeat,1490,1531,LNR 2
+P46531,Repeat,1532,1571,LNR 3
+P46531,Repeat,1927,1956,ANK 1
+P46531,Repeat,1960,1990,ANK 2
+P46531,Repeat,1994,2023,ANK 3
+P46531,Repeat,2027,2056,ANK 4
+P46531,Repeat,2060,2089,ANK 5
+P46531,Repeat,2095,2122,ANK 6
+Q16827,Domain,50,124,Fibronectin type-III 1
+Q16827,Domain,142,211,Fibronectin type-III 2
+Q16827,Domain,246,306,Fibronectin type-III 3
+Q16827,Domain,329,425,Fibronectin type-III 4
+Q16827,Domain,435,531,Fibronectin type-III 5
+Q16827,Domain,532,628,Fibronectin type-III 6
+Q16827,Domain,631,724,Fibronectin type-III 7
+Q16827,Domain,725,817,Fibronectin type-III 8
+Q16827,Domain,938,1195,Tyrosine-protein phosphatase
+Q9UIB8,Domain,26,129,Ig-like V-type
+Q9UIB8,Domain,135,207,Ig-like C2-type
+Q86UP0,Domain,46,150,Cadherin 1
+Q86UP0,Domain,151,259,Cadherin 2
+Q86UP0,Domain,260,374,Cadherin 3
+Q86UP0,Domain,375,517,Cadherin 4
+Q86UP0,Domain,517,630,Cadherin 5
+Q8IYV9,Domain,167,251,Ig-like C2-type
+O94856,Domain,41,137,Ig-like C2-type 1
+O94856,Domain,143,230,Ig-like C2-type 2
+O94856,Domain,244,332,Ig-like C2-type 3
+O94856,Domain,337,424,Ig-like C2-type 4
+O94856,Domain,429,517,Ig-like C2-type 5
+O94856,Domain,521,603,Ig-like C2-type 6
+O94856,Domain,630,725,Fibronectin type-III 1
+O94856,Domain,730,823,Fibronectin type-III 2
+O94856,Domain,828,930,Fibronectin type-III 3
+O94856,Domain,934,1030,Fibronectin type-III 4
+O94856,Domain,1114,1206,Fibronectin type-III 5
+P25189,Domain,30,143,Ig-like V-type
+O75509,Repeat,50,88,TNFR-Cys 1
+O75509,Repeat,90,131,TNFR-Cys 2
+O75509,Repeat,133,167,TNFR-Cys 3
+O75509,Repeat,170,211,TNFR-Cys 4
+O75509,Domain,415,498,Death
+Q13705,Domain,190,480,Protein kinase
+P06756,Repeat,32,98,FG-GAP 1
+P06756,Repeat,109,170,FG-GAP 2
+P06756,Repeat,173,225,FG-GAP 3
+P06756,Repeat,237,291,FG-GAP 4
+P06756,Repeat,292,357,FG-GAP 5
+P06756,Repeat,358,415,FG-GAP 6
+P06756,Repeat,419,482,FG-GAP 7
+P38484,Domain,31,129,Fibronectin type-III 1
+P38484,Domain,142,240,Fibronectin type-III 2
+P16581,Domain,22,139,C-type lectin
+P16581,Domain,140,175,EGF-like
+P16581,Domain,178,239,Sushi 1
+P16581,Domain,240,301,Sushi 2
+P16581,Domain,303,364,Sushi 3
+P16581,Domain,366,427,Sushi 4
+P16581,Domain,429,490,Sushi 5
+P16581,Domain,491,549,Sushi 6
+Q9Y2C9,Repeat,54,77,LRR 1
+Q9Y2C9,Repeat,78,101,LRR 2
+Q9Y2C9,Repeat,102,122,LRR 3
+Q9Y2C9,Repeat,123,147,LRR 4
+Q9Y2C9,Repeat,148,168,LRR 5
+Q9Y2C9,Repeat,169,196,LRR 6
+Q9Y2C9,Repeat,197,219,LRR 7
+Q9Y2C9,Repeat,220,250,LRR 8
+Q9Y2C9,Repeat,251,277,LRR 9
+Q9Y2C9,Repeat,278,303,LRR 10
+Q9Y2C9,Repeat,304,330,LRR 11
+Q9Y2C9,Repeat,331,354,LRR 12
+Q9Y2C9,Repeat,355,378,LRR 13
+Q9Y2C9,Repeat,379,404,LRR 14
+Q9Y2C9,Repeat,405,429,LRR 15
+Q9Y2C9,Repeat,430,450,LRR 16
+Q9Y2C9,Repeat,451,474,LRR 17
+Q9Y2C9,Repeat,475,496,LRR 18
+Q9Y2C9,Repeat,497,520,LRR 19
+Q9Y2C9,Domain,521,575,LRRCT
+Q9Y2C9,Domain,640,784,TIR
+Q15109,Domain,23,116,Ig-like V-type
+Q15109,Domain,124,221,Ig-like C2-type 1
+Q15109,Domain,227,317,Ig-like C2-type 2
+P05106,Domain,135,377,VWFA
+P05106,Repeat,463,511,I
+P05106,Repeat,512,553,II
+P05106,Repeat,554,592,III
+P05106,Repeat,593,629,IV
+Q9Y6W8,Domain,30,132,Ig-like V-type
+P40189,Domain,26,120,Ig-like C2-type
+P40189,Domain,125,216,Fibronectin type-III 1
+P40189,Domain,224,324,Fibronectin type-III 2
+P40189,Domain,329,424,Fibronectin type-III 3
+P40189,Domain,426,517,Fibronectin type-III 4
+P40189,Domain,518,613,Fibronectin type-III 5
+P09848,Repeat,87,172,1
+P09848,Repeat,363,848,2
+P09848,Repeat,884,1365,3
+P09848,Repeat,1370,1841,4
+P19438,Repeat,43,82,TNFR-Cys 1
+P19438,Repeat,83,125,TNFR-Cys 2
+P19438,Repeat,126,166,TNFR-Cys 3
+P19438,Repeat,167,196,TNFR-Cys 4
+P19438,Domain,356,441,Death
+Q08174,Domain,58,168,Cadherin 1
+Q08174,Domain,169,280,Cadherin 2
+Q08174,Domain,281,387,Cadherin 3
+Q08174,Domain,396,506,Cadherin 4
+Q08174,Domain,507,612,Cadherin 5
+Q08174,Domain,613,715,Cadherin 6
+Q08174,Domain,718,844,Cadherin 7
+O95206,Domain,30,135,Cadherin 1
+O95206,Domain,136,245,Cadherin 2
+O95206,Domain,247,354,Cadherin 3
+O95206,Domain,393,497,Cadherin 4
+O95206,Domain,498,609,Cadherin 5
+O95206,Domain,615,723,Cadherin 6
+P15151,Domain,24,139,Ig-like V-type
+P15151,Domain,145,237,Ig-like C2-type 1
+P15151,Domain,244,328,Ig-like C2-type 2
+Q9Y6N7,Domain,68,164,Ig-like C2-type 1
+Q9Y6N7,Domain,170,257,Ig-like C2-type 2
+Q9Y6N7,Domain,262,346,Ig-like C2-type 3
+Q9Y6N7,Domain,351,446,Ig-like C2-type 4
+Q9Y6N7,Domain,455,541,Ig-like C2-type 5
+Q9Y6N7,Domain,563,657,Fibronectin type-III 1
+Q9Y6N7,Domain,676,773,Fibronectin type-III 2
+Q9Y6N7,Domain,778,874,Fibronectin type-III 3
+P08581,Domain,27,515,Sema
+P08581,Domain,563,655,IPT/TIG 1
+P08581,Domain,657,739,IPT/TIG 2
+P08581,Domain,742,836,IPT/TIG 3
+P08581,Domain,1078,1345,Protein kinase
+Q15223,Domain,31,141,Ig-like V-type
+Q15223,Domain,149,238,Ig-like C2-type 1
+Q15223,Domain,247,334,Ig-like C2-type 2
+Q92823,Domain,46,134,Ig-like 1
+Q92823,Domain,141,235,Ig-like 2
+Q92823,Domain,267,356,Ig-like 3
+Q92823,Domain,361,448,Ig-like 4
+Q92823,Domain,454,541,Ig-like 5
+Q92823,Domain,545,632,Ig-like 6
+Q92823,Domain,649,744,Fibronectin type-III 1
+Q92823,Domain,746,843,Fibronectin type-III 2
+Q92823,Domain,848,950,Fibronectin type-III 3
+Q92823,Domain,954,1051,Fibronectin type-III 4
+Q92823,Domain,1064,1156,Fibronectin type-III 5
+Q92692,Domain,32,156,Ig-like V-type
+Q92692,Domain,162,256,Ig-like C2-type 1
+Q92692,Domain,261,345,Ig-like C2-type 2
+Q96NY8,Domain,32,144,Ig-like V-type
+Q96NY8,Domain,148,237,Ig-like C2-type 1
+Q96NY8,Domain,248,331,Ig-like C2-type 2
+P20138,Domain,19,135,Ig-like V-type
+P20138,Domain,145,228,Ig-like C2-type
+P23471,Domain,36,300,Alpha-carbonic anhydrase
+P23471,Domain,314,413,Fibronectin type-III
+P23471,Domain,1717,1992,Tyrosine-protein phosphatase 1
+P23471,Domain,2023,2282,Tyrosine-protein phosphatase 2
+Q15399,Repeat,54,77,LRR 1
+Q15399,Repeat,78,101,LRR 2
+Q15399,Repeat,102,125,LRR 3
+Q15399,Repeat,126,150,LRR 4
+Q15399,Repeat,151,175,LRR 5
+Q15399,Repeat,176,199,LRR 6
+Q15399,Repeat,200,223,LRR 7
+Q15399,Repeat,224,250,LRR 8
+Q15399,Repeat,251,278,LRR 9
+Q15399,Repeat,279,308,LRR 10
+Q15399,Repeat,309,337,LRR 11
+Q15399,Repeat,338,361,LRR 12
+Q15399,Repeat,362,388,LRR 13
+Q15399,Repeat,389,414,LRR 14
+Q15399,Repeat,415,437,LRR 15
+Q15399,Repeat,438,457,LRR 16
+Q15399,Repeat,458,478,LRR 17
+Q15399,Repeat,479,500,LRR 18
+Q15399,Repeat,501,524,LRR 19
+Q15399,Domain,525,579,LRRCT
+Q15399,Domain,635,779,TIR
+Q8WWQ8,Domain,108,148,EGF-like 1
+Q8WWQ8,Domain,156,193,EGF-like 2
+Q8WWQ8,Domain,195,236,EGF-like 3
+Q8WWQ8,Domain,237,276,EGF-like 4
+Q8WWQ8,Domain,322,362,EGF-like 5
+Q8WWQ8,Domain,371,505,FAS1 1
+Q8WWQ8,Domain,515,652,FAS1 2
+Q8WWQ8,Domain,736,776,EGF-like 6
+Q8WWQ8,Domain,826,866,EGF-like 7
+Q8WWQ8,Domain,867,909,EGF-like 8
+Q8WWQ8,Domain,910,952,EGF-like 9
+Q8WWQ8,Domain,953,992,EGF-like 10
+Q8WWQ8,Domain,994,1127,FAS1 3
+Q8WWQ8,Domain,1137,1265,FAS1 4
+Q8WWQ8,Domain,1343,1408,Laminin EGF-like 1
+Q8WWQ8,Domain,1432,1470,EGF-like 11
+Q8WWQ8,Domain,1471,1512,EGF-like 12
+Q8WWQ8,Domain,1513,1554,EGF-like 13
+Q8WWQ8,Domain,1555,1594,EGF-like 14
+Q8WWQ8,Domain,1596,1724,FAS1 5
+Q8WWQ8,Domain,1740,1881,FAS1 6
+Q8WWQ8,Domain,1957,2022,Laminin EGF-like 2
+Q8WWQ8,Domain,2047,2081,EGF-like 15
+Q8WWQ8,Domain,2082,2122,EGF-like 16
+Q8WWQ8,Domain,2123,2165,EGF-like 17
+Q8WWQ8,Domain,2198,2291,Link
+Q8WWQ8,Domain,2311,2446,FAS1 7
+O60603,Repeat,54,77,LRR 1
+O60603,Repeat,78,101,LRR 2
+O60603,Repeat,102,125,LRR 3
+O60603,Repeat,126,150,LRR 4
+O60603,Repeat,151,175,LRR 5
+O60603,Repeat,176,199,LRR 6
+O60603,Repeat,200,223,LRR 7
+O60603,Repeat,224,250,LRR 8
+O60603,Repeat,251,278,LRR 9
+O60603,Repeat,279,308,LRR 10
+O60603,Repeat,309,337,LRR 11
+O60603,Repeat,338,361,LRR 12
+O60603,Repeat,362,388,LRR 13
+O60603,Repeat,389,414,LRR 14
+O60603,Repeat,415,437,LRR 15
+O60603,Repeat,438,457,LRR 16
+O60603,Repeat,458,478,LRR 17
+O60603,Repeat,479,500,LRR 18
+O60603,Repeat,501,524,LRR 19
+O60603,Domain,525,579,LRRCT
+O60603,Domain,639,784,TIR
+Q9Y5R2,Repeat,377,425,Hemopexin 1
+Q9Y5R2,Repeat,426,471,Hemopexin 2
+Q9Y5R2,Repeat,473,521,Hemopexin 3
+Q9Y5R2,Repeat,522,569,Hemopexin 4
+P07766,Domain,32,112,Ig-like
+P07766,Domain,178,205,ITAM
+P22223,Domain,108,215,Cadherin 1
+P22223,Domain,216,328,Cadherin 2
+P22223,Domain,329,440,Cadherin 3
+P22223,Domain,441,546,Cadherin 4
+P22223,Domain,547,650,Cadherin 5
+Q99466,Domain,24,63,EGF-like 1
+Q99466,Domain,64,115,EGF-like 2
+Q99466,Domain,118,155,EGF-like 3
+Q99466,Domain,156,192,EGF-like 4
+Q99466,Domain,194,232,EGF-like 5
+Q99466,Domain,234,274,EGF-like 6
+Q99466,Domain,276,312,EGF-like 7
+Q99466,Domain,314,353,EGF-like 8
+Q99466,Domain,355,391,EGF-like 9
+Q99466,Domain,392,430,EGF-like 10
+Q99466,Domain,432,473,EGF-like 11
+Q99466,Domain,475,511,EGF-like 12
+Q99466,Domain,513,549,EGF-like 13
+Q99466,Domain,551,587,EGF-like 14
+Q99466,Domain,589,625,EGF-like 15
+Q99466,Domain,626,659,EGF-like 16
+Q99466,Domain,661,689,EGF-like 17
+Q99466,Domain,691,727,EGF-like 18
+Q99466,Domain,729,765,EGF-like 19
+Q99466,Domain,767,803,EGF-like 20
+Q99466,Domain,806,842,EGF-like 21
+Q99466,Domain,844,880,EGF-like 22
+Q99466,Domain,882,928,EGF-like 23
+Q99466,Domain,930,966,EGF-like 24
+Q99466,Domain,968,1004,EGF-like 25
+Q99466,Domain,1006,1044,EGF-like 26
+Q99466,Domain,1046,1085,EGF-like 27
+Q99466,Domain,1087,1126,EGF-like 28
+Q99466,Domain,1130,1171,EGF-like 29
+Q99466,Repeat,1170,1213,LNR 1
+Q99466,Repeat,1214,1250,LNR 2
+Q99466,Repeat,1251,1294,LNR 3
+Q99466,Repeat,1633,1665,ANK 1
+Q99466,Repeat,1666,1698,ANK 2
+Q99466,Repeat,1700,1732,ANK 3
+Q99466,Repeat,1733,1765,ANK 4
+Q99466,Repeat,1766,1798,ANK 5
+O60500,Domain,27,130,Ig-like C2-type 1
+O60500,Domain,143,234,Ig-like C2-type 2
+O60500,Domain,242,333,Ig-like C2-type 3
+O60500,Domain,340,434,Ig-like C2-type 4
+O60500,Domain,440,540,Ig-like C2-type 5
+O60500,Domain,544,635,Ig-like C2-type 6
+O60500,Domain,740,832,Ig-like C2-type 7
+O60500,Domain,838,939,Ig-like C2-type 8
+O60500,Domain,943,1038,Fibronectin type-III
+Q02297,Domain,37,128,Ig-like C2-type
+Q02297,Domain,178,222,EGF-like
+P15509,Domain,220,320,Fibronectin type-III
+Q9BZA7,Domain,26,139,Cadherin 1
+Q9BZA7,Domain,140,249,Cadherin 2
+Q9BZA7,Domain,250,355,Cadherin 3
+Q9BZA7,Domain,362,466,Cadherin 4
+Q9BZA7,Domain,467,570,Cadherin 5
+Q9BZA7,Domain,571,673,Cadherin 6
+Q9BZA7,Domain,677,795,Cadherin 7
+Q92859,Domain,52,141,Ig-like C2-type 1
+Q92859,Domain,152,238,Ig-like C2-type 2
+Q92859,Domain,243,336,Ig-like C2-type 3
+Q92859,Domain,341,426,Ig-like C2-type 4
+Q92859,Domain,441,535,Fibronectin type-III 1
+Q92859,Domain,541,631,Fibronectin type-III 2
+Q92859,Domain,636,731,Fibronectin type-III 3
+Q92859,Domain,741,831,Fibronectin type-III 4
+Q92859,Domain,856,952,Fibronectin type-III 5
+Q92859,Domain,957,1054,Fibronectin type-III 6
+P55287,Domain,54,159,Cadherin 1
+P55287,Domain,160,268,Cadherin 2
+P55287,Domain,269,383,Cadherin 3
+P55287,Domain,384,486,Cadherin 4
+P55287,Domain,487,612,Cadherin 5
+P05362,Domain,41,103,Ig-like C2-type 1
+P05362,Domain,128,193,Ig-like C2-type 2
+P05362,Domain,230,297,Ig-like C2-type 3
+P05362,Domain,325,378,Ig-like C2-type 4
+P05362,Domain,412,464,Ig-like C2-type 5
+Q9BYE9,Domain,27,124,Cadherin 1
+Q9BYE9,Domain,125,241,Cadherin 2
+Q9BYE9,Domain,242,353,Cadherin 3
+Q9BYE9,Domain,368,480,Cadherin 4
+Q9BYE9,Domain,481,586,Cadherin 5
+Q9BYE9,Domain,586,695,Cadherin 6
+Q9BYE9,Domain,696,808,Cadherin 7
+Q9BYE9,Domain,810,928,Cadherin 8
+Q9BYE9,Domain,930,1058,Cadherin 9
+Q8IXH8,Domain,35,165,Cadherin 1
+Q8IXH8,Domain,166,275,Cadherin 2
+Q8IXH8,Domain,276,396,Cadherin 3
+Q8IXH8,Domain,397,500,Cadherin 4
+P06126,Domain,184,291,Ig-like
+P40259,Domain,38,138,Ig-like V-type
+P40259,Domain,185,213,ITAM
+P20916,Domain,22,120,Ig-like V-type
+P20916,Domain,139,237,Ig-like C2-type 1
+P20916,Domain,241,325,Ig-like C2-type 2
+P20916,Domain,327,412,Ig-like C2-type 3
+P20916,Domain,413,508,Ig-like C2-type 4
+Q9Y5Y7,Domain,40,130,Link
+Q15762,Domain,19,126,Ig-like C2-type 1
+Q15762,Domain,135,239,Ig-like C2-type 2
+Q6UXG3,Domain,19,121,Ig-like V-type
+Q6V0I7,Domain,43,135,Cadherin 1
+Q6V0I7,Domain,136,250,Cadherin 2
+Q6V0I7,Domain,251,353,Cadherin 3
+Q6V0I7,Domain,359,475,Cadherin 4
+Q6V0I7,Domain,476,582,Cadherin 5
+Q6V0I7,Domain,584,689,Cadherin 6
+Q6V0I7,Domain,690,793,Cadherin 7
+Q6V0I7,Domain,794,893,Cadherin 8
+Q6V0I7,Domain,894,996,Cadherin 9
+Q6V0I7,Domain,997,1100,Cadherin 10
+Q6V0I7,Domain,1101,1210,Cadherin 11
+Q6V0I7,Domain,1211,1315,Cadherin 12
+Q6V0I7,Domain,1316,1420,Cadherin 13
+Q6V0I7,Domain,1421,1529,Cadherin 14
+Q6V0I7,Domain,1529,1629,Cadherin 15
+Q6V0I7,Domain,1630,1740,Cadherin 16
+Q6V0I7,Domain,1741,1841,Cadherin 17
+Q6V0I7,Domain,1842,1944,Cadherin 18
+Q6V0I7,Domain,1945,2051,Cadherin 19
+Q6V0I7,Domain,2051,2154,Cadherin 20
+Q6V0I7,Domain,2155,2259,Cadherin 21
+Q6V0I7,Domain,2260,2364,Cadherin 22
+Q6V0I7,Domain,2365,2466,Cadherin 23
+Q6V0I7,Domain,2467,2567,Cadherin 24
+Q6V0I7,Domain,2568,2669,Cadherin 25
+Q6V0I7,Domain,2670,2773,Cadherin 26
+Q6V0I7,Domain,2773,2872,Cadherin 27
+Q6V0I7,Domain,2873,2983,Cadherin 28
+Q6V0I7,Domain,2984,3089,Cadherin 29
+Q6V0I7,Domain,3090,3194,Cadherin 30
+Q6V0I7,Domain,3195,3298,Cadherin 31
+Q6V0I7,Domain,3299,3404,Cadherin 32
+Q6V0I7,Domain,3405,3510,Cadherin 33
+Q6V0I7,Domain,3509,3620,Cadherin 34
+Q6V0I7,Domain,3802,3860,EGF-like 1
+Q6V0I7,Domain,3862,3898,EGF-like 2
+Q6V0I7,Domain,3900,3936,EGF-like 3
+Q6V0I7,Domain,3938,3974,EGF-like 4
+Q6V0I7,Domain,3975,4159,Laminin G-like 1
+Q6V0I7,Domain,4162,4198,EGF-like 5
+Q6V0I7,Domain,4217,4398,Laminin G-like 2
+Q6V0I7,Domain,4426,4463,EGF-like 6
+P58335,Domain,44,213,VWFA
+Q9NPF0,Domain,53,90,LDL-receptor class A 1
+Q9NPF0,Domain,131,168,LDL-receptor class A 2
+P31994,Domain,48,127,Ig-like C2-type 1
+P31994,Domain,131,213,Ig-like C2-type 2
+Q86VB7,Domain,51,152,SRCR 1
+Q86VB7,Domain,159,259,SRCR 2
+Q86VB7,Domain,266,366,SRCR 3
+Q86VB7,Domain,373,473,SRCR 4
+Q86VB7,Domain,478,578,SRCR 5
+Q86VB7,Domain,583,683,SRCR 6
+Q86VB7,Domain,719,819,SRCR 7
+Q86VB7,Domain,824,926,SRCR 8
+Q86VB7,Domain,929,1029,SRCR 9
+P54756,Domain,60,238,Eph LBD
+P54756,Domain,357,467,Fibronectin type-III 1
+P54756,Domain,468,562,Fibronectin type-III 2
+P54756,Domain,675,936,Protein kinase
+P54756,Domain,965,1029,SAM
+P56817,Domain,75,416,Peptidase A1
+Q29983,Domain,207,296,Ig-like C1-type
+P23229,Repeat,30,95,FG-GAP 1
+P23229,Repeat,101,166,FG-GAP 2
+P23229,Repeat,176,229,FG-GAP 3
+P23229,Repeat,283,339,FG-GAP 4
+P23229,Repeat,340,402,FG-GAP 5
+P23229,Repeat,403,458,FG-GAP 6
+P23229,Repeat,459,518,FG-GAP 7
+P42702,Domain,49,138,Fibronectin type-III 1
+P42702,Domain,335,434,Fibronectin type-III 2
+P42702,Domain,435,534,Fibronectin type-III 3
+P42702,Domain,538,629,Fibronectin type-III 4
+P42702,Domain,627,719,Fibronectin type-III 5
+P42702,Domain,724,833,Fibronectin type-III 6
+P31785,Domain,156,253,Fibronectin type-III
+P14778,Domain,23,110,Ig-like C2-type 1
+P14778,Domain,118,210,Ig-like C2-type 2
+P14778,Domain,226,328,Ig-like C2-type 3
+P14778,Domain,383,541,TIR
+O14672,Domain,220,456,Peptidase M12B
+O14672,Domain,457,551,Disintegrin
+P55289,Domain,55,160,Cadherin 1
+P55289,Domain,161,269,Cadherin 2
+P55289,Domain,270,384,Cadherin 3
+P55289,Domain,385,487,Cadherin 4
+P55289,Domain,488,609,Cadherin 5
+P09693,Domain,37,94,Ig-like
+P09693,Domain,149,177,ITAM
+P29320,Domain,29,207,Eph LBD
+P29320,Domain,325,435,Fibronectin type-III 1
+P29320,Domain,436,531,Fibronectin type-III 2
+P29320,Domain,621,882,Protein kinase
+P29320,Domain,911,975,SAM
+P55286,Domain,62,167,Cadherin 1
+P55286,Domain,168,276,Cadherin 2
+P55286,Domain,277,391,Cadherin 3
+P55286,Domain,392,494,Cadherin 4
+P55286,Domain,495,616,Cadherin 5
+P16410,Domain,39,140,Ig-like V-type
+P11362,Domain,25,119,Ig-like C2-type 1
+P11362,Domain,158,246,Ig-like C2-type 2
+P11362,Domain,255,357,Ig-like C2-type 3
+P11362,Domain,478,767,Protein kinase
+Q99965,Domain,178,375,Peptidase M12B
+Q99965,Domain,384,473,Disintegrin
+Q99965,Domain,612,645,EGF-like
+Q6ZTQ4,Domain,23,132,Cadherin 1
+Q6ZTQ4,Domain,136,236,Cadherin 2
+Q6ZTQ4,Domain,237,344,Cadherin 3
+Q6ZTQ4,Domain,346,466,Cadherin 4
+Q6ZTQ4,Domain,462,566,Cadherin 5
+Q6ZTQ4,Domain,567,695,Cadherin 6
+P55285,Domain,54,159,Cadherin 1
+P55285,Domain,160,268,Cadherin 2
+P55285,Domain,269,383,Cadherin 3
+P55285,Domain,384,486,Cadherin 4
+P55285,Domain,487,608,Cadherin 5
+P10912,Domain,151,254,Fibronectin type-III
+P29323,Domain,20,202,Eph LBD
+P29323,Domain,324,434,Fibronectin type-III 1
+P29323,Domain,435,530,Fibronectin type-III 2
+P29323,Domain,621,884,Protein kinase
+P29323,Domain,913,977,SAM
+P15391,Domain,20,113,Ig-like C2-type 1
+P15391,Domain,176,277,Ig-like C2-type 2
+Q13443,Domain,212,406,Peptidase M12B
+Q13443,Domain,414,501,Disintegrin
+Q13443,Domain,644,698,EGF-like
+P29017,Domain,206,296,Ig-like
+Q9Y5U5,Repeat,34,72,TNFR-Cys 1
+Q9Y5U5,Repeat,74,112,TNFR-Cys 2
+Q9Y5U5,Repeat,115,153,TNFR-Cys 3
+Q92956,Repeat,42,75,TNFR-Cys 1
+Q92956,Repeat,78,119,TNFR-Cys 2
+Q92956,Repeat,121,162,TNFR-Cys 3
+Q6ZN44,Domain,44,141,Ig-like
+Q6ZN44,Domain,155,234,Ig-like C2-type
+Q6ZN44,Domain,242,294,TSP type-1
+Q6ZN44,Domain,441,584,ZU5
+Q6ZN44,Domain,761,841,Death
+P30530,Domain,27,128,Ig-like C2-type 1
+P30530,Domain,139,222,Ig-like C2-type 2
+P30530,Domain,227,331,Fibronectin type-III 1
+P30530,Domain,336,428,Fibronectin type-III 2
+P30530,Domain,536,807,Protein kinase
+O75445,Domain,271,517,Laminin N-terminal
+O75445,Domain,518,574,Laminin EGF-like 1
+O75445,Domain,575,640,Laminin EGF-like 2
+O75445,Domain,641,693,Laminin EGF-like 3
+O75445,Domain,694,746,Laminin EGF-like 4
+O75445,Domain,747,794,Laminin EGF-like 5
+O75445,Domain,795,846,Laminin EGF-like 6
+O75445,Domain,847,899,Laminin EGF-like 7
+O75445,Domain,900,950,Laminin EGF-like 8
+O75445,Domain,951,1001,Laminin EGF-like 9
+O75445,Domain,1002,1052,Laminin EGF-like 10
+O75445,Domain,1058,1146,Fibronectin type-III 1
+O75445,Domain,1148,1244,Fibronectin type-III 2
+O75445,Domain,1245,1363,Fibronectin type-III 3
+O75445,Domain,1364,1468,Fibronectin type-III 4
+O75445,Domain,1517,1709,Laminin G-like 1
+O75445,Domain,1714,1891,Laminin G-like 2
+O75445,Domain,1869,1955,Fibronectin type-III 5
+O75445,Domain,1957,2054,Fibronectin type-III 6
+O75445,Domain,2055,2144,Fibronectin type-III 7
+O75445,Domain,2145,2239,Fibronectin type-III 8
+O75445,Domain,2243,2330,Fibronectin type-III 9
+O75445,Domain,2331,2433,Fibronectin type-III 10
+O75445,Domain,2437,2531,Fibronectin type-III 11
+O75445,Domain,2535,2622,Fibronectin type-III 12
+O75445,Domain,2624,2722,Fibronectin type-III 13
+O75445,Domain,2726,2819,Fibronectin type-III 14
+O75445,Domain,2820,2923,Fibronectin type-III 15
+O75445,Domain,2927,3018,Fibronectin type-III 16
+O75445,Domain,3022,3112,Fibronectin type-III 17
+O75445,Domain,3113,3209,Fibronectin type-III 18
+O75445,Domain,3403,3497,Fibronectin type-III 19
+O75445,Domain,3501,3589,Fibronectin type-III 20
+O75445,Domain,3592,3682,Fibronectin type-III 21
+O75445,Domain,3684,3770,Fibronectin type-III 22
+O75445,Domain,3774,3865,Fibronectin type-III 23
+O75445,Domain,3866,3963,Fibronectin type-III 24
+O75445,Domain,3964,4067,Fibronectin type-III 25
+O75445,Domain,4068,4153,Fibronectin type-III 26
+O75445,Domain,4157,4261,Fibronectin type-III 27
+O75445,Domain,4262,4357,Fibronectin type-III 28
+O75445,Domain,4358,4445,Fibronectin type-III 29
+O75445,Domain,4446,4530,Fibronectin type-III 30
+O75445,Domain,4534,4630,Fibronectin type-III 31
+O75445,Domain,4636,4733,Fibronectin type-III 32
+O75445,Domain,4734,4827,Fibronectin type-III 33
+O75445,Domain,4828,4927,Fibronectin type-III 34
+Q6UXZ4,Domain,54,151,Ig-like
+Q6UXZ4,Domain,153,244,Ig-like C2-type
+Q6UXZ4,Domain,252,306,TSP type-1 1
+Q6UXZ4,Domain,308,360,TSP type-1 2
+Q6UXZ4,Domain,542,682,ZU5
+Q6UXZ4,Domain,859,936,Death
+Q86SJ6,Domain,50,157,Cadherin 1
+Q86SJ6,Domain,158,269,Cadherin 2
+Q86SJ6,Domain,270,385,Cadherin 3
+Q86SJ6,Domain,386,497,Cadherin 4
+Q86SJ6,Repeat,884,909,Desmoglein repeat 1
+Q86SJ6,Repeat,910,940,Desmoglein repeat 2
+Q14574,Domain,136,243,Cadherin 1
+Q14574,Domain,244,355,Cadherin 2
+Q14574,Domain,356,471,Cadherin 3
+Q14574,Domain,472,579,Cadherin 4
+Q14574,Domain,580,690,Cadherin 5
+Q08554,Domain,135,242,Cadherin 1
+Q08554,Domain,243,354,Cadherin 2
+Q08554,Domain,355,471,Cadherin 3
+Q08554,Domain,472,575,Cadherin 4
+Q08554,Domain,576,682,Cadherin 5
+Q02487,Domain,136,243,Cadherin 1
+Q02487,Domain,244,355,Cadherin 2
+Q02487,Domain,356,471,Cadherin 3
+Q02487,Domain,472,579,Cadherin 4
+Q02487,Domain,580,694,Cadherin 5
+Q8TD84,Domain,19,119,Ig-like C2-type 1
+Q8TD84,Domain,115,217,Ig-like C2-type 2
+Q8TD84,Domain,226,306,Ig-like C2-type 3
+Q8TD84,Domain,314,402,Ig-like C2-type 4
+Q8TD84,Domain,408,501,Ig-like C2-type 5
+Q8TD84,Domain,506,586,Ig-like C2-type 6
+Q8TD84,Domain,596,685,Ig-like C2-type 7
+Q8TD84,Domain,690,784,Ig-like C2-type 8
+Q8TD84,Domain,788,885,Ig-like C2-type 9
+Q8TD84,Domain,887,984,Fibronectin type-III 1
+Q8TD84,Domain,989,1088,Fibronectin type-III 2
+Q8TD84,Domain,1093,1189,Fibronectin type-III 3
+Q8TD84,Domain,1193,1288,Fibronectin type-III 4
+Q8TD84,Domain,1278,1377,Ig-like C2-type 10
+Q8TD84,Domain,1383,1477,Fibronectin type-III 5
+Q8TD84,Domain,1478,1578,Fibronectin type-III 6
+Q08345,Domain,31,185,F5/8 type C
+Q08345,Domain,610,905,Protein kinase
+P32926,Domain,50,158,Cadherin 1
+P32926,Domain,159,268,Cadherin 2
+P32926,Domain,269,383,Cadherin 3
+P32926,Domain,386,499,Cadherin 4
+P32926,Repeat,910,935,Desmoglein repeat 1
+P32926,Repeat,936,966,Desmoglein repeat 2
+Q9HC73,Domain,118,211,Fibronectin type-III
+Q9H6X2,Domain,44,215,VWFA
+P22455,Domain,22,118,Ig-like C2-type 1
+P22455,Domain,152,240,Ig-like C2-type 2
+P22455,Domain,249,349,Ig-like C2-type 3
+P22455,Domain,467,755,Protein kinase
+Q16653,Domain,32,145,Ig-like V-type
+P43628,Domain,42,107,Ig-like C2-type 1
+P43628,Domain,142,205,Ig-like C2-type 2
+Q6P1J6,Repeat,39,347,1
+Q6P1J6,Repeat,362,707,2
+Q6P1J6,Repeat,708,1054,3
+Q6P1J6,Repeat,1064,1402,4
+Q15363,Domain,30,112,GOLD
+P23468,Domain,24,114,Ig-like C2-type 1
+P23468,Domain,126,224,Ig-like C2-type 2
+P23468,Domain,236,318,Ig-like C2-type 3
+P23468,Domain,325,415,Fibronectin type-III 1
+P23468,Domain,420,516,Fibronectin type-III 2
+P23468,Domain,518,607,Fibronectin type-III 3
+P23468,Domain,612,709,Fibronectin type-III 4
+P23468,Domain,714,822,Fibronectin type-III 5
+P23468,Domain,823,916,Fibronectin type-III 6
+P23468,Domain,921,1016,Fibronectin type-III 7
+P23468,Domain,1020,1106,Fibronectin type-III 8
+P23468,Domain,1357,1612,Tyrosine-protein phosphatase 1
+P23468,Domain,1644,1903,Tyrosine-protein phosphatase 2
+O43914,Domain,80,108,ITAM
+Q16620,Domain,32,61,LRRNT
+Q16620,Repeat,92,113,LRR 1
+Q16620,Repeat,116,137,LRR 2
+Q16620,Domain,148,196,LRRCT
+Q16620,Domain,197,282,Ig-like C2-type 1
+Q16620,Domain,295,365,Ig-like C2-type 2
+Q16620,Domain,538,807,Protein kinase
+O00533,Domain,35,124,Ig-like C2-type 1
+O00533,Domain,128,223,Ig-like C2-type 2
+O00533,Domain,235,328,Ig-like C2-type 3
+O00533,Domain,331,417,Ig-like C2-type 4
+O00533,Domain,423,510,Ig-like C2-type 5
+O00533,Domain,515,607,Ig-like C2-type 6
+O00533,Domain,614,709,Fibronectin type-III 1
+O00533,Domain,714,807,Fibronectin type-III 2
+O00533,Domain,809,914,Fibronectin type-III 3
+O00533,Domain,918,1015,Fibronectin type-III 4
+Q8TD46,Domain,53,139,Ig-like V-type
+Q8TD46,Domain,140,228,Ig-like C2-type
+Q9P246,Domain,67,102,EF-hand
+Q9P246,Domain,136,204,SAM
+P22897,Domain,22,142,Ricin B-type lectin
+P22897,Domain,163,211,Fibronectin type-II
+P22897,Domain,225,341,C-type lectin 1
+P22897,Domain,369,487,C-type lectin 2
+P22897,Domain,511,626,C-type lectin 3
+P22897,Domain,655,778,C-type lectin 4
+P22897,Domain,807,923,C-type lectin 5
+P22897,Domain,952,1080,C-type lectin 6
+P22897,Domain,1102,1213,C-type lectin 7
+P22897,Domain,1241,1356,C-type lectin 8
+P17693,Domain,209,299,Ig-like C1-type
+Q9Y6Q6,Repeat,34,68,TNFR-Cys 1
+Q9Y6Q6,Repeat,71,112,TNFR-Cys 2
+Q9Y6Q6,Repeat,114,151,TNFR-Cys 3
+Q9Y6Q6,Repeat,154,194,TNFR-Cys 4
+P01135,Domain,43,83,EGF-like
+Q13291,Domain,29,138,Ig-like V-type
+Q13291,Domain,144,223,Ig-like C2-type
+Q9H5Y7,Domain,27,67,LRRNT 1
+Q9H5Y7,Repeat,89,110,LRR 1
+Q9H5Y7,Repeat,113,134,LRR 2
+Q9H5Y7,Repeat,137,158,LRR 3
+Q9H5Y7,Repeat,161,182,LRR 4
+Q9H5Y7,Repeat,184,205,LRR 5
+Q9H5Y7,Domain,218,269,LRRCT 1
+Q9H5Y7,Domain,320,361,LRRNT 2
+Q9H5Y7,Repeat,364,385,LRR 6
+Q9H5Y7,Repeat,388,409,LRR 7
+Q9H5Y7,Repeat,412,433,LRR 8
+Q9H5Y7,Repeat,436,457,LRR 9
+Q9H5Y7,Repeat,460,481,LRR 10
+Q9H5Y7,Repeat,483,504,LRR 11
+Q9H5Y7,Domain,517,568,LRRCT 2
+Q9BQ51,Domain,21,118,Ig-like V-type
+Q9BQ51,Domain,122,203,Ig-like C2-type
+P01833,Domain,19,120,Ig-like V-type 1
+P01833,Domain,145,237,Ig-like V-type 2
+P01833,Domain,250,352,Ig-like V-type 3
+P01833,Domain,364,458,Ig-like V-type 4
+P01833,Domain,462,561,Ig-like V-type 5
+O75051,Domain,35,508,Sema
+O75051,Domain,858,951,IPT/TIG 1
+O75051,Domain,954,1037,IPT/TIG 2
+O75051,Domain,1041,1139,IPT/TIG 3
+O75051,Domain,1143,1228,IPT/TIG 4
+P51805,Domain,20,488,Sema
+P51805,Domain,840,933,IPT/TIG 1
+P51805,Domain,935,1020,IPT/TIG 2
+P51805,Domain,1023,1122,IPT/TIG 3
+P51805,Domain,1125,1211,IPT/TIG 4
+Q9HCM2,Domain,24,507,Sema
+Q9HCM2,Domain,509,559,PSI 1
+Q9HCM2,Domain,655,702,PSI 2
+Q9HCM2,Domain,803,856,PSI 3
+Q9HCM2,Domain,858,952,IPT/TIG 1
+Q9HCM2,Domain,954,1037,IPT/TIG 2
+Q9HCM2,Domain,1040,1139,IPT/TIG 3
+Q9HCM2,Domain,1142,1230,IPT/TIG 4
+Q92729,Domain,25,188,MAM
+Q92729,Domain,190,275,Ig-like C2-type
+Q92729,Domain,288,383,Fibronectin type-III 1
+Q92729,Domain,386,484,Fibronectin type-III 2
+Q92729,Domain,485,591,Fibronectin type-III 3
+Q92729,Domain,592,674,Fibronectin type-III 4
+Q92729,Domain,888,1144,Tyrosine-protein phosphatase 1
+Q92729,Domain,1176,1439,Tyrosine-protein phosphatase 2
+P11717,Repeat,40,189,1
+P11717,Repeat,190,344,2
+P11717,Repeat,345,489,3
+P11717,Repeat,490,643,4
+P11717,Repeat,644,783,5
+P11717,Repeat,784,950,6
+P11717,Repeat,951,1099,7
+P11717,Repeat,1100,1243,8
+P11717,Repeat,1244,1384,9
+P11717,Repeat,1385,1532,10
+P11717,Repeat,1533,1666,11
+P11717,Repeat,1667,1820,12
+P11717,Repeat,1821,2008,13
+P11717,Domain,1898,1944,Fibronectin type-II
+P11717,Repeat,2009,2137,14
+P11717,Repeat,2165,2289,15
+Q99650,Domain,335,428,Fibronectin type-III 1
+Q99650,Domain,433,528,Fibronectin type-III 2
+Q99650,Domain,529,623,Fibronectin type-III 3
+Q99650,Domain,625,736,Fibronectin type-III 4
+Q9HD43,Domain,32,121,Fibronectin type-III 1
+Q9HD43,Domain,122,209,Fibronectin type-III 2
+Q9HD43,Domain,210,299,Fibronectin type-III 3
+Q9HD43,Domain,300,387,Fibronectin type-III 4
+Q9HD43,Domain,388,477,Fibronectin type-III 5
+Q9HD43,Domain,478,563,Fibronectin type-III 6
+Q9HD43,Domain,564,666,Fibronectin type-III 7
+Q9HD43,Domain,665,749,Fibronectin type-III 8
+Q9HD43,Domain,820,1079,Tyrosine-protein phosphatase
+O14522,Domain,30,191,MAM
+O14522,Domain,193,284,Ig-like C2-type
+O14522,Domain,291,384,Fibronectin type-III 1
+O14522,Domain,389,483,Fibronectin type-III 2
+O14522,Domain,484,590,Fibronectin type-III 3
+O14522,Domain,591,726,Fibronectin type-III 4
+O14522,Domain,889,1143,Tyrosine-protein phosphatase 1
+O14522,Domain,1175,1437,Tyrosine-protein phosphatase 2
+P43632,Domain,42,107,Ig-like C2-type 1
+P43632,Domain,142,205,Ig-like C2-type 2
+P43489,Repeat,30,65,TNFR-Cys 1
+P43489,Repeat,66,107,TNFR-Cys 2
+P43489,Repeat,108,126,TNFR-Cys 3
+P43489,Repeat,127,167,TNFR-Cys 4
+P78324,Domain,32,137,Ig-like V-type
+P78324,Domain,148,247,Ig-like C1-type 1
+P78324,Domain,254,348,Ig-like C1-type 2
+Q9UIW2,Domain,27,512,Sema
+Q9UIW2,Domain,864,959,IPT/TIG 1
+Q9UIW2,Domain,961,1045,IPT/TIG 2
+Q9UIW2,Domain,1048,1147,IPT/TIG 3
+Q9UIW2,Domain,1150,1236,IPT/TIG 4
+Q9NPH3,Domain,21,128,Ig-like C2-type 1
+Q9NPH3,Domain,141,230,Ig-like C2-type 2
+Q9NPH3,Domain,242,348,Ig-like C2-type 3
+Q9NPH3,Domain,403,549,TIR
+Q13018,Domain,38,161,Ricin B-type lectin
+Q13018,Domain,173,221,Fibronectin type-II
+Q13018,Domain,238,355,C-type lectin 1
+Q13018,Domain,385,502,C-type lectin 2
+Q13018,Domain,522,643,C-type lectin 3
+Q13018,Domain,673,797,C-type lectin 4
+Q13018,Domain,819,938,C-type lectin 5
+Q13018,Domain,965,1096,C-type lectin 6
+Q13018,Domain,1121,1232,C-type lectin 7
+Q13018,Domain,1257,1378,C-type lectin 8
+Q01973,Domain,42,147,Ig-like C2-type
+Q01973,Domain,165,299,FZ
+Q01973,Domain,312,391,Kringle
+Q01973,Domain,473,746,Protein kinase
+Q8IZU9,Domain,48,142,Ig-like C2-type 1
+Q8IZU9,Domain,147,243,Ig-like C2-type 2
+Q8IZU9,Domain,249,330,Ig-like C2-type 3
+Q8IZU9,Domain,335,415,Ig-like C2-type 4
+Q8IZU9,Domain,419,515,Ig-like C2-type 5
+Q15116,Domain,35,145,Ig-like V-type
+P43630,Domain,42,102,Ig-like C2-type 1
+P43630,Domain,137,202,Ig-like C2-type 2
+P43630,Domain,237,300,Ig-like C2-type 3
+Q9H3R2,Domain,173,211,EGF-like 1
+Q9H3R2,Domain,212,336,SEA
+Q9H3R2,Domain,322,361,EGF-like 2
+Q9H3R2,Domain,363,404,EGF-like 3
+Q13332,Domain,33,123,Ig-like C2-type 1
+Q13332,Domain,135,233,Ig-like C2-type 2
+Q13332,Domain,245,327,Ig-like C2-type 3
+Q13332,Domain,334,424,Fibronectin type-III 1
+Q13332,Domain,429,523,Fibronectin type-III 2
+Q13332,Domain,527,616,Fibronectin type-III 3
+Q13332,Domain,621,718,Fibronectin type-III 4
+Q13332,Domain,723,831,Fibronectin type-III 5
+Q13332,Domain,832,930,Fibronectin type-III 6
+Q13332,Domain,931,1033,Fibronectin type-III 7
+Q13332,Domain,1036,1120,Fibronectin type-III 8
+Q13332,Domain,1393,1648,Tyrosine-protein phosphatase 1
+Q13332,Domain,1680,1939,Tyrosine-protein phosphatase 2
+O75096,Domain,26,67,LDL-receptor class A 1
+O75096,Domain,70,106,LDL-receptor class A 2
+O75096,Domain,109,144,LDL-receptor class A 3
+O75096,Domain,147,183,LDL-receptor class A 4
+O75096,Domain,190,226,LDL-receptor class A 5
+O75096,Domain,230,266,LDL-receptor class A 6
+O75096,Domain,269,305,LDL-receptor class A 7
+O75096,Domain,311,350,LDL-receptor class A 8
+O75096,Domain,354,394,EGF-like 1
+O75096,Domain,395,434,EGF-like 2
+O75096,Repeat,480,522,LDL-receptor class B 1
+O75096,Repeat,523,565,LDL-receptor class B 2
+O75096,Repeat,566,609,LDL-receptor class B 3
+O75096,Repeat,610,652,LDL-receptor class B 4
+O75096,Repeat,653,693,LDL-receptor class B 5
+O75096,Domain,698,737,EGF-like 3
+O75096,Repeat,785,827,LDL-receptor class B 6
+O75096,Repeat,828,870,LDL-receptor class B 7
+O75096,Repeat,871,914,LDL-receptor class B 8
+O75096,Repeat,915,956,LDL-receptor class B 9
+O75096,Repeat,957,998,LDL-receptor class B 10
+O75096,Repeat,1093,1135,LDL-receptor class B 11
+O75096,Repeat,1136,1178,LDL-receptor class B 12
+O75096,Repeat,1179,1222,LDL-receptor class B 13
+O75096,Repeat,1223,1263,LDL-receptor class B 14
+O75096,Repeat,1264,1306,LDL-receptor class B 15
+O75096,Repeat,1397,1439,LDL-receptor class B 16
+O75096,Repeat,1440,1482,LDL-receptor class B 17
+O75096,Repeat,1483,1526,LDL-receptor class B 18
+O75096,Repeat,1527,1568,LDL-receptor class B 19
+O75096,Repeat,1569,1610,LDL-receptor class B 20
+X5DNG6,Domain,77,158,CA
+X5DNG6,Domain,182,267,CA
+X5DNG6,Domain,291,383,CA
+X5DNG6,Domain,406,487,CA
+X5DNG6,Domain,510,594,CA
+Q8NB64,Domain,98,183,CA
+Q8NB64,Domain,207,298,CA
+Q8NB64,Domain,321,414,CA
+Q8NB64,Domain,437,521,CA
+Q8NB64,Domain,541,626,CA
+B2R9J8,Domain,82,163,CA
+B2R9J8,Domain,187,272,CA
+B2R9J8,Domain,296,388,CA
+B2R9J8,Domain,411,492,CA
+B2R9J8,Domain,515,602,CA
+D6RA20,Domain,45,131,CA
+D6RA20,Domain,155,240,CA
+D6RA20,Domain,264,348,CA
+D6RA20,Domain,372,453,CA
+D6RA20,Domain,477,563,CA
+D6RA20,Domain,594,676,CA
+A8KAM8,Domain,27,117,Ig-like
+A8KAM8,Domain,214,307,Ig-like
+A8KAM8,Domain,600,962,Protein kinase
+A0A087WXI5,Domain,27,116,Cadherin_pro
+A0A087WXI5,Domain,177,260,CA
+A0A087WXI5,Domain,284,373,CA
+A0A087WXI5,Domain,396,506,CA
+A0A087WXI5,Domain,529,614,CA
+A0A3B3ISU0,Domain,13,98,CA
+A0A3B3ISU0,Domain,122,210,CA
+A0A3B3ISU0,Domain,233,327,CA
+A0A3B3ISU0,Domain,350,432,CA
+A0A3B3ISU0,Domain,451,533,CA
+A8K2C5,Domain,82,163,CA
+A8K2C5,Domain,187,272,CA
+A8K2C5,Domain,296,388,CA
+A8K2C5,Domain,411,492,CA
+A8K2C5,Domain,515,602,CA
+A9X9K9,Domain,31,113,Cadherin_pro
+A9X9K9,Domain,156,241,CA
+A9X9K9,Domain,265,353,CA
+A9X9K9,Domain,376,470,CA
+A9X9K9,Domain,493,575,CA
+A9X9K9,Domain,594,676,CA
+Q96CZ9,Domain,76,157,CA
+Q96CZ9,Domain,181,266,CA
+Q96CZ9,Domain,290,382,CA
+Q96CZ9,Domain,405,486,CA
+Q96CZ9,Domain,513,600,CA
+A8K2P8,Domain,31,113,Cadherin_pro
+A8K2P8,Domain,156,241,CA
+A8K2P8,Domain,265,353,CA
+A8K2P8,Domain,376,470,CA
+A8K2P8,Domain,493,575,CA
+A8K2P8,Domain,594,676,CA
+Q59H34,Domain,65,151,CA
+Q59H34,Domain,175,260,CA
+Q59H34,Domain,284,368,CA
+Q59H34,Domain,392,473,CA
+Q59H34,Domain,497,583,CA
+Q59H34,Domain,614,696,CA
+A8K6T3,Domain,31,113,Cadherin_pro
+A8K6T3,Domain,156,241,CA
+A8K6T3,Domain,265,353,CA
+A8K6T3,Domain,376,470,CA
+A8K6T3,Domain,493,575,CA
+A8K6T3,Domain,594,676,CA
+Q6P4R2,Domain,31,146,CA
+Q6P4R2,Domain,170,255,CA
+Q6P4R2,Domain,279,363,CA
+Q6P4R2,Domain,387,467,CA
+Q6P4R2,Domain,491,577,CA
+Q6P4R2,Domain,607,688,CA
+A0A0U2ZQU7,Domain,27,116,Cadherin_pro
+A0A0U2ZQU7,Domain,177,260,CA
+A0A0U2ZQU7,Domain,284,373,CA
+A0A0U2ZQU7,Domain,396,485,CA
+A0A0U2ZQU7,Domain,508,593,CA
+A0A0G2JRA4,Domain,63,156,CA
+A0A0G2JRA4,Domain,179,263,CA
+A0A0G2JRA4,Domain,283,368,CA
+Q2TAL1,Domain,67,148,CA
+A0A0E3XJU3,Domain,27,116,Cadherin_pro
+A0A0E3XJU3,Domain,177,260,CA
+A0A0E3XJU3,Domain,284,373,CA
+A0A0E3XJU3,Domain,396,485,CA
+A0A0E3XJU3,Domain,508,593,CA
+B4DLF0,Domain,77,158,CA
+B4DLF0,Domain,182,271,CA
+B4DLF0,Domain,294,384,CA
+B4DLF0,Domain,407,491,CA
+A0A024RC30,Domain,70,155,CA
+A0A024RC30,Domain,179,265,CA
+A0A024RC30,Domain,288,382,CA
+A0A024RC30,Domain,409,493,CA
+A0A087WTR7,Domain,67,148,CA
+Q68DY8,Domain,31,119,CA
+Q68DY8,Domain,142,236,CA
+Q68DY8,Domain,259,341,CA
+Q68DY8,Domain,360,442,CA
+Q8N9J3,Domain,49,136,CA
+E9PD35,Domain,30,111,Ig-like
+E9PD35,Domain,219,326,Ig-like
+E9PD35,Domain,331,415,Ig-like
+E9PD35,Domain,422,552,Ig-like
+E9PD35,Domain,555,671,Ig-like
+E9PD35,Domain,678,764,Ig-like
+E9PD35,Domain,845,1173,Protein kinase
+Q59EA3,Domain,91,172,CA
+Q59EA3,Domain,196,279,CA
+Q59EA3,Domain,303,394,CA
+Q59EA3,Domain,416,500,CA
+Q59EA3,Domain,523,606,CA
+B4DMA7,Domain,59,140,CA
+B4DMA7,Domain,164,249,CA
+B4DMA7,Domain,273,365,CA
+B4DMA7,Domain,388,469,CA
+B4DMA7,Domain,496,583,CA
+A8K0L9,Domain,85,166,CA
+A8K0L9,Domain,190,275,CA
+A8K0L9,Domain,299,393,CA
+A8K0L9,Domain,416,497,CA
+A8K0L9,Domain,520,607,CA
+B4DTP0,Domain,20,112,CA
+B4DTP0,Domain,134,218,CA
+B4DTP0,Domain,241,324,CA
+D3DSM0,Domain,24,74,PSI
+D3DSM0,Domain,32,390,INB
+D3DSM0,Domain,565,643,Integrin_B_tail
+D3DSM0,Domain,667,712,Integrin_b_cyt
+A8K0L1,Domain,67,148,CA
+A8K0L1,Domain,172,257,CA
+A8K0L1,Domain,281,369,CA
+A8K0L1,Domain,396,477,CA
+L7RXH0,Repeat,32,98,FG-GAP
+L7RXH0,Repeat,109,170,FG-GAP
+L7RXH0,Repeat,173,225,FG-GAP
+L7RXH0,Repeat,237,291,FG-GAP
+L7RXH0,Repeat,292,357,FG-GAP
+L7RXH0,Repeat,358,415,FG-GAP
+L7RXH0,Repeat,419,482,FG-GAP
+L7RXH0,Domain,467,914,Integrin_alpha2
+Q59EQ1,Domain,78,159,CA
+Q59EQ1,Domain,183,268,CA
+Q59EQ1,Domain,292,384,CA
+Q59EQ1,Domain,407,488,CA
+Q59EQ1,Domain,515,602,CA
+A0A024R8K7,Domain,1129,1218,Fibronectin type-III
+A0A024R8K7,Domain,1222,1321,Fibronectin type-III
+A0A024R8K7,Domain,1460,1555,Fibronectin type-III
+A0A024R8K7,Domain,1573,1669,Fibronectin type-III
+B4DFP0,Domain,1,79,CA
+B4DFP0,Domain,102,189,CA
+J3KRI5,Domain,84,165,CA
+J3KRI5,Domain,189,274,CA
+J3KRI5,Domain,298,390,CA
+J3KRI5,Domain,413,494,CA
+J3KRI5,Domain,517,604,CA
+B2RCN5,Domain,30,121,Cadherin_pro
+B2RCN5,Domain,190,275,CA
+B2RCN5,Domain,299,390,CA
+B2RCN5,Domain,413,506,CA
+B2RCN5,Domain,529,613,CA
+B2RCN5,Domain,633,718,CA
+Q9NR97,Repeat,126,147,LRR 1
+Q9NR97,Repeat,148,168,LRR 2
+Q9NR97,Repeat,171,193,LRR 3
+Q9NR97,Repeat,202,223,LRR 4
+Q9NR97,Repeat,224,244,LRR 5
+Q9NR97,Repeat,247,268,LRR 6
+Q9NR97,Repeat,288,309,LRR 7
+Q9NR97,Repeat,312,334,LRR 8
+Q9NR97,Repeat,338,360,LRR 9
+Q9NR97,Repeat,368,389,LRR 10
+Q9NR97,Repeat,395,416,LRR 11
+Q9NR97,Repeat,419,440,LRR 12
+Q9NR97,Repeat,482,503,LRR 13
+Q9NR97,Repeat,506,527,LRR 14
+Q9NR97,Repeat,531,551,LRR 15
+Q9NR97,Repeat,555,577,LRR 16
+Q9NR97,Repeat,585,606,LRR 17
+Q9NR97,Repeat,609,630,LRR 18
+Q9NR97,Repeat,640,661,LRR 19
+Q9NR97,Repeat,665,685,LRR 20
+Q9NR97,Repeat,689,710,LRR 21
+Q9NR97,Repeat,713,734,LRR 22
+Q9NR97,Repeat,737,758,LRR 23
+Q9NR97,Domain,772,824,LRRCT
+Q9NR97,Domain,878,1025,TIR
+Q02846,Domain,525,808,Protein kinase
+Q02846,Domain,880,1010,Guanylate cyclase
+Q9NY15,Domain,110,148,EGF-like 1
+Q9NY15,Domain,156,193,EGF-like 2
+Q9NY15,Domain,195,229,EGF-like 3
+Q9NY15,Domain,232,271,EGF-like 4
+Q9NY15,Domain,356,494,FAS1 1
+Q9NY15,Domain,506,641,FAS1 2
+Q9NY15,Domain,728,768,EGF-like 5
+Q9NY15,Domain,818,858,EGF-like 6
+Q9NY15,Domain,861,903,EGF-like 7
+Q9NY15,Domain,904,946,EGF-like 8
+Q9NY15,Domain,947,986,EGF-like 9
+Q9NY15,Domain,988,1118,FAS1 3
+Q9NY15,Domain,1128,1253,FAS1 4
+Q9NY15,Domain,1327,1392,Laminin EGF-like 1
+Q9NY15,Domain,1416,1454,EGF-like 10
+Q9NY15,Domain,1455,1496,EGF-like 11
+Q9NY15,Domain,1497,1539,EGF-like 12
+Q9NY15,Domain,1540,1582,EGF-like 13
+Q9NY15,Domain,1582,1708,FAS1 5
+Q9NY15,Domain,1724,1864,FAS1 6
+Q9NY15,Domain,1966,2031,Laminin EGF-like 2
+Q9NY15,Domain,2056,2090,EGF-like 14
+Q9NY15,Domain,2091,2131,EGF-like 15
+Q9NY15,Domain,2132,2174,EGF-like 16
+Q9NY15,Domain,2206,2301,Link
+Q9NY15,Domain,2322,2459,FAS1 7
+Q06418,Domain,41,128,Ig-like C2-type 1
+Q06418,Domain,139,220,Ig-like C2-type 2
+Q06418,Domain,227,320,Fibronectin type-III 1
+Q06418,Domain,325,416,Fibronectin type-III 2
+Q06418,Domain,518,790,Protein kinase
+L7RSL3,Domain,32,107,Ig-like
+L7RSL3,Domain,230,327,Ig-like
+L7RSL3,Domain,349,404,Ig-like
+L7RSL3,Domain,428,553,Ig-like
+L7RSL3,Domain,556,654,Ig-like
+L7RSL3,Domain,661,747,Ig-like
+L7RSL3,Domain,827,1158,Protein kinase
+H3BUU9,Domain,55,140,CA
+H3BUU9,Domain,164,256,CA
+H3BUU9,Domain,279,360,CA
+H3BUU9,Domain,387,474,CA
+Q4VAI4,Domain,68,149,CA
+Q4VAI4,Domain,173,256,CA
+Q4VAI4,Domain,280,371,CA
+Q4VAI4,Domain,378,461,CA
+Q59GD1,Domain,63,149,CA
+Q59GD1,Domain,173,258,CA
+Q59GD1,Domain,282,363,CA
+Q59GD1,Domain,387,468,CA
+Q59GD1,Domain,492,578,CA
+Q59GD1,Domain,609,687,CA
+D3XNU5,Domain,27,116,Cadherin_pro
+D3XNU5,Domain,177,260,CA
+D3XNU5,Domain,284,373,CA
+D3XNU5,Domain,396,485,CA
+D3XNU5,Domain,508,593,CA
+Q59H01,Domain,8,94,CA
+Q59H01,Domain,118,203,CA
+Q59H01,Domain,227,308,CA
+Q59H01,Domain,332,413,CA
+Q59H01,Domain,437,523,CA
+Q59H01,Domain,554,632,CA
+B4DU18,Domain,68,149,CA
+B4DU18,Domain,150,222,CA
+B4DU18,Domain,246,337,CA
+B4DU18,Domain,359,443,CA
+B4DU18,Domain,466,549,CA
+B3KRT0,Domain,16,97,CA
+B3KRT0,Domain,120,207,CA
+A9X9L0,Domain,31,113,Cadherin_pro
+A9X9L0,Domain,156,241,CA
+A9X9L0,Domain,265,353,CA
+A9X9L0,Domain,376,470,CA
+A9X9L0,Domain,493,575,CA
+A9X9L0,Domain,594,676,CA
+C9JA99,Domain,45,131,CA
+C9JA99,Domain,155,240,CA
+C9JA99,Domain,264,348,CA
+C9JA99,Domain,372,453,CA
+C9JA99,Domain,477,563,CA
+C9JA99,Domain,594,676,CA
+Q63HM4,Domain,13,98,CA
+Q63HM4,Domain,122,210,CA
+Q63HM4,Domain,233,327,CA
+Q63HM4,Domain,350,432,CA
+Q63HM4,Domain,451,533,CA
+Q59H32,Domain,48,160,CA
+Q59H32,Domain,184,269,CA
+Q59H32,Domain,293,374,CA
+Q59H32,Domain,398,479,CA
+Q59H32,Domain,503,589,CA
+Q59H32,Domain,620,698,CA
+A0A140VJM0,Repeat,38,103,FG-GAP
+A0A140VJM0,Repeat,110,171,FG-GAP
+A0A140VJM0,Repeat,185,235,FG-GAP
+A0A140VJM0,Repeat,236,292,FG-GAP
+A0A140VJM0,Repeat,293,354,FG-GAP
+A0A140VJM0,Repeat,356,411,FG-GAP
+A0A140VJM0,Repeat,415,477,FG-GAP
+A0A140VJM0,Domain,462,916,Integrin_alpha2
+D3DPA4,Domain,178,207,GS
+D3DPA4,Domain,208,502,Protein kinase
+X6R3Y6,Domain,84,165,CA
+X6R3Y6,Domain,189,274,CA
+X6R3Y6,Domain,298,390,CA
+X6R3Y6,Domain,413,494,CA
+X6R3Y6,Domain,517,604,CA
+A0A087WX99,Domain,96,181,CA
+A0A087WX99,Domain,205,296,CA
+A0A087WX99,Domain,319,412,CA
+A0A087WX99,Domain,435,519,CA
+A0A087WX99,Domain,539,624,CA
+H3BN02,Repeat,23,78,FG-GAP
+H3BN02,Repeat,79,138,FG-GAP
+H3BN02,Domain,151,329,VWFA
+H3BN02,Repeat,340,391,FG-GAP
+H3BN02,Repeat,392,443,FG-GAP
+H3BN02,Repeat,444,504,FG-GAP
+H3BN02,Repeat,507,565,FG-GAP
+H3BN02,Repeat,570,630,FG-GAP
+A0A0U2N547,Domain,212,308,Ig-like
+A0A0U2N547,Domain,585,932,Protein kinase
+A0A384P5C6,Domain,177,221,DSL
+A0A384P5C6,Domain,255,286,EGF-like
+A0A384P5C6,Domain,288,326,EGF-like
+A0A384P5C6,Domain,328,364,EGF-like
+A0A384P5C6,Domain,366,403,EGF-like
+A0A384P5C6,Domain,405,441,EGF-like
+A0A384P5C6,Domain,443,479,EGF-like
+A0A384P5C6,Domain,481,517,EGF-like
+Q59H35,Domain,62,148,CA
+Q59H35,Domain,172,257,CA
+Q59H35,Domain,281,365,CA
+Q59H35,Domain,389,470,CA
+Q59H35,Domain,494,580,CA
+Q59H35,Domain,611,693,CA
+A0A024RC29,Domain,31,113,Cadherin_pro
+A0A024RC29,Domain,156,241,CA
+A0A024RC29,Domain,265,353,CA
+A0A024RC29,Domain,376,470,CA
+A0A024RC29,Domain,493,575,CA
+A0A024RC29,Domain,594,676,CA
+A0A024RC42,Domain,31,123,Cadherin_pro
+A0A024RC42,Domain,182,265,CA
+A0A024RC42,Domain,289,380,CA
+A0A024RC42,Domain,403,496,CA
+A0A024RC42,Domain,519,603,CA
+A0A024RC42,Domain,623,708,CA
+D2JYI1,Domain,269,569,Protein kinase
+X5D8X5,Domain,77,158,CA
+X5D8X5,Domain,182,267,CA
+X5D8X5,Domain,291,383,CA
+X5D8X5,Domain,406,487,CA
+X5D8X5,Domain,510,594,CA
+Q9UII7,Domain,27,116,Cadherin_pro
+Q9UII7,Domain,177,260,CA
+Q9UII7,Domain,284,373,CA
+Q9UII7,Domain,396,504,CA
+Q9UII7,Domain,527,612,CA
+A0A024R8T0,Domain,1129,1218,Fibronectin type-III
+A0A024R8T0,Domain,1222,1321,Fibronectin type-III
+A0A024R8T0,Domain,1530,1625,Fibronectin type-III
+A0A024R8T0,Domain,1643,1739,Fibronectin type-III
+A0A024R2B2,Domain,70,151,CA
+A0A024R2B2,Domain,175,260,CA
+A0A024R2B2,Domain,284,376,CA
+A0A024R2B2,Domain,399,480,CA
+A0A024R2B2,Domain,503,590,CA
+A3QNQ0,Domain,244,544,Protein kinase
+B4DLJ5,Domain,31,113,Cadherin_pro
+B4DLJ5,Domain,169,254,CA
+B4DLJ5,Domain,278,366,CA
+B4DLJ5,Domain,389,481,CA
+B4DLJ5,Domain,504,586,CA
+B4DLJ5,Domain,605,687,CA
+P34925,Domain,66,194,WIF
+P34925,Domain,330,603,Protein kinase
+Q5DID0,Domain,33,106,EMI
+Q5DID0,Domain,114,158,WAP
+Q5DID0,Domain,264,313,EGF-like 1
+Q5DID0,Domain,314,398,Fibronectin type-III 1
+Q5DID0,Domain,396,510,SEA 1
+Q5DID0,Domain,507,552,EGF-like 2
+Q5DID0,Domain,702,791,Fibronectin type-III 2
+Q5DID0,Domain,788,900,SEA 2
+Q5DID0,Domain,897,938,EGF-like 3
+Q5DID0,Domain,992,1235,ZP
+Q9Y336,Domain,20,140,Ig-like V-type
+Q9Y336,Domain,146,229,Ig-like C2-type 1
+Q9Y336,Domain,236,336,Ig-like C2-type 2
+Q8IW00,Domain,24,155,Ig-like
+Q9H7M9,Domain,33,168,Ig-like V-type
+P60852,Domain,234,274,P-type
+P60852,Domain,279,553,ZP
+Q05996,Domain,371,637,ZP
+Q96KV6,Domain,28,139,Ig-like V-type
+Q96KV6,Domain,281,474,B30.2/SPRY
+Q9NR16,Domain,48,148,SRCR 1
+Q9NR16,Domain,155,255,SRCR 2
+Q9NR16,Domain,262,362,SRCR 3
+Q9NR16,Domain,369,469,SRCR 4
+Q9NR16,Domain,476,576,SRCR 5
+Q9NR16,Domain,583,683,SRCR 6
+Q9NR16,Domain,690,790,SRCR 7
+Q9NR16,Domain,795,895,SRCR 8
+Q9NR16,Domain,900,1000,SRCR 9
+Q9NR16,Domain,1036,1136,SRCR 10
+Q9NR16,Domain,1141,1243,SRCR 11
+Q9NR16,Domain,1246,1346,SRCR 12
+P51693,Domain,50,212,E1
+P51693,Domain,293,484,E2
+Q9BZ76,Domain,31,177,F5/8 type C
+Q9BZ76,Domain,183,364,Laminin G-like 1
+Q9BZ76,Domain,370,545,Laminin G-like 2
+Q9BZ76,Domain,551,583,EGF-like 1
+Q9BZ76,Domain,584,792,Fibrinogen C-terminal
+Q9BZ76,Domain,793,958,Laminin G-like 3
+Q9BZ76,Domain,962,996,EGF-like 2
+Q9BZ76,Domain,1015,1203,Laminin G-like 4
+Q9HCU0,Domain,30,156,C-type lectin
+Q9HCU0,Domain,162,232,Sushi
+Q9HCU0,Domain,312,351,EGF-like
+Q9H4D0,Domain,44,160,Cadherin 1
+Q9H4D0,Domain,161,280,Cadherin 2
+P78357,Domain,25,168,F5/8 type C
+P78357,Domain,203,355,Laminin G-like 1
+P78357,Domain,389,538,Laminin G-like 2
+P78357,Domain,540,577,EGF-like 1
+P78357,Domain,576,795,Fibrinogen C-terminal
+P78357,Domain,813,956,Laminin G-like 3
+P78357,Domain,957,996,EGF-like 2
+P78357,Domain,1088,1250,Laminin G-like 4
+P09958,Domain,121,435,Peptidase S8
+P09958,Domain,444,576,P/Homo B
+P09958,Repeat,577,620,FU 1
+P09958,Repeat,638,681,FU 2
+Q86T13,Domain,33,173,C-type lectin
+Q86T13,Domain,245,287,EGF-like
+O94985,Domain,38,164,Cadherin 1
+O94985,Domain,165,265,Cadherin 2
+Q9BQT9,Domain,29,145,Cadherin 1
+Q9BQT9,Domain,146,246,Cadherin 2
+P36888,Domain,253,343,Ig-like C2-type
+P36888,Domain,610,943,Protein kinase
+Q06481,Domain,46,205,E1
+Q06481,Domain,306,364,BPTI/Kunitz inhibitor
+Q06481,Domain,373,564,E2
+Q9C0A0,Domain,31,177,F5/8 type C
+Q9C0A0,Domain,212,364,Laminin G-like 1
+Q9C0A0,Domain,398,547,Laminin G-like 2
+Q9C0A0,Domain,549,586,EGF-like 1
+Q9C0A0,Domain,587,792,Fibrinogen C-terminal
+Q9C0A0,Domain,793,957,Laminin G-like 3
+Q9C0A0,Domain,958,997,EGF-like 2
+Q9C0A0,Domain,1046,1202,Laminin G-like 4
+P17927,Domain,42,101,Sushi 1
+P17927,Domain,102,163,Sushi 2
+P17927,Domain,164,234,Sushi 3
+P17927,Domain,236,295,Sushi 4
+P17927,Domain,295,355,Sushi 5
+P17927,Domain,356,418,Sushi 6
+P17927,Domain,419,489,Sushi 7
+P17927,Domain,491,551,Sushi 8
+P17927,Domain,552,613,Sushi 9
+P17927,Domain,614,684,Sushi 10
+P17927,Domain,686,745,Sushi 11
+P17927,Domain,745,805,Sushi 12
+P17927,Domain,806,868,Sushi 13
+P17927,Domain,869,939,Sushi 14
+P17927,Domain,941,1001,Sushi 15
+P17927,Domain,1002,1063,Sushi 16
+P17927,Domain,1064,1134,Sushi 17
+P17927,Domain,1136,1195,Sushi 18
+P17927,Domain,1195,1255,Sushi 19
+P17927,Domain,1256,1318,Sushi 20
+P17927,Domain,1319,1389,Sushi 21
+P17927,Domain,1394,1454,Sushi 22
+P17927,Domain,1455,1516,Sushi 23
+P17927,Domain,1517,1587,Sushi 24
+P17927,Domain,1589,1648,Sushi 25
+P17927,Domain,1648,1708,Sushi 26
+P17927,Domain,1709,1771,Sushi 27
+P17927,Domain,1772,1842,Sushi 28
+P17927,Domain,1846,1906,Sushi 29
+P17927,Domain,1907,1967,Sushi 30
+P20023,Domain,21,84,Sushi 1
+P20023,Domain,89,148,Sushi 2
+P20023,Domain,152,212,Sushi 3
+P20023,Domain,213,273,Sushi 4
+P20023,Domain,274,344,Sushi 5
+P20023,Domain,349,408,Sushi 6
+P20023,Domain,409,468,Sushi 7
+P20023,Domain,469,524,Sushi 8
+P20023,Domain,525,595,Sushi 9
+P20023,Domain,600,659,Sushi 10
+P20023,Domain,660,716,Sushi 11
+P20023,Domain,717,781,Sushi 12
+P20023,Domain,786,845,Sushi 13
+P20023,Domain,849,909,Sushi 14
+P20023,Domain,910,970,Sushi 15
+Q9Y6N8,Domain,55,160,Cadherin 1
+Q9Y6N8,Domain,161,269,Cadherin 2
+Q9Y6N8,Domain,270,384,Cadherin 3
+Q9Y6N8,Domain,385,487,Cadherin 4
+Q9Y6N8,Domain,488,606,Cadherin 5
+Q9UJ99,Domain,64,168,Cadherin 1
+Q9UJ99,Domain,169,277,Cadherin 2
+Q9UJ99,Domain,278,394,Cadherin 3
+Q9UJ99,Domain,395,498,Cadherin 4
+Q9UJ99,Domain,499,616,Cadherin 5
+P19021,Repeat,498,541,NHL 1
+P19021,Repeat,567,608,NHL 2
+P19021,Repeat,617,662,NHL 3
+P19021,Repeat,670,714,NHL 4
+P19021,Repeat,766,809,NHL 5
+Q86WK7,Domain,25,61,LRRNT
+Q86WK7,Repeat,62,83,LRR 1
+Q86WK7,Repeat,86,107,LRR 2
+Q86WK7,Repeat,110,133,LRR 3
+Q86WK7,Repeat,134,155,LRR 4
+Q86WK7,Repeat,158,178,LRR 5
+Q86WK7,Repeat,184,207,LRR 6
+Q86WK7,Domain,219,275,LRRCT
+Q86WK7,Domain,277,370,Ig-like C2-type
+Q13444,Domain,213,414,Peptidase M12B
+Q13444,Domain,421,508,Disintegrin
+Q13444,Domain,657,685,EGF-like
+Q04771,Domain,178,207,GS
+Q04771,Domain,208,502,Protein kinase
+O95727,Domain,18,114,Ig-like V-type
+O95727,Domain,118,210,Ig-like C2-type
+Q9Y5Z0,Domain,92,429,Peptidase A1
+Q8N3J6,Domain,27,119,Ig-like V-type
+Q8N3J6,Domain,127,219,Ig-like C2-type 1
+Q8N3J6,Domain,227,312,Ig-like C2-type 2
+A6H8M9,Domain,237,338,Cadherin 1
+A6H8M9,Domain,339,449,Cadherin 2
+A6H8M9,Domain,444,554,Cadherin 3
+A6H8M9,Domain,551,674,Cadherin 4
+O95185,Domain,62,159,Ig-like
+O95185,Domain,161,256,Ig-like C2-type
+O95185,Domain,260,314,TSP type-1 1
+O95185,Domain,316,368,TSP type-1 2
+O95185,Domain,530,673,ZU5
+O95185,Domain,850,929,Death
+Q96J42,Domain,153,296,Thioredoxin
+Q5T2D2,Domain,20,121,Ig-like V-type
+P43627,Domain,42,107,Ig-like C2-type 1
+P43627,Domain,142,205,Ig-like C2-type 2
+P29376,Domain,510,786,Protein kinase
+O60449,Domain,33,156,Ricin B-type lectin
+O60449,Domain,164,211,Fibronectin type-II
+O60449,Domain,225,341,C-type lectin 1
+O60449,Domain,368,486,C-type lectin 2
+O60449,Domain,493,625,C-type lectin 3
+O60449,Domain,652,778,C-type lectin 4
+O60449,Domain,818,931,C-type lectin 5
+O60449,Domain,958,1091,C-type lectin 6
+O60449,Domain,1110,1222,C-type lectin 7
+O60449,Domain,1251,1374,C-type lectin 8
+O60449,Domain,1401,1513,C-type lectin 9
+O60449,Domain,1542,1661,C-type lectin 10
+Q9Y5H5,Domain,30,133,Cadherin 1
+Q9Y5H5,Domain,134,242,Cadherin 2
+Q9Y5H5,Domain,243,350,Cadherin 3
+Q9Y5H5,Domain,351,455,Cadherin 4
+Q9Y5H5,Domain,456,565,Cadherin 5
+Q9Y5H5,Domain,588,678,Cadherin 6
+Q9Y5H5,Repeat,734,737,PXXP 1
+Q9Y5H5,Repeat,799,802,PXXP 2
+Q9Y5H5,Repeat,832,835,PXXP 3
+Q9Y5H5,Repeat,873,876,PXXP 4
+Q9Y5H5,Repeat,891,894,PXXP 5
+O60486,Domain,35,452,Sema
+Q96LA5,Domain,20,98,Ig-like C2-type 1
+Q96LA5,Domain,109,187,Ig-like C2-type 2
+Q96LA5,Domain,201,290,Ig-like C2-type 3
+Q96LA5,Domain,300,387,Ig-like C2-type 4
+Q96RD9,Domain,23,101,Ig-like C2-type 1
+Q96RD9,Domain,188,271,Ig-like C2-type 2
+Q96RD9,Domain,287,374,Ig-like C2-type 3
+Q96RD9,Domain,380,463,Ig-like C2-type 4
+Q96RD9,Domain,473,556,Ig-like C2-type 5
+Q96RD9,Domain,566,651,Ig-like C2-type 6
+Q96RD9,Domain,659,744,Ig-like C2-type 7
+Q96RD9,Domain,752,834,Ig-like C2-type 8
+O14669,Domain,50,96,Gla
+Q6UXZ0,Domain,30,114,Ig-like C2-type 1
+Q6UXZ0,Domain,122,207,Ig-like C2-type 2
+Q96BF3,Domain,23,129,Ig-like
+Q9P1W8,Domain,29,137,Ig-like V-type
+Q9P1W8,Domain,146,245,Ig-like C1-type 1
+Q9P1W8,Domain,252,340,Ig-like C1-type 2
+Q9H156,Repeat,63,84,LRR 1
+Q9H156,Repeat,87,108,LRR 2
+Q9H156,Repeat,111,132,LRR 3
+Q9H156,Repeat,135,156,LRR 4
+Q9H156,Repeat,159,180,LRR 5
+Q9H156,Repeat,182,203,LRR 6
+Q9H156,Domain,216,265,LRRCT 1
+Q9H156,Domain,331,373,LRRNT
+Q9H156,Repeat,376,397,LRR 7
+Q9H156,Repeat,400,421,LRR 8
+Q9H156,Repeat,424,445,LRR 9
+Q9H156,Repeat,448,469,LRR 10
+Q9H156,Repeat,472,493,LRR 11
+Q9H156,Repeat,495,516,LRR 12
+Q9H156,Domain,529,580,LRRCT 2
+Q13445,Domain,43,125,GOLD
+Q9BVK6,Domain,47,145,GOLD
+O14668,Domain,21,66,Gla
+Q86YD3,Domain,30,123,Ig-like
+Q8WXI7,Repeat,12067,12223,1
+Q8WXI7,Domain,12072,12193,SEA 1
+Q8WXI7,Repeat,12224,12381,2
+Q8WXI7,Domain,12228,12349,SEA 2
+Q8WXI7,Repeat,12382,12537,3
+Q8WXI7,Domain,12386,12507,SEA 3
+Q8WXI7,Repeat,12538,12692,4
+Q8WXI7,Domain,12542,12663,SEA 4
+Q8WXI7,Repeat,12693,12848,5
+Q8WXI7,Domain,12697,12818,SEA 5
+Q8WXI7,Repeat,12849,13004,6
+Q8WXI7,Domain,12853,12974,SEA 6
+Q8WXI7,Repeat,13005,13160,7
+Q8WXI7,Domain,13009,13130,SEA 7
+Q8WXI7,Repeat,13161,13316,8
+Q8WXI7,Domain,13165,13286,SEA 8
+Q8WXI7,Repeat,13317,13472,9
+Q8WXI7,Domain,13321,13442,SEA 9
+Q8WXI7,Repeat,13473,13628,10
+Q8WXI7,Domain,13477,13598,SEA 10
+Q8WXI7,Repeat,13629,13784,11
+Q8WXI7,Domain,13633,13754,SEA 11
+Q8WXI7,Repeat,13785,13939,12
+Q8WXI7,Domain,13789,13909,SEA 12
+Q8WXI7,Domain,13922,14043,SEA 13
+Q8WXI7,Domain,14073,14193,SEA 14
+Q8WXI7,Domain,14198,14309,SEA 15
+Q8WXI7,Domain,14319,14438,SEA 16
+Q9HCK4,Domain,31,127,Ig-like C2-type 1
+Q9HCK4,Domain,133,220,Ig-like C2-type 2
+Q9HCK4,Domain,225,309,Ig-like C2-type 3
+Q9HCK4,Domain,314,409,Ig-like C2-type 4
+Q9HCK4,Domain,418,504,Ig-like C2-type 5
+Q9HCK4,Domain,524,618,Fibronectin type-III 1
+Q9HCK4,Domain,637,735,Fibronectin type-III 2
+Q9HCK4,Domain,739,836,Fibronectin type-III 3
+P40200,Domain,38,125,Ig-like V-type 1
+P40200,Domain,156,238,Ig-like V-type 2
+P40200,Domain,269,375,Ig-like C2-type
+Q8N3G9,Domain,147,233,PKD
+A8MXK1,Domain,37,139,Ig-like C2-type
+Q13308,Domain,31,120,Ig-like C2-type 1
+Q13308,Domain,128,218,Ig-like C2-type 2
+Q13308,Domain,225,317,Ig-like C2-type 3
+Q13308,Domain,309,407,Ig-like C2-type 4
+Q13308,Domain,412,497,Ig-like C2-type 5
+Q13308,Domain,503,586,Ig-like C2-type 6
+Q13308,Domain,578,680,Ig-like C2-type 7
+Q13308,Domain,796,1066,Protein kinase
+Q9C0C4,Domain,30,497,Sema
+Q9C0C4,Domain,499,551,PSI
+Q9C0C4,Domain,556,644,Ig-like C2-type
+Q9NTN9,Domain,35,505,Sema
+Q9NTN9,Domain,507,558,PSI
+Q9NTN9,Domain,567,649,Ig-like C2-type
+Q9Y4C0,Domain,28,202,Laminin G-like 1
+Q9Y4C0,Domain,198,235,EGF-like 1
+Q9Y4C0,Domain,258,440,Laminin G-like 2
+Q9Y4C0,Domain,447,639,Laminin G-like 3
+Q9Y4C0,Domain,643,680,EGF-like 2
+Q9Y4C0,Domain,685,857,Laminin G-like 4
+Q9Y4C0,Domain,871,1046,Laminin G-like 5
+Q9Y4C0,Domain,1049,1086,EGF-like 3
+Q9Y4C0,Domain,1090,1260,Laminin G-like 6
+Q9UKN1,Repeat,222,240,1
+Q9UKN1,Repeat,471,489,2
+Q9UKN1,Repeat,499,517,3
+Q9UKN1,Repeat,662,680,4
+Q9UKN1,Repeat,827,845,5
+Q9UKN1,Repeat,1159,1177,6
+Q9UKN1,Repeat,1466,1484,7
+Q9UKN1,Repeat,1633,1651,8
+Q9UKN1,Repeat,1717,1735,9
+Q9UKN1,Repeat,1882,1900,10
+Q9UKN1,Repeat,1910,1928,11
+Q9UKN1,Repeat,2075,2093,12
+Q9UKN1,Repeat,2242,2260,13
+Q9UKN1,Repeat,2549,2567,14
+Q9UKN1,Repeat,2716,2734,15
+Q9UKN1,Repeat,3023,3041,16
+Q9UKN1,Repeat,3190,3208,17
+Q9UKN1,Repeat,3274,3292,18
+Q9UKN1,Repeat,3439,3457,19
+Q9UKN1,Repeat,3467,3485,20
+Q9UKN1,Repeat,3632,3650,21
+Q9UKN1,Repeat,3799,3817,22
+Q9UKN1,Repeat,4106,4124,23
+Q9UKN1,Repeat,4273,4291,24
+Q9UKN1,Repeat,4522,4540,25
+Q9UKN1,Repeat,4550,4568,26
+Q9UKN1,Repeat,4715,4733,27
+Q9UKN1,Repeat,4743,4761,28
+Q9UKN1,Domain,5116,5154,EGF-like
+Q9UKN1,Domain,5168,5275,SEA
+Q9Y5H2,Domain,30,134,Cadherin 1
+Q9Y5H2,Domain,135,243,Cadherin 2
+Q9Y5H2,Domain,244,348,Cadherin 3
+Q9Y5H2,Domain,349,453,Cadherin 4
+Q9Y5H2,Domain,454,563,Cadherin 5
+Q9Y5H2,Domain,571,677,Cadherin 6
+Q9Y5H9,Domain,30,133,Cadherin 1
+Q9Y5H9,Domain,157,242,Cadherin 2
+Q9Y5H9,Domain,243,350,Cadherin 3
+Q9Y5H9,Domain,351,455,Cadherin 4
+Q9Y5H9,Domain,456,565,Cadherin 5
+Q9Y5H9,Domain,588,678,Cadherin 6
+Q9Y5H9,Repeat,734,737,PXXP 1
+Q9Y5H9,Repeat,797,800,PXXP 2
+Q9Y5H9,Repeat,830,833,PXXP 3
+Q9Y5H9,Repeat,871,874,PXXP 4
+Q9Y5H9,Repeat,889,892,PXXP 5
+Q9UN71,Domain,31,133,Cadherin 1
+Q9UN71,Domain,134,242,Cadherin 2
+Q9UN71,Domain,243,345,Cadherin 3
+Q9UN71,Domain,346,450,Cadherin 4
+Q9UN71,Domain,451,560,Cadherin 5
+Q9UN71,Domain,568,673,Cadherin 6
+Q9UBN6,Repeat,58,97,TNFR-Cys 1
+Q9UBN6,Repeat,98,139,TNFR-Cys 2
+Q9UBN6,Repeat,140,180,TNFR-Cys 3
+Q9UBN6,Domain,340,366,Death
+A6NMB1,Domain,19,122,Ig-like V-type
+A6NMB1,Domain,147,232,Ig-like C2-type 1
+A6NMB1,Domain,238,322,Ig-like C2-type 2
+A6NMB1,Domain,327,424,Ig-like C2-type 3
+P10586,Domain,33,123,Ig-like C2-type 1
+P10586,Domain,135,224,Ig-like C2-type 2
+P10586,Domain,232,314,Ig-like C2-type 3
+P10586,Domain,321,411,Fibronectin type-III 1
+P10586,Domain,416,510,Fibronectin type-III 2
+P10586,Domain,514,604,Fibronectin type-III 3
+P10586,Domain,609,706,Fibronectin type-III 4
+P10586,Domain,711,819,Fibronectin type-III 5
+P10586,Domain,820,914,Fibronectin type-III 6
+P10586,Domain,918,1010,Fibronectin type-III 7
+P10586,Domain,1014,1098,Fibronectin type-III 8
+P10586,Domain,1352,1607,Tyrosine-protein phosphatase 1
+P10586,Domain,1639,1898,Tyrosine-protein phosphatase 2
+Q9H3T3,Domain,31,523,Sema
+Q53EL9,Domain,355,414,Sushi 1
+Q53EL9,Domain,416,527,CUB 1
+Q53EL9,Domain,530,591,Sushi 2
+Q53EL9,Domain,593,704,CUB 2
+Q53EL9,Domain,708,767,Sushi 3
+Q53EL9,Domain,769,832,Sushi 4
+Q53EL9,Domain,836,897,Sushi 5
+Q9Y286,Domain,39,122,Ig-like V-type
+Q9Y286,Domain,150,233,Ig-like C2-type 1
+Q9Y286,Domain,240,336,Ig-like C2-type 2
+Q9NSI5,Domain,39,139,Ig-like V-type 1
+Q9NSI5,Domain,142,231,Ig-like V-type 2
+Q9Y5G4,Domain,29,133,Cadherin 1
+Q9Y5G4,Domain,134,242,Cadherin 2
+Q9Y5G4,Domain,243,347,Cadherin 3
+Q9Y5G4,Domain,348,452,Cadherin 4
+Q9Y5G4,Domain,453,562,Cadherin 5
+Q9Y5G4,Domain,570,683,Cadherin 6
+P40967,Domain,255,292,PKD
+P40967,Repeat,315,327,1
+P40967,Repeat,328,340,2
+P40967,Repeat,341,353,3
+P40967,Repeat,354,366,4
+P40967,Repeat,367,379,5
+P40967,Repeat,380,392,6
+P40967,Repeat,393,405,7
+P40967,Repeat,406,418,8
+P40967,Repeat,419,431,9
+P40967,Repeat,432,444,10
+Q96PX8,Domain,18,57,LRRNT 1
+Q96PX8,Repeat,59,80,LRR 1
+Q96PX8,Repeat,83,104,LRR 2
+Q96PX8,Repeat,106,128,LRR 3
+Q96PX8,Repeat,131,152,LRR 4
+Q96PX8,Repeat,155,176,LRR 5
+Q96PX8,Repeat,178,199,LRR 6
+Q96PX8,Domain,212,263,LRRCT 1
+Q96PX8,Domain,332,373,LRRNT 2
+Q96PX8,Repeat,376,397,LRR 7
+Q96PX8,Repeat,400,421,LRR 8
+Q96PX8,Repeat,424,445,LRR 9
+Q96PX8,Repeat,448,469,LRR 10
+Q96PX8,Repeat,472,493,LRR 11
+Q96PX8,Repeat,495,516,LRR 12
+Q96PX8,Domain,529,580,LRRCT 2
+Q9HBG7,Domain,48,158,Ig-like V-type 1
+Q9HBG7,Domain,159,235,Ig-like C2-type 1
+Q9HBG7,Domain,251,363,Ig-like V-type 2
+Q9HBG7,Domain,364,452,Ig-like C2-type 2
+Q9UN72,Domain,30,133,Cadherin 1
+Q9UN72,Domain,134,242,Cadherin 2
+Q9UN72,Domain,243,350,Cadherin 3
+Q9UN72,Domain,351,455,Cadherin 4
+Q9UN72,Domain,456,565,Cadherin 5
+Q9UN72,Domain,581,678,Cadherin 6
+Q9UN72,Repeat,774,777,PXXP 1
+Q9UN72,Repeat,786,789,PXXP 2
+Q9UN72,Repeat,819,822,PXXP 3
+Q9UN72,Repeat,860,863,PXXP 4
+Q9UN72,Repeat,878,881,PXXP 5
+Q9Y5H3,Domain,33,137,Cadherin 1
+Q9Y5H3,Domain,138,246,Cadherin 2
+Q9Y5H3,Domain,247,351,Cadherin 3
+Q9Y5H3,Domain,352,456,Cadherin 4
+Q9Y5H3,Domain,457,566,Cadherin 5
+Q9Y5H3,Domain,574,687,Cadherin 6
+Q9Y5G6,Domain,29,133,Cadherin 1
+Q9Y5G6,Domain,134,242,Cadherin 2
+Q9Y5G6,Domain,243,347,Cadherin 3
+Q9Y5G6,Domain,348,452,Cadherin 4
+Q9Y5G6,Domain,453,562,Cadherin 5
+Q9Y5G6,Domain,570,682,Cadherin 6
+O94933,Repeat,78,99,LRR 1
+O94933,Repeat,102,123,LRR 2
+O94933,Repeat,126,147,LRR 3
+O94933,Repeat,150,171,LRR 4
+O94933,Repeat,174,195,LRR 5
+O94933,Repeat,197,218,LRR 6
+O94933,Domain,232,283,LRRCT 1
+O94933,Domain,364,406,LRRNT
+O94933,Repeat,409,430,LRR 7
+O94933,Repeat,433,454,LRR 8
+O94933,Repeat,457,478,LRR 9
+O94933,Repeat,481,502,LRR 10
+O94933,Repeat,505,526,LRR 11
+O94933,Repeat,528,549,LRR 12
+O94933,Domain,562,613,LRRCT 2
+Q9NQ25,Domain,23,124,Ig-like V-type
+Q9NQ25,Domain,131,206,Ig-like C2-type
+O43291,Domain,38,88,BPTI/Kunitz inhibitor 1
+O43291,Domain,133,183,BPTI/Kunitz inhibitor 2
+Q9H3T2,Domain,30,516,Sema
+Q58EX2,Domain,26,108,Ig-like C2-type 1
+Q58EX2,Domain,113,200,Ig-like C2-type 2
+Q58EX2,Domain,215,294,Ig-like C2-type 3
+Q58EX2,Domain,308,396,Ig-like C2-type 4
+Q58EX2,Domain,402,491,Ig-like C2-type 5
+Q58EX2,Domain,496,585,Ig-like C2-type 6
+Q58EX2,Domain,592,688,Fibronectin type-III 1
+Q58EX2,Domain,693,789,Fibronectin type-III 2
+Q58EX2,Domain,794,893,Fibronectin type-III 3
+Q58EX2,Domain,897,991,Fibronectin type-III 4
+Q58EX2,Domain,995,1094,Fibronectin type-III 5
+Q58EX2,Domain,1099,1197,Fibronectin type-III 6
+Q58EX2,Domain,1202,1299,Fibronectin type-III 7
+Q58EX2,Domain,1303,1397,Fibronectin type-III 8
+Q58EX2,Domain,1402,1499,Fibronectin type-III 9
+Q58EX2,Domain,1504,1621,Fibronectin type-III 10
+Q58EX2,Domain,1626,1722,Fibronectin type-III 11
+Q58EX2,Domain,1726,1821,Fibronectin type-III 12
+Q58EX2,Domain,1824,1923,Fibronectin type-III 13
+W5XKT8,Domain,150,236,Ig-like
+P43121,Domain,24,129,Ig-like V-type 1
+P43121,Domain,139,242,Ig-like V-type 2
+P43121,Domain,244,330,Ig-like C2-type 1
+P43121,Domain,335,424,Ig-like C2-type 2
+P43121,Domain,430,510,Ig-like C2-type 3
+Q14392,Domain,21,48,LRRNT
+Q14392,Repeat,50,73,LRR 1
+Q14392,Repeat,74,95,LRR 2
+Q14392,Repeat,98,119,LRR 3
+Q14392,Repeat,125,145,LRR 4
+Q14392,Repeat,150,171,LRR 5
+Q14392,Repeat,174,195,LRR 6
+Q14392,Repeat,198,219,LRR 7
+Q14392,Repeat,220,240,LRR 8
+Q14392,Repeat,244,265,LRR 9
+Q14392,Repeat,266,286,LRR 10
+Q14392,Repeat,316,339,LRR 11
+Q14392,Repeat,340,363,LRR 12
+Q14392,Repeat,364,385,LRR 13
+Q14392,Repeat,387,408,LRR 14
+Q14392,Repeat,411,432,LRR 15
+Q14392,Repeat,444,465,LRR 16
+Q14392,Repeat,467,488,LRR 17
+Q14392,Repeat,492,513,LRR 18
+Q14392,Repeat,515,536,LRR 19
+Q14392,Repeat,537,558,LRR 20
+Q14392,Domain,571,620,LRRCT
+Q9HCJ2,Domain,45,76,LRRNT
+Q9HCJ2,Repeat,77,98,LRR 1
+Q9HCJ2,Repeat,101,122,LRR 2
+Q9HCJ2,Repeat,125,146,LRR 3
+Q9HCJ2,Repeat,149,170,LRR 4
+Q9HCJ2,Repeat,173,195,LRR 5
+Q9HCJ2,Repeat,198,219,LRR 6
+Q9HCJ2,Repeat,220,241,LRR 7
+Q9HCJ2,Repeat,244,265,LRR 8
+Q9HCJ2,Repeat,268,289,LRR 9
+Q9HCJ2,Domain,301,353,LRRCT
+Q9HCJ2,Domain,354,442,Ig-like C2-type
+Q7Z5N4,Domain,104,186,Ig-like C2-type 1
+Q7Z5N4,Domain,191,277,Ig-like C2-type 2
+Q7Z5N4,Domain,293,378,Ig-like C2-type 3
+Q7Z5N4,Domain,386,476,Ig-like C2-type 4
+Q7Z5N4,Domain,480,569,Ig-like C2-type 5
+Q7Z5N4,Domain,574,663,Ig-like C2-type 6
+Q7Z5N4,Domain,670,766,Fibronectin type-III 1
+Q7Z5N4,Domain,771,867,Fibronectin type-III 2
+Q7Z5N4,Domain,872,970,Fibronectin type-III 3
+Q7Z5N4,Domain,974,1068,Fibronectin type-III 4
+Q7Z5N4,Domain,1072,1171,Fibronectin type-III 5
+Q7Z5N4,Domain,1176,1274,Fibronectin type-III 6
+Q7Z5N4,Domain,1279,1376,Fibronectin type-III 7
+Q7Z5N4,Domain,1380,1474,Fibronectin type-III 8
+Q7Z5N4,Domain,1479,1576,Fibronectin type-III 9
+Q7Z5N4,Domain,1581,1699,Fibronectin type-III 10
+Q7Z5N4,Domain,1704,1800,Fibronectin type-III 11
+Q7Z5N4,Domain,1804,1899,Fibronectin type-III 12
+Q7Z5N4,Domain,1902,2000,Fibronectin type-III 13
+Q8IVU1,Domain,36,139,Ig-like C2-type 1
+Q8IVU1,Domain,140,220,Ig-like C2-type 2
+Q8IVU1,Domain,238,321,Ig-like C2-type 3
+Q8IVU1,Domain,329,416,Ig-like C2-type 4
+Q8IVU1,Domain,426,520,Fibronectin type-III 1
+Q8IVU1,Domain,523,618,Fibronectin type-III 2
+P32927,Domain,133,240,Fibronectin type-III 1
+P32927,Domain,339,436,Fibronectin type-III 2
+Q96JA1,Domain,35,68,LRRNT
+Q96JA1,Repeat,69,90,LRR 1
+Q96JA1,Repeat,93,114,LRR 2
+Q96JA1,Repeat,116,137,LRR 3
+Q96JA1,Repeat,140,161,LRR 4
+Q96JA1,Repeat,164,185,LRR 5
+Q96JA1,Repeat,189,210,LRR 6
+Q96JA1,Repeat,212,233,LRR 7
+Q96JA1,Repeat,236,257,LRR 8
+Q96JA1,Repeat,260,281,LRR 9
+Q96JA1,Repeat,284,305,LRR 10
+Q96JA1,Repeat,308,329,LRR 11
+Q96JA1,Repeat,332,353,LRR 12
+Q96JA1,Repeat,356,378,LRR 13
+Q96JA1,Repeat,383,404,LRR 14
+Q96JA1,Repeat,407,428,LRR 15
+Q96JA1,Domain,440,491,LRRCT
+Q96JA1,Domain,495,594,Ig-like C2-type 1
+Q96JA1,Domain,599,688,Ig-like C2-type 2
+Q96JA1,Domain,693,779,Ig-like C2-type 3
+O94898,Domain,41,75,LRRNT
+O94898,Repeat,76,97,LRR 1
+O94898,Repeat,98,119,LRR 2
+O94898,Repeat,121,142,LRR 3
+O94898,Repeat,145,166,LRR 4
+O94898,Repeat,168,189,LRR 5
+O94898,Repeat,193,214,LRR 6
+O94898,Repeat,216,237,LRR 7
+O94898,Repeat,240,261,LRR 8
+O94898,Repeat,264,285,LRR 9
+O94898,Repeat,288,309,LRR 10
+O94898,Repeat,312,333,LRR 11
+O94898,Repeat,336,357,LRR 12
+O94898,Repeat,360,382,LRR 13
+O94898,Repeat,387,408,LRR 14
+O94898,Repeat,411,432,LRR 15
+O94898,Domain,443,494,LRRCT
+O94898,Domain,498,597,Ig-like C2-type 1
+O94898,Domain,602,691,Ig-like C2-type 2
+O94898,Domain,696,785,Ig-like C2-type 3
+Q14952,Domain,42,107,Ig-like C2-type 1
+Q14952,Domain,142,205,Ig-like C2-type 2
+O75019,Domain,27,116,Ig-like C2-type 1
+O75019,Domain,119,224,Ig-like C2-type 2
+O75019,Domain,226,315,Ig-like C2-type 3
+O75019,Domain,326,415,Ig-like C2-type 4
+Q96GP6,Domain,71,110,EGF-like 1
+Q96GP6,Domain,122,153,EGF-like 2
+Q96GP6,Domain,148,182,EGF-like 3
+Q96GP6,Domain,183,212,EGF-like 4
+Q96GP6,Domain,213,241,EGF-like 5
+Q96GP6,Domain,236,270,EGF-like 6
+Q96GP6,Domain,372,403,EGF-like 7
+Q9NP84,Repeat,36,67,TNFR-Cys
+O14763,Repeat,57,94,TNFR-Cys 1
+O14763,Repeat,97,137,TNFR-Cys 2
+O14763,Repeat,138,178,TNFR-Cys 3
+O14763,Repeat,192,206,TAPE
+O14763,Domain,339,422,Death
+Q6UXD5,Domain,173,286,CUB 1
+Q6UXD5,Domain,288,347,Sushi 1
+Q6UXD5,Domain,349,459,CUB 2
+Q6UXD5,Domain,462,525,Sushi 2
+Q6UXD5,Domain,527,638,CUB 3
+Q6UXD5,Domain,642,701,Sushi 3
+Q6UXD5,Domain,703,766,Sushi 4
+Q6UXD5,Domain,769,830,Sushi 5
+Q92896,Repeat,116,149,Cys-rich GLG1 1
+Q92896,Repeat,150,212,Cys-rich GLG1 2
+Q92896,Repeat,215,278,Cys-rich GLG1 3
+Q92896,Repeat,286,346,Cys-rich GLG1 4
+Q92896,Repeat,347,413,Cys-rich GLG1 5
+Q92896,Repeat,414,473,Cys-rich GLG1 6
+Q92896,Repeat,475,537,Cys-rich GLG1 7
+Q92896,Repeat,538,604,Cys-rich GLG1 8
+Q92896,Repeat,609,668,Cys-rich GLG1 9
+Q92896,Repeat,670,728,Cys-rich GLG1 10
+Q92896,Repeat,729,788,Cys-rich GLG1 11
+Q92896,Repeat,796,856,Cys-rich GLG1 12
+Q92896,Repeat,858,911,Cys-rich GLG1 13
+Q92896,Repeat,912,979,Cys-rich GLG1 14
+Q92896,Repeat,980,1035,Cys-rich GLG1 15
+Q92896,Repeat,1041,1101,Cys-rich GLG1 16
+Q9H2E6,Domain,24,512,Sema
+Q14162,Domain,53,87,EGF-like 1
+Q14162,Domain,95,130,EGF-like 2
+Q14162,Domain,155,191,EGF-like 3
+Q14162,Domain,215,249,EGF-like 4
+Q14162,Domain,302,339,EGF-like 5
+Q14162,Domain,351,382,EGF-like 6
+O15455,Domain,24,51,LRRNT
+O15455,Repeat,52,73,LRR 1
+O15455,Repeat,76,97,LRR 2
+O15455,Repeat,100,121,LRR 3
+O15455,Repeat,124,145,LRR 4
+O15455,Repeat,148,168,LRR 5
+O15455,Repeat,172,193,LRR 6
+O15455,Repeat,198,219,LRR 7
+O15455,Repeat,222,244,LRR 8
+O15455,Repeat,249,270,LRR 9
+O15455,Repeat,275,296,LRR 10
+O15455,Repeat,299,320,LRR 11
+O15455,Repeat,323,344,LRR 12
+O15455,Repeat,356,377,LRR 13
+O15455,Repeat,380,400,LRR 14
+O15455,Repeat,408,429,LRR 15
+O15455,Repeat,432,454,LRR 16
+O15455,Repeat,465,486,LRR 17
+O15455,Repeat,507,528,LRR 18
+O15455,Repeat,531,552,LRR 19
+O15455,Repeat,563,584,LRR 20
+O15455,Repeat,587,608,LRR 21
+O15455,Repeat,611,632,LRR 22
+O15455,Domain,645,698,LRRCT
+O15455,Domain,754,896,TIR
+Q86YW5,Domain,16,121,Ig-like V-type
+Q9NY72,Domain,32,154,Ig-like C2-type
+Q9UIK5,Domain,85,137,Kazal-like 1
+Q9UIK5,Domain,176,229,Kazal-like 2
+Q9UIK5,Domain,261,301,EGF-like
+Q9H159,Domain,44,148,Cadherin 1
+Q9H159,Domain,149,256,Cadherin 2
+Q9H159,Domain,257,370,Cadherin 3
+Q9H159,Domain,371,470,Cadherin 4
+Q9H159,Domain,470,581,Cadherin 5
+Q92637,Domain,22,101,Ig-like C2-type 1
+Q92637,Domain,95,184,Ig-like C2-type 2
+P12318,Domain,39,118,Ig-like C2-type 1
+P12318,Domain,122,204,Ig-like C2-type 2
+Q9C0I4,Domain,40,98,TSP type-1 1
+Q9C0I4,Domain,102,177,TSP type-1 2
+Q9C0I4,Domain,179,233,TSP type-1 3
+Q9C0I4,Domain,336,392,TSP type-1 4
+Q9C0I4,Domain,399,482,TSP type-1 5
+Q9C0I4,Domain,484,543,TSP type-1 6
+Q9C0I4,Domain,601,661,TSP type-1 7
+Q9C0I4,Domain,662,735,TSP type-1 8
+Q9C0I4,Domain,737,796,TSP type-1 9
+Q9C0I4,Domain,797,869,TSP type-1 10
+Q9C0I4,Domain,871,924,TSP type-1 11
+Q9C0I4,Domain,925,998,TSP type-1 12
+Q9C0I4,Domain,1000,1125,TSP type-1 13
+Q9C0I4,Domain,1127,1181,TSP type-1 14
+Q9C0I4,Domain,1182,1245,TSP type-1 15
+Q9C0I4,Domain,1247,1302,TSP type-1 16
+Q9C0I4,Domain,1303,1368,TSP type-1 17
+Q9C0I4,Domain,1370,1431,TSP type-1 18
+Q9H2U9,Domain,199,394,Peptidase M12B
+Q9H2U9,Domain,402,488,Disintegrin
+Q495A1,Domain,22,124,Ig-like V-type
+Q13261,Domain,31,95,Sushi
+Q9P2E7,Domain,19,122,Cadherin 1
+Q9P2E7,Domain,123,250,Cadherin 2
+Q9P2E7,Domain,251,358,Cadherin 3
+Q9P2E7,Domain,359,463,Cadherin 4
+Q9P2E7,Domain,464,574,Cadherin 5
+Q9P2E7,Domain,582,690,Cadherin 6
+Q9H158,Domain,19,124,Cadherin 1
+Q9H158,Domain,125,233,Cadherin 2
+Q9H158,Domain,234,340,Cadherin 3
+Q9H158,Domain,349,445,Cadherin 4
+Q9H158,Domain,446,555,Cadherin 5
+Q9H158,Domain,570,667,Cadherin 6
+Q9H158,Repeat,812,815,PXXP 1
+Q9H158,Repeat,845,848,PXXP 2
+Q9H158,Repeat,886,889,PXXP 3
+Q9H158,Repeat,904,907,PXXP 4
+Q9Y5G7,Domain,30,133,Cadherin 1
+Q9Y5G7,Domain,134,242,Cadherin 2
+Q9Y5G7,Domain,243,347,Cadherin 3
+Q9Y5G7,Domain,348,452,Cadherin 4
+Q9Y5G7,Domain,453,562,Cadherin 5
+Q9Y5G7,Domain,570,682,Cadherin 6
+Q9Y493,Domain,39,204,MAM 1
+Q9Y493,Domain,209,368,MAM 2
+Q9Y493,Domain,371,536,MAM 3
+Q9Y493,Domain,1044,1093,TIL 1
+Q9Y493,Domain,1103,1148,VWFC 1
+Q9Y493,Domain,1155,1371,VWFD 1
+Q9Y493,Domain,1426,1479,TIL 2
+Q9Y493,Domain,1480,1535,VWFC 2
+Q9Y493,Domain,1541,1758,VWFD 2
+Q9Y493,Domain,1812,1867,TIL 3
+Q9Y493,Domain,1868,1924,VWFC 3
+Q9Y493,Domain,1930,2144,VWFD 3
+Q9Y493,Domain,2211,2267,TIL 4
+Q9Y493,Domain,2268,2329,VWFC 4
+Q9Y493,Domain,2330,2537,VWFD 4
+Q9Y493,Domain,2652,2797,VWFC 5
+Q9Y493,Domain,2708,2744,EGF-like
+Q9Y5H1,Domain,29,133,Cadherin 1
+Q9Y5H1,Domain,134,242,Cadherin 2
+Q9Y5H1,Domain,243,347,Cadherin 3
+Q9Y5H1,Domain,348,452,Cadherin 4
+Q9Y5H1,Domain,453,562,Cadherin 5
+Q9Y5H1,Domain,570,682,Cadherin 6
+O60330,Domain,30,133,Cadherin 1
+O60330,Domain,134,242,Cadherin 2
+O60330,Domain,243,347,Cadherin 3
+O60330,Domain,348,452,Cadherin 4
+O60330,Domain,453,562,Cadherin 5
+O60330,Domain,570,683,Cadherin 6
+Q9Y5E6,Domain,35,133,Cadherin 1
+Q9Y5E6,Domain,138,242,Cadherin 2
+Q9Y5E6,Domain,247,347,Cadherin 3
+Q9Y5E6,Domain,352,451,Cadherin 4
+Q9Y5E6,Domain,456,561,Cadherin 5
+Q9Y5E6,Domain,568,671,Cadherin 6
+P09758,Domain,70,145,Thyroglobulin type-1
+P25445,Repeat,47,83,TNFR-Cys 1
+P25445,Repeat,84,127,TNFR-Cys 2
+P25445,Repeat,128,166,TNFR-Cys 3
+P25445,Domain,230,314,Death
+Q5JXA9,Domain,33,143,Ig-like V-type 1
+Q5JXA9,Domain,157,258,Ig-like V-type 2
+O43699,Domain,28,123,Ig-like V-type
+O43699,Domain,148,231,Ig-like C2-type 1
+O43699,Domain,238,333,Ig-like C2-type 2
+Q9UKJ1,Domain,32,150,Ig-like V-type
+Q9UKJ0,Domain,21,143,Ig-like V-type
+Q96FE5,Domain,42,71,LRRNT
+Q96FE5,Repeat,72,93,LRR 1
+Q96FE5,Repeat,96,117,LRR 2
+Q96FE5,Repeat,120,141,LRR 3
+Q96FE5,Repeat,144,165,LRR 4
+Q96FE5,Repeat,168,189,LRR 5
+Q96FE5,Repeat,192,213,LRR 6
+Q96FE5,Repeat,216,237,LRR 7
+Q96FE5,Repeat,264,285,LRR 8
+Q96FE5,Repeat,288,309,LRR 9
+Q96FE5,Repeat,312,333,LRR 10
+Q96FE5,Repeat,336,357,LRR 11
+Q96FE5,Domain,369,423,LRRCT
+Q96FE5,Domain,411,513,Ig-like C2-type
+A6BM72,Domain,24,101,EMI
+A6BM72,Domain,95,130,EGF-like 1
+A6BM72,Domain,143,173,EGF-like 2
+A6BM72,Domain,181,216,EGF-like 3
+A6BM72,Domain,224,259,EGF-like 4
+A6BM72,Domain,267,302,EGF-like 5
+A6BM72,Domain,310,345,EGF-like 6
+A6BM72,Domain,399,434,EGF-like 7
+A6BM72,Domain,442,477,EGF-like 8
+A6BM72,Domain,490,520,EGF-like 9
+A6BM72,Domain,571,606,EGF-like 10
+A6BM72,Domain,659,694,EGF-like 11
+A6BM72,Domain,707,737,EGF-like 12
+A6BM72,Domain,750,780,EGF-like 13
+A6BM72,Domain,788,823,EGF-like 14
+Q8N149,Domain,27,113,Ig-like C2-type 1
+Q8N149,Domain,117,222,Ig-like C2-type 2
+Q8N149,Domain,224,313,Ig-like C2-type 3
+Q8N149,Domain,324,413,Ig-like C2-type 4
+Q8TDQ0,Domain,22,124,Ig-like V-type
+Q96J84,Domain,21,115,Ig-like C2-type 1
+Q96J84,Domain,120,216,Ig-like C2-type 2
+Q96J84,Domain,223,299,Ig-like C2-type 3
+Q96J84,Domain,308,387,Ig-like C2-type 4
+Q96J84,Domain,392,488,Ig-like C2-type 5
+Q8IYS5,Domain,22,116,Ig-like 1
+Q8IYS5,Domain,126,219,Ig-like 2
+Q9Y5F9,Domain,31,133,Cadherin 1
+Q9Y5F9,Domain,134,242,Cadherin 2
+Q9Y5F9,Domain,243,347,Cadherin 3
+Q9Y5F9,Domain,348,452,Cadherin 4
+Q9Y5F9,Domain,453,562,Cadherin 5
+Q9Y5F9,Domain,570,675,Cadherin 6
+Q9Y5E2,Domain,35,133,Cadherin 1
+Q9Y5E2,Domain,138,242,Cadherin 2
+Q9Y5E2,Domain,247,347,Cadherin 3
+Q9Y5E2,Domain,352,451,Cadherin 4
+Q9Y5E2,Domain,456,561,Cadherin 5
+Q9Y5E2,Domain,568,671,Cadherin 6
+Q9Y5G2,Domain,31,133,Cadherin 1
+Q9Y5G2,Domain,134,242,Cadherin 2
+Q9Y5G2,Domain,243,347,Cadherin 3
+Q9Y5G2,Domain,348,452,Cadherin 4
+Q9Y5G2,Domain,453,562,Cadherin 5
+Q9Y5G2,Domain,570,675,Cadherin 6
+Q6MZM0,Domain,25,207,Plastocyanin-like 1
+Q6MZM0,Domain,218,366,Plastocyanin-like 2
+Q6MZM0,Domain,379,561,Plastocyanin-like 3
+Q6MZM0,Domain,571,719,Plastocyanin-like 4
+Q6MZM0,Domain,731,907,Plastocyanin-like 5
+Q6MZM0,Domain,915,1092,Plastocyanin-like 6
+Q969Z4,Repeat,50,90,TNFR-Cys
+O60487,Domain,27,141,Ig-like V-type
+Q9HDB5,Domain,85,255,Laminin G-like
+P58401,Domain,91,299,Laminin G-like
+Q15256,Domain,393,647,Tyrosine-protein phosphatase
+P59901,Domain,24,118,Ig-like C2-type 1
+P59901,Domain,123,213,Ig-like C2-type 2
+P59901,Domain,224,313,Ig-like C2-type 3
+P59901,Domain,324,413,Ig-like C2-type 4
+Q8NHK3,Domain,42,102,Ig-like C2-type 1
+Q8NHK3,Domain,137,200,Ig-like C2-type 2
+P43631,Domain,42,107,Ig-like C2-type 1
+P43631,Domain,142,205,Ig-like C2-type 2
+Q86VH4,Domain,31,61,LRRNT
+Q86VH4,Repeat,62,83,LRR 1
+Q86VH4,Repeat,86,107,LRR 2
+Q86VH4,Repeat,110,131,LRR 3
+Q86VH4,Repeat,134,155,LRR 4
+Q86VH4,Repeat,158,179,LRR 5
+Q86VH4,Repeat,182,203,LRR 6
+Q86VH4,Repeat,206,226,LRR 7
+Q86VH4,Repeat,230,251,LRR 8
+Q86VH4,Repeat,254,275,LRR 9
+Q86VH4,Repeat,278,299,LRR 10
+Q86VH4,Domain,311,362,LRRCT
+Q5SSG8,Repeat,31,44,1
+Q5SSG8,Repeat,45,59,2
+Q5SSG8,Repeat,60,74,3
+Q5SSG8,Repeat,75,89,4
+Q5SSG8,Repeat,90,104,5
+Q5SSG8,Repeat,105,119,6
+Q5SSG8,Repeat,120,134,7
+Q5SSG8,Repeat,135,149,8
+Q5SSG8,Repeat,150,164,9
+Q5SSG8,Repeat,165,179,10
+Q5SSG8,Repeat,180,194,11
+Q5SSG8,Repeat,195,209,12
+Q5SSG8,Repeat,210,224,13
+Q5SSG8,Repeat,225,239,14
+Q5SSG8,Repeat,244,254,15
+Q5SSG8,Repeat,255,269,16
+Q5SSG8,Repeat,270,284,17
+Q5SSG8,Repeat,285,299,18
+Q5SSG8,Repeat,300,314,19
+Q5SSG8,Repeat,315,329,20
+Q5SSG8,Repeat,330,344,21
+Q5SSG8,Repeat,345,359,22
+Q5SSG8,Repeat,360,374,23
+Q5SSG8,Repeat,375,389,24
+Q5SSG8,Repeat,390,404,25
+Q5SSG8,Repeat,405,419,26
+Q5SSG8,Repeat,420,434,27
+Q5SSG8,Repeat,435,449,28
+O00220,Repeat,107,145,TNFR-Cys 1
+O00220,Repeat,147,188,TNFR-Cys 2
+O00220,Repeat,189,229,TNFR-Cys 3
+O00220,Domain,365,448,Death
+Q96DU3,Domain,35,120,Ig-like V-type
+Q96DU3,Domain,132,209,Ig-like C2-type
+Q9BZZ2,Domain,20,136,Ig-like V-type
+Q9BZZ2,Domain,139,233,Ig-like C2-type 1
+Q9BZZ2,Domain,238,320,Ig-like C2-type 2
+Q9BZZ2,Domain,326,405,Ig-like C2-type 3
+Q9BZZ2,Domain,411,507,Ig-like C2-type 4
+Q9BZZ2,Domain,511,593,Ig-like C2-type 5
+Q9BZZ2,Domain,601,705,Ig-like C2-type 6
+Q9BZZ2,Domain,708,785,Ig-like C2-type 7
+Q9BZZ2,Domain,799,894,Ig-like C2-type 8
+Q9BZZ2,Domain,898,977,Ig-like C2-type 9
+Q9BZZ2,Domain,984,1083,Ig-like C2-type 10
+Q9BZZ2,Domain,1085,1165,Ig-like C2-type 11
+Q9BZZ2,Domain,1176,1248,Ig-like C2-type 12
+Q9BZZ2,Domain,1259,1341,Ig-like C2-type 13
+Q9BZZ2,Domain,1350,1442,Ig-like C2-type 14
+Q9BZZ2,Domain,1445,1528,Ig-like C2-type 15
+Q9BZZ2,Domain,1536,1631,Ig-like C2-type 16
+Q9NPR2,Domain,47,523,Sema
+Q9NPR2,Domain,525,579,PSI
+Q9NPR2,Domain,604,663,Ig-like C2-type
+P20333,Repeat,39,76,TNFR-Cys 1
+P20333,Repeat,77,118,TNFR-Cys 2
+P20333,Repeat,119,162,TNFR-Cys 3
+P20333,Repeat,163,201,TNFR-Cys 4
+Q9NS68,Repeat,33,72,TNFR-Cys 1
+Q9NS68,Repeat,74,114,TNFR-Cys 2
+Q9NS68,Repeat,116,149,TNFR-Cys 3
+P20702,Repeat,23,78,FG-GAP 1
+P20702,Repeat,79,138,FG-GAP 2
+P20702,Domain,165,339,VWFA
+P20702,Repeat,340,391,FG-GAP 3
+P20702,Repeat,392,443,FG-GAP 4
+P20702,Repeat,444,504,FG-GAP 5
+P20702,Repeat,507,565,FG-GAP 6
+P20702,Repeat,570,630,FG-GAP 7
+Q13641,Domain,53,91,LRRNT
+Q13641,Repeat,92,113,LRR 1
+Q13641,Repeat,116,139,LRR 2
+Q13641,Repeat,141,163,LRR 3
+Q13641,Repeat,172,204,LRR 4
+Q13641,Repeat,209,232,LRR 5
+Q13641,Repeat,233,255,LRR 6
+Q13641,Repeat,256,275,LRR 7
+Q13641,Domain,283,346,LRRCT
+Q13591,Domain,35,484,Sema
+Q13591,Domain,540,593,TSP type-1 1
+Q13591,Domain,595,651,TSP type-1 2
+Q13591,Domain,653,702,TSP type-1 3
+Q13591,Domain,707,765,TSP type-1 4
+Q13591,Domain,784,839,TSP type-1 5
+Q13591,Domain,841,896,TSP type-1 6
+Q13591,Domain,897,944,TSP type-1 7
+P08138,Repeat,31,64,TNFR-Cys 1
+P08138,Repeat,66,107,TNFR-Cys 2
+P08138,Repeat,108,146,TNFR-Cys 3
+P08138,Repeat,148,188,TNFR-Cys 4
+P08138,Domain,344,421,Death
+P28908,Repeat,28,66,TNFR-Cys 1
+P28908,Repeat,68,106,TNFR-Cys 2
+P28908,Repeat,107,150,TNFR-Cys 3
+P28908,Repeat,205,241,TNFR-Cys 4
+P28908,Repeat,243,281,TNFR-Cys 5
+P28908,Repeat,282,325,TNFR-Cys 6
+Q86SU0,Domain,24,162,Ig-like V-type
+Q9Y5F3,Domain,35,133,Cadherin 1
+Q9Y5F3,Domain,138,242,Cadherin 2
+Q9Y5F3,Domain,243,347,Cadherin 3
+Q9Y5F3,Domain,348,452,Cadherin 4
+Q9Y5F3,Domain,457,562,Cadherin 5
+Q9Y5F3,Domain,577,672,Cadherin 6
+Q9Y5E7,Domain,37,135,Cadherin 1
+Q9Y5E7,Domain,136,244,Cadherin 2
+Q9Y5E7,Domain,249,349,Cadherin 3
+Q9Y5E7,Domain,354,453,Cadherin 4
+Q9Y5E7,Domain,458,563,Cadherin 5
+Q9Y5E7,Domain,570,673,Cadherin 6
+Q9HCL0,Domain,28,137,Cadherin 1
+Q9HCL0,Domain,138,246,Cadherin 2
+Q9HCL0,Domain,247,354,Cadherin 3
+Q9HCL0,Domain,361,465,Cadherin 4
+Q9HCL0,Domain,466,576,Cadherin 5
+Q9HCL0,Domain,582,688,Cadherin 6
+Q9UKX5,Repeat,24,85,FG-GAP 1
+Q9UKX5,Repeat,91,151,FG-GAP 2
+Q9UKX5,Domain,164,345,VWFA
+Q9UKX5,Repeat,355,406,FG-GAP 3
+Q9UKX5,Repeat,411,461,FG-GAP 4
+Q9UKX5,Repeat,462,527,FG-GAP 5
+Q9UKX5,Repeat,528,586,FG-GAP 6
+Q9UKX5,Repeat,590,650,FG-GAP 7
+O14786,Domain,27,141,CUB 1
+O14786,Domain,147,265,CUB 2
+O14786,Domain,275,424,F5/8 type C 1
+O14786,Domain,431,583,F5/8 type C 2
+O14786,Domain,645,811,MAM
+Q96PJ5,Domain,23,97,Ig-like C2-type 1
+Q96PJ5,Domain,102,183,Ig-like C2-type 2
+Q96PJ5,Domain,193,271,Ig-like C2-type 3
+Q96PJ5,Domain,275,374,Ig-like C2-type 4
+Q5SZK8,Repeat,319,413,CSPG 1
+Q5SZK8,Repeat,438,537,CSPG 2
+Q5SZK8,Repeat,560,675,CSPG 3
+Q5SZK8,Repeat,700,807,CSPG 4
+Q5SZK8,Repeat,828,919,CSPG 5
+Q5SZK8,Repeat,945,1037,CSPG 6
+Q5SZK8,Repeat,1066,1168,CSPG 7
+Q5SZK8,Repeat,1189,1282,CSPG 8
+Q5SZK8,Repeat,1303,1399,CSPG 9
+Q5SZK8,Repeat,1420,1512,CSPG 10
+Q5SZK8,Repeat,1532,1621,CSPG 11
+Q5SZK8,Repeat,1655,1752,CSPG 12
+Q5SZK8,Domain,1759,1858,Calx-beta 1
+Q5SZK8,Domain,1871,1982,Calx-beta 2
+Q5SZK8,Domain,1997,2103,Calx-beta 3
+Q5SZK8,Domain,2118,2220,Calx-beta 4
+Q5SZK8,Domain,2238,2342,Calx-beta 5
+Q9ULI3,Domain,985,1023,EGF-like 1
+Q9ULI3,Domain,1025,1063,EGF-like 2
+Q9UM44,Domain,61,131,Ig-like V-type 1
+Q9UM44,Domain,138,222,Ig-like C1-type
+Q9UM44,Domain,235,328,Ig-like V-type 2
+Q99706,Domain,44,104,Ig-like C2-type 1
+Q99706,Domain,139,202,Ig-like C2-type 2
+Q9NRJ7,Domain,35,133,Cadherin 1
+Q9NRJ7,Domain,138,242,Cadherin 2
+Q9NRJ7,Domain,247,347,Cadherin 3
+Q9NRJ7,Domain,352,451,Cadherin 4
+Q9NRJ7,Domain,456,561,Cadherin 5
+Q9NRJ7,Domain,568,671,Cadherin 6
+Q14773,Domain,62,124,Ig-like C2-type 1
+Q14773,Domain,146,217,Ig-like C2-type 2
+P08922,Domain,101,196,Fibronectin type-III 1
+P08922,Domain,197,285,Fibronectin type-III 2
+P08922,Domain,557,671,Fibronectin type-III 3
+P08922,Domain,947,1042,Fibronectin type-III 4
+P08922,Domain,1043,1150,Fibronectin type-III 5
+P08922,Domain,1450,1556,Fibronectin type-III 6
+P08922,Domain,1557,1656,Fibronectin type-III 7
+P08922,Domain,1658,1751,Fibronectin type-III 8
+P08922,Domain,1752,1854,Fibronectin type-III 9
+P08922,Domain,1945,2222,Protein kinase
+O75578,Repeat,24,85,FG-GAP 1
+O75578,Repeat,95,154,FG-GAP 2
+O75578,Domain,167,350,VWFA
+O75578,Repeat,361,412,FG-GAP 3
+O75578,Repeat,417,470,FG-GAP 4
+O75578,Repeat,472,534,FG-GAP 5
+O75578,Repeat,535,593,FG-GAP 6
+O75578,Repeat,597,657,FG-GAP 7
+Q12866,Domain,81,186,Ig-like C2-type 1
+Q12866,Domain,197,273,Ig-like C2-type 2
+Q12866,Domain,286,381,Fibronectin type-III 1
+Q12866,Domain,386,484,Fibronectin type-III 2
+Q12866,Domain,587,858,Protein kinase
+Q14114,Domain,46,82,LDL-receptor class A 1
+Q14114,Domain,85,123,LDL-receptor class A 2
+Q14114,Domain,126,164,LDL-receptor class A 3
+Q14114,Domain,166,202,LDL-receptor class A 4
+Q14114,Domain,205,246,LDL-receptor class A 5
+Q14114,Domain,258,295,LDL-receptor class A 6
+Q14114,Domain,298,334,LDL-receptor class A 7
+Q14114,Domain,336,375,EGF-like 1
+Q14114,Domain,376,415,EGF-like 2
+Q14114,Repeat,462,508,LDL-receptor class B 1
+Q14114,Repeat,509,551,LDL-receptor class B 2
+Q14114,Repeat,552,595,LDL-receptor class B 3
+Q14114,Repeat,596,639,LDL-receptor class B 4
+Q14114,Repeat,640,681,LDL-receptor class B 5
+Q9Y5E9,Domain,35,133,Cadherin 1
+Q9Y5E9,Domain,138,242,Cadherin 2
+Q9Y5E9,Domain,247,347,Cadherin 3
+Q9Y5E9,Domain,352,451,Cadherin 4
+Q9Y5E9,Domain,456,561,Cadherin 5
+Q9Y5E9,Domain,568,671,Cadherin 6
+P27930,Domain,18,124,Ig-like C2-type 1
+P27930,Domain,134,223,Ig-like C2-type 2
+P27930,Domain,237,349,Ig-like C2-type 3
+P51511,Repeat,367,415,Hemopexin 1
+P51511,Repeat,416,461,Hemopexin 2
+P51511,Repeat,463,511,Hemopexin 3
+P51511,Repeat,512,559,Hemopexin 4
+Q96MU8,Domain,31,114,Kringle
+Q96MU8,Domain,116,210,WSC
+Q96MU8,Domain,214,321,CUB
+Q9Y5H8,Domain,30,133,Cadherin 1
+Q9Y5H8,Domain,134,242,Cadherin 2
+Q9Y5H8,Domain,243,350,Cadherin 3
+Q9Y5H8,Domain,351,455,Cadherin 4
+Q9Y5H8,Domain,456,565,Cadherin 5
+Q9Y5H8,Domain,581,678,Cadherin 6
+Q9Y5H8,Repeat,734,737,PXXP 1
+Q9Y5H8,Repeat,774,777,PXXP 2
+Q9Y5H8,Repeat,799,802,PXXP 3
+Q9Y5H8,Repeat,832,835,PXXP 4
+Q9Y5H8,Repeat,873,876,PXXP 5
+Q9Y5H8,Repeat,891,894,PXXP 6
+Q9Y5H4,Domain,29,133,Cadherin 1
+Q9Y5H4,Domain,134,242,Cadherin 2
+Q9Y5H4,Domain,243,347,Cadherin 3
+Q9Y5H4,Domain,348,452,Cadherin 4
+Q9Y5H4,Domain,453,562,Cadherin 5
+Q9Y5H4,Domain,570,682,Cadherin 6
+Q9UN67,Domain,35,133,Cadherin 1
+Q9UN67,Domain,138,242,Cadherin 2
+Q9UN67,Domain,247,347,Cadherin 3
+Q9UN67,Domain,352,451,Cadherin 4
+Q9UN67,Domain,456,561,Cadherin 5
+Q9UN67,Domain,568,671,Cadherin 6
+P57087,Domain,32,127,Ig-like V-type
+P57087,Domain,134,238,Ig-like C2-type
+Q04912,Domain,31,522,Sema
+Q04912,Domain,569,671,IPT/TIG 1
+Q04912,Domain,684,767,IPT/TIG 2
+Q04912,Domain,770,860,IPT/TIG 3
+Q04912,Domain,1082,1345,Protein kinase
+Q16790,Domain,139,390,Alpha-carbonic anhydrase
+P07333,Domain,21,104,Ig-like C2-type 1
+P07333,Domain,107,197,Ig-like C2-type 2
+P07333,Domain,203,290,Ig-like C2-type 3
+P07333,Domain,299,399,Ig-like C2-type 4
+P07333,Domain,402,502,Ig-like C2-type 5
+P07333,Domain,582,910,Protein kinase
+P08648,Repeat,43,108,FG-GAP 1
+P08648,Repeat,128,188,FG-GAP 2
+P08648,Repeat,192,245,FG-GAP 3
+P08648,Repeat,259,311,FG-GAP 4
+P08648,Repeat,312,377,FG-GAP 5
+P08648,Repeat,378,437,FG-GAP 6
+P08648,Repeat,441,504,FG-GAP 7
+P16144,Domain,29,73,PSI
+P16144,Domain,131,329,VWFA
+P16144,Repeat,456,502,I
+P16144,Repeat,503,542,II
+P16144,Repeat,543,581,III
+P16144,Repeat,582,619,IV
+P16144,Domain,979,1084,Calx-beta
+P16144,Domain,1129,1218,Fibronectin type-III 1
+P16144,Domain,1222,1321,Fibronectin type-III 2
+P16144,Domain,1530,1625,Fibronectin type-III 3
+P16144,Domain,1643,1739,Fibronectin type-III 4
+P25092,Domain,489,749,Protein kinase
+P25092,Domain,824,954,Guanylate cyclase
+P16471,Domain,27,128,Fibronectin type-III 1
+P16471,Domain,129,229,Fibronectin type-III 2
+Q96MS0,Domain,64,160,Ig-like C2-type 1
+Q96MS0,Domain,166,253,Ig-like C2-type 2
+Q96MS0,Domain,258,342,Ig-like C2-type 3
+Q96MS0,Domain,347,440,Ig-like C2-type 4
+Q96MS0,Domain,450,531,Ig-like C2-type 5
+Q96MS0,Domain,558,652,Fibronectin type-III 1
+Q96MS0,Domain,671,766,Fibronectin type-III 2
+Q96MS0,Domain,771,869,Fibronectin type-III 3
+Q01974,Domain,55,145,Ig-like C2-type
+Q01974,Domain,169,303,FZ
+Q01974,Domain,316,394,Kringle
+Q01974,Domain,473,746,Protein kinase
+Q86XR5,Domain,56,70,PRAD
+O43157,Domain,20,479,Sema
+O43157,Domain,1070,1160,IPT/TIG 1
+O43157,Domain,1162,1249,IPT/TIG 2
+O43157,Domain,1252,1375,IPT/TIG 3
+O15031,Domain,20,466,Sema
+O15031,Domain,803,893,IPT/TIG 1
+O15031,Domain,895,980,IPT/TIG 2
+O15031,Domain,983,1092,IPT/TIG 3
+Q5SQ64,Domain,17,122,Ig-like V-type
+Q01151,Domain,20,114,Ig-like V-type
+O43300,Domain,34,61,LRRNT
+O43300,Repeat,63,83,LRR 1
+O43300,Repeat,86,107,LRR 2
+O43300,Repeat,110,131,LRR 3
+O43300,Repeat,134,155,LRR 4
+O43300,Repeat,158,179,LRR 5
+O43300,Repeat,182,203,LRR 6
+O43300,Repeat,206,227,LRR 7
+O43300,Repeat,230,251,LRR 8
+O43300,Repeat,254,275,LRR 9
+O43300,Repeat,278,299,LRR 10
+O43300,Domain,311,362,LRRCT
+P78504,Domain,185,229,DSL
+P78504,Domain,230,263,EGF-like 1
+P78504,Domain,264,294,EGF-like 2
+P78504,Domain,296,334,EGF-like 3
+P78504,Domain,336,372,EGF-like 4
+P78504,Domain,374,410,EGF-like 5
+P78504,Domain,412,448,EGF-like 6
+P78504,Domain,450,485,EGF-like 7
+P78504,Domain,487,523,EGF-like 8
+P78504,Domain,525,561,EGF-like 9
+P78504,Domain,586,627,EGF-like 10
+P78504,Domain,629,665,EGF-like 11
+P78504,Domain,667,703,EGF-like 12
+P78504,Domain,705,741,EGF-like 13
+P78504,Domain,744,780,EGF-like 14
+P78504,Domain,782,818,EGF-like 15
+P78504,Domain,820,856,EGF-like 16
+Q68D85,Domain,27,138,Ig-like V-type
+Q68D85,Domain,143,244,Ig-like C1-type
+P01880,Domain,6,98,Ig-like 1
+P01880,Domain,175,263,Ig-like 2
+P01880,Domain,267,373,Ig-like 3
+Q8TDY8,Domain,29,137,Ig-like C2-type 1
+Q8TDY8,Domain,143,229,Ig-like C2-type 2
+Q8TDY8,Domain,242,330,Ig-like C2-type 3
+Q8TDY8,Domain,335,421,Ig-like C2-type 4
+Q8TDY8,Domain,431,525,Fibronectin type-III 1
+Q8TDY8,Domain,527,623,Fibronectin type-III 2
+Q8TDY8,Domain,632,741,Fibronectin type-III 3
+Q8TDY8,Domain,752,845,Fibronectin type-III 4
+Q8TDY8,Domain,850,945,Fibronectin type-III 5
+Q9Y5E8,Domain,35,133,Cadherin 1
+Q9Y5E8,Domain,138,242,Cadherin 2
+Q9Y5E8,Domain,247,347,Cadherin 3
+Q9Y5E8,Domain,352,451,Cadherin 4
+Q9Y5E8,Domain,456,561,Cadherin 5
+Q9Y5E8,Domain,568,671,Cadherin 6
+Q9UN70,Domain,32,135,Cadherin 1
+Q9UN70,Domain,136,244,Cadherin 2
+Q9UN70,Domain,245,352,Cadherin 3
+Q9UN70,Domain,353,457,Cadherin 4
+Q9UN70,Domain,458,567,Cadherin 5
+Q9UN70,Domain,572,685,Cadherin 6
+Q9UN73,Domain,34,133,Cadherin 1
+Q9UN73,Domain,157,242,Cadherin 2
+Q9UN73,Domain,243,350,Cadherin 3
+Q9UN73,Domain,351,455,Cadherin 4
+Q9UN73,Domain,456,565,Cadherin 5
+Q9UN73,Domain,581,678,Cadherin 6
+Q9UN73,Repeat,799,802,PXXP 1
+Q9UN73,Repeat,832,835,PXXP 2
+Q9UN73,Repeat,873,876,PXXP 3
+Q9UN73,Repeat,891,894,PXXP 4
+Q8NET5,Domain,50,150,Ig-like V-type
+Q8NET5,Domain,209,237,ITAM
+Q5VV43,Domain,21,99,MANSC
+Q5VV43,Domain,341,427,PKD 1
+Q5VV43,Domain,435,524,PKD 2
+Q5VV43,Domain,530,620,PKD 3
+Q5VV43,Domain,621,714,PKD 4
+Q5VV43,Domain,720,811,PKD 5
+P51512,Repeat,340,388,Hemopexin 1
+P51512,Repeat,389,434,Hemopexin 2
+P51512,Repeat,436,484,Hemopexin 3
+P51512,Repeat,485,532,Hemopexin 4
+Q8N743,Domain,42,97,Ig-like C2-type 1
+Q8N743,Domain,137,197,Ig-like C2-type 2
+Q8N743,Domain,237,295,Ig-like C2-type 3
+Q07699,Domain,22,150,Ig-like C2-type
+P07204,Domain,31,169,C-type lectin
+P07204,Domain,241,281,EGF-like 1
+P07204,Domain,284,324,EGF-like 2
+P07204,Domain,325,363,EGF-like 3
+P07204,Domain,365,405,EGF-like 4
+P07204,Domain,404,440,EGF-like 5
+P07204,Domain,441,481,EGF-like 6
+Q14242,Repeat,122,131,1
+Q14242,Repeat,132,141,2
+Q14242,Repeat,142,151,3
+Q14242,Repeat,162,171,4
+Q14242,Repeat,182,191,5
+Q14242,Repeat,192,201,6
+Q14242,Repeat,202,211,7
+Q14242,Repeat,212,221,8
+Q14242,Repeat,222,231,9
+Q14242,Repeat,232,241,10
+Q14242,Repeat,242,251,11
+Q14242,Repeat,252,261,12
+Q8NFY4,Domain,27,512,Sema
+Q8NFY4,Domain,514,569,PSI
+P36941,Repeat,42,81,TNFR-Cys 1
+P36941,Repeat,82,124,TNFR-Cys 2
+P36941,Repeat,125,168,TNFR-Cys 3
+P36941,Repeat,169,211,TNFR-Cys 4
+Q8IW52,Repeat,60,81,LRR 1
+Q8IW52,Repeat,84,105,LRR 2
+Q8IW52,Repeat,108,129,LRR 3
+Q8IW52,Repeat,132,153,LRR 4
+Q8IW52,Repeat,156,177,LRR 5
+Q8IW52,Repeat,179,200,LRR 6
+Q8IW52,Domain,213,264,LRRCT 1
+Q8IW52,Domain,333,375,LRRNT
+Q8IW52,Repeat,378,399,LRR 7
+Q8IW52,Repeat,402,423,LRR 8
+Q8IW52,Repeat,426,447,LRR 9
+Q8IW52,Repeat,450,471,LRR 10
+Q8IW52,Repeat,474,495,LRR 11
+Q8IW52,Repeat,497,518,LRR 12
+Q8IW52,Domain,531,582,LRRCT 2
+O94991,Repeat,82,103,LRR 1
+O94991,Repeat,106,127,LRR 2
+O94991,Repeat,130,151,LRR 3
+O94991,Repeat,154,175,LRR 4
+O94991,Repeat,178,199,LRR 5
+O94991,Repeat,201,222,LRR 6
+O94991,Domain,235,286,LRRCT 1
+O94991,Domain,365,407,LRRNT
+O94991,Repeat,410,431,LRR 7
+O94991,Repeat,434,455,LRR 8
+O94991,Repeat,458,479,LRR 9
+O94991,Repeat,482,503,LRR 10
+O94991,Repeat,506,527,LRR 11
+O94991,Repeat,529,550,LRR 12
+O94991,Domain,563,614,LRRCT 2
+Q9UGT4,Domain,28,66,SMB
+Q9UGT4,Domain,285,433,AMOP
+Q9UGT4,Domain,446,667,VWFD
+Q9UGT4,Domain,723,780,Sushi
+O14917,Domain,18,132,Cadherin 1
+O14917,Domain,133,243,Cadherin 2
+O14917,Domain,244,351,Cadherin 3
+O14917,Domain,353,472,Cadherin 4
+O14917,Domain,473,583,Cadherin 5
+O14917,Domain,589,695,Cadherin 6
+Q9Y5G3,Domain,29,130,Cadherin 1
+Q9Y5G3,Domain,131,239,Cadherin 2
+Q9Y5G3,Domain,240,343,Cadherin 3
+Q9Y5G3,Domain,344,448,Cadherin 4
+Q9Y5G3,Domain,449,558,Cadherin 5
+Q9Y5G3,Domain,566,671,Cadherin 6
+Q9HC56,Domain,26,142,Cadherin 1
+Q9HC56,Domain,143,252,Cadherin 2
+Q9HC56,Domain,253,358,Cadherin 3
+Q9HC56,Domain,365,469,Cadherin 4
+Q9HC56,Domain,470,572,Cadherin 5
+Q9HC56,Domain,573,675,Cadherin 6
+Q9HC56,Domain,679,784,Cadherin 7
+Q15262,Domain,31,194,MAM
+Q15262,Domain,196,281,Ig-like C2-type
+Q15262,Domain,294,389,Fibronectin type-III 1
+Q15262,Domain,392,488,Fibronectin type-III 2
+Q15262,Domain,491,595,Fibronectin type-III 3
+Q15262,Domain,597,680,Fibronectin type-III 4
+Q15262,Domain,887,1141,Tyrosine-protein phosphatase 1
+Q15262,Domain,1173,1435,Tyrosine-protein phosphatase 2
+O00241,Domain,30,136,Ig-like V-type
+O00241,Domain,147,246,Ig-like C1-type 1
+O00241,Domain,253,347,Ig-like C1-type 2
+P21754,Domain,45,307,ZP
+Q12836,Domain,141,183,P-type
+Q12836,Domain,188,466,ZP
+Q93038,Repeat,34,71,TNFR-Cys 1
+Q93038,Repeat,72,115,TNFR-Cys 2
+Q93038,Repeat,116,163,TNFR-Cys 3
+Q93038,Repeat,164,192,TNFR-Cys 4
+Q93038,Domain,332,413,Death
+P17948,Domain,32,123,Ig-like C2-type 1
+P17948,Domain,151,214,Ig-like C2-type 2
+P17948,Domain,230,327,Ig-like C2-type 3
+P17948,Domain,335,421,Ig-like C2-type 4
+P17948,Domain,428,553,Ig-like C2-type 5
+P17948,Domain,556,654,Ig-like C2-type 6
+P17948,Domain,661,747,Ig-like C2-type 7
+P17948,Domain,827,1158,Protein kinase
+P23469,Domain,135,394,Tyrosine-protein phosphatase 1
+P23469,Domain,426,689,Tyrosine-protein phosphatase 2
+P23467,Domain,23,111,Fibronectin type-III 1
+P23467,Domain,112,207,Fibronectin type-III 2
+P23467,Domain,203,288,Fibronectin type-III 3
+P23467,Domain,291,378,Fibronectin type-III 4
+P23467,Domain,379,471,Fibronectin type-III 5
+P23467,Domain,467,552,Fibronectin type-III 6
+P23467,Domain,556,641,Fibronectin type-III 7
+P23467,Domain,642,729,Fibronectin type-III 8
+P23467,Domain,730,829,Fibronectin type-III 9
+P23467,Domain,819,906,Fibronectin type-III 10
+P23467,Domain,909,1001,Fibronectin type-III 11
+P23467,Domain,995,1083,Fibronectin type-III 12
+P23467,Domain,1087,1175,Fibronectin type-III 13
+P23467,Domain,1173,1260,Fibronectin type-III 14
+P23467,Domain,1260,1356,Fibronectin type-III 15
+P23467,Domain,1357,1448,Fibronectin type-III 16
+P23467,Domain,1458,1554,Fibronectin type-III 17
+P23467,Domain,1703,1963,Tyrosine-protein phosphatase
+O43493,Repeat,54,67,1
+O43493,Repeat,68,81,2
+O43493,Repeat,82,95,3
+O43493,Repeat,96,109,4
+O43493,Repeat,110,123,5
+O43493,Repeat,124,137,6
+O43493,Repeat,138,151,7
+O43493,Repeat,152,165,8
+O43493,Repeat,166,179,9
+O43493,Repeat,180,193,10
+O43493,Repeat,194,207,11
+O43493,Repeat,208,221,12
+O43493,Repeat,222,234,13
+O43493,Repeat,235,249,14
+P40238,Domain,172,281,Fibronectin type-III 1
+P40238,Domain,392,486,Fibronectin type-III 2
+P24394,Domain,125,224,Fibronectin type-III
+Q2I0M4,Domain,34,71,LRRNT
+Q2I0M4,Repeat,72,93,LRR 1
+Q2I0M4,Repeat,96,117,LRR 2
+Q2I0M4,Repeat,120,141,LRR 3
+Q2I0M4,Repeat,144,167,LRR 4
+Q2I0M4,Repeat,168,190,LRR 5
+Q2I0M4,Domain,201,255,LRRCT
+Q9NZN1,Domain,19,134,Ig-like C2-type 1
+Q9NZN1,Domain,143,232,Ig-like C2-type 2
+Q9NZN1,Domain,242,350,Ig-like C2-type 3
+Q9NZN1,Domain,403,562,TIR
+Q6ZMC9,Domain,40,158,Ig-like V-type
+Q6ZMC9,Domain,168,251,Ig-like C2-type
+Q6UWB1,Domain,131,231,Fibronectin type-III 1
+Q6UWB1,Domain,322,417,Fibronectin type-III 2
+Q6UWB1,Domain,419,511,Fibronectin type-III 3
+Q96PQ0,Repeat,182,193,BNR 1
+Q96PQ0,Repeat,232,243,BNR 2
+Q96PQ0,Repeat,273,284,BNR 3
+Q96PQ0,Repeat,468,479,BNR 4
+Q96PQ0,Repeat,545,556,BNR 5
+Q96PQ0,Repeat,587,598,BNR 6
+Q96PQ0,Domain,786,876,PKD
+Q9NYK1,Repeat,43,64,LRR 1
+Q9NYK1,Repeat,65,87,LRR 2
+Q9NYK1,Repeat,110,126,LRR 3
+Q9NYK1,Repeat,127,149,LRR 4
+Q9NYK1,Repeat,151,170,LRR 5
+Q9NYK1,Repeat,171,195,LRR 6
+Q9NYK1,Repeat,203,226,LRR 7
+Q9NYK1,Repeat,228,247,LRR 8
+Q9NYK1,Repeat,248,275,LRR 9
+Q9NYK1,Repeat,289,312,LRR 10
+Q9NYK1,Repeat,314,337,LRR 11
+Q9NYK1,Repeat,339,368,LRR 12
+Q9NYK1,Repeat,369,392,LRR 13
+Q9NYK1,Repeat,396,419,LRR 14
+Q9NYK1,Repeat,421,443,LRR 15
+Q9NYK1,Repeat,492,515,LRR 16
+Q9NYK1,Repeat,516,540,LRR 17
+Q9NYK1,Repeat,541,564,LRR 18
+Q9NYK1,Repeat,566,588,LRR 19
+Q9NYK1,Repeat,595,618,LRR 20
+Q9NYK1,Repeat,619,644,LRR 21
+Q9NYK1,Repeat,649,672,LRR 22
+Q9NYK1,Repeat,674,697,LRR 23
+Q9NYK1,Repeat,698,721,LRR 24
+Q9NYK1,Repeat,723,745,LRR 25
+Q9NYK1,Repeat,746,769,LRR 26
+Q9NYK1,Repeat,772,795,LRR 27
+Q9NYK1,Domain,889,1036,TIR
+P35590,Domain,43,105,Ig-like C2-type 1
+P35590,Domain,214,256,EGF-like 1
+P35590,Domain,258,303,EGF-like 2
+P35590,Domain,305,345,EGF-like 3
+P35590,Domain,372,426,Ig-like C2-type 2
+P35590,Domain,446,545,Fibronectin type-III 1
+P35590,Domain,548,642,Fibronectin type-III 2
+P35590,Domain,646,739,Fibronectin type-III 3
+P35590,Domain,839,1118,Protein kinase
+Q86XK7,Domain,22,132,Ig-like V-type
+Q86XK7,Domain,140,227,Ig-like C2-type
+Q7Z7D3,Domain,35,146,Ig-like V-type 1
+Q7Z7D3,Domain,153,241,Ig-like V-type 2
+Q8IWT1,Domain,31,148,Ig-like C2-type
+Q9BX59,Domain,181,297,Ig-like V-type
+Q9BX59,Domain,304,394,Ig-like C1-type
+Q92854,Domain,22,500,Sema
+Q92854,Domain,502,551,PSI
+Q92854,Domain,554,636,Ig-like C2-type
+Q6EMK4,Domain,24,51,LRRNT
+Q6EMK4,Repeat,52,74,LRR 1
+Q6EMK4,Repeat,77,98,LRR 2
+Q6EMK4,Repeat,101,122,LRR 3
+Q6EMK4,Repeat,125,146,LRR 4
+Q6EMK4,Repeat,149,170,LRR 5
+Q6EMK4,Repeat,171,191,LRR 6
+Q6EMK4,Repeat,193,214,LRR 7
+Q6EMK4,Repeat,217,238,LRR 8
+Q6EMK4,Repeat,240,262,LRR 9
+Q6EMK4,Repeat,265,287,LRR 10
+Q6EMK4,Domain,298,351,LRRCT
+Q6EMK4,Domain,405,442,EGF-like
+Q6EMK4,Domain,460,558,Fibronectin type-III
+P23470,Domain,58,321,Alpha-carbonic anhydrase
+P23470,Domain,349,448,Fibronectin type-III
+P23470,Domain,848,1119,Tyrosine-protein phosphatase 1
+P23470,Domain,1150,1410,Tyrosine-protein phosphatase 2
+Q9BXR5,Repeat,24,46,LRR 1
+Q9BXR5,Repeat,49,70,LRR 2
+Q9BXR5,Repeat,73,94,LRR 3
+Q9BXR5,Repeat,97,118,LRR 4
+Q9BXR5,Repeat,119,139,LRR 5
+Q9BXR5,Repeat,143,166,LRR 6
+Q9BXR5,Repeat,296,321,LRR 7
+Q9BXR5,Repeat,325,348,LRR 8
+Q9BXR5,Repeat,349,368,LRR 9
+Q9BXR5,Repeat,373,394,LRR 10
+Q9BXR5,Repeat,398,419,LRR 11
+Q9BXR5,Repeat,422,442,LRR 12
+Q9BXR5,Repeat,444,465,LRR 13
+Q9BXR5,Repeat,467,488,LRR 14
+Q9BXR5,Repeat,489,509,LRR 15
+Q9BXR5,Domain,522,576,LRRCT
+Q9BXR5,Domain,632,778,TIR
+B6A8C7,Domain,27,113,Ig-like C2-type 1
+B6A8C7,Domain,126,212,Ig-like C2-type 2
+P36897,Domain,175,204,GS
+P36897,Domain,205,495,Protein kinase
+Q16849,Domain,709,969,Tyrosine-protein phosphatase
+O15389,Domain,19,136,Ig-like V-type
+O15389,Domain,146,229,Ig-like C2-type 1
+O15389,Domain,236,330,Ig-like C2-type 2
+P28827,Domain,22,184,MAM
+P28827,Domain,186,277,Ig-like C2-type
+P28827,Domain,284,379,Fibronectin type-III 1
+P28827,Domain,382,480,Fibronectin type-III 2
+P28827,Domain,482,587,Fibronectin type-III 3
+P28827,Domain,589,671,Fibronectin type-III 4
+P28827,Domain,900,1154,Tyrosine-protein phosphatase 1
+P28827,Domain,1186,1448,Tyrosine-protein phosphatase 2
+P18433,Domain,241,501,Tyrosine-protein phosphatase 1
+P18433,Domain,533,791,Tyrosine-protein phosphatase 2
+Q07011,Repeat,24,45,TNFR-Cys 1
+Q07011,Repeat,47,86,TNFR-Cys 2
+Q07011,Repeat,87,118,TNFR-Cys 3
+Q07011,Repeat,119,159,TNFR-Cys 4
+Q8IZJ1,Domain,48,145,Ig-like
+Q8IZJ1,Domain,147,242,Ig-like C2-type
+Q8IZJ1,Domain,246,300,TSP type-1 1
+Q8IZJ1,Domain,302,354,TSP type-1 2
+Q8IZJ1,Domain,543,686,ZU5
+Q8IZJ1,Domain,865,943,Death
+Q12907,Domain,52,276,L-type lectin-like
+Q9P2J2,Domain,24,124,Ig-like 1
+Q9P2J2,Domain,136,216,Ig-like 2
+Q9P2J2,Domain,226,318,Ig-like 3
+Q9P2J2,Domain,322,410,Ig-like 4
+Q9P2J2,Domain,418,502,Ig-like 5
+Q9P2J2,Domain,507,611,Fibronectin type-III 1
+Q9P2J2,Domain,623,718,Fibronectin type-III 2
+Q12913,Domain,121,209,Fibronectin type-III 1
+Q12913,Domain,207,291,Fibronectin type-III 2
+Q12913,Domain,271,364,Fibronectin type-III 3
+Q12913,Domain,368,456,Fibronectin type-III 4
+Q12913,Domain,457,541,Fibronectin type-III 5
+Q12913,Domain,542,623,Fibronectin type-III 6
+Q12913,Domain,625,720,Fibronectin type-III 7
+Q12913,Domain,721,817,Fibronectin type-III 8
+Q12913,Domain,816,902,Fibronectin type-III 9
+Q12913,Domain,1041,1298,Tyrosine-protein phosphatase
+Q96LC7,Domain,18,121,Ig-like V-type
+Q96LC7,Domain,146,231,Ig-like C2-type 1
+Q96LC7,Domain,251,339,Ig-like C2-type 2
+Q96LC7,Domain,344,441,Ig-like C2-type 3
+O60939,Domain,32,154,Ig-like C2-type
+P98155,Domain,31,69,LDL-receptor class A 1
+P98155,Domain,70,110,LDL-receptor class A 2
+P98155,Domain,111,151,LDL-receptor class A 3
+P98155,Domain,152,190,LDL-receptor class A 4
+P98155,Domain,191,231,LDL-receptor class A 5
+P98155,Domain,237,275,LDL-receptor class A 6
+P98155,Domain,276,314,LDL-receptor class A 7
+P98155,Domain,316,355,LDL-receptor class A 8
+P98155,Domain,356,395,EGF-like 1
+P98155,Domain,396,435,EGF-like 2
+P98155,Repeat,439,480,LDL-receptor class B 1
+P98155,Repeat,481,524,LDL-receptor class B 2
+P98155,Repeat,525,567,LDL-receptor class B 3
+P98155,Repeat,568,611,LDL-receptor class B 4
+P98155,Repeat,612,654,LDL-receptor class B 5
+P98155,Repeat,655,697,LDL-receptor class B 6
+P98155,Domain,702,750,EGF-like 3
+Q08ET2,Domain,19,136,Ig-like V-type
+Q08ET2,Domain,146,229,Ig-like C2-type 1
+Q08ET2,Domain,236,331,Ig-like C2-type 2
+Q03167,Domain,455,730,ZP
+Q8IYR6,Domain,93,145,Kazal-like 1
+Q8IYR6,Domain,184,237,Kazal-like 2
+Q8IYR6,Domain,271,311,EGF-like
+Q9NP99,Domain,26,134,Ig-like V-type
+Q9H3S1,Domain,36,494,Sema
+Q9H3S1,Domain,496,548,PSI
+Q9H3S1,Domain,573,631,Ig-like C2-type
+O95754,Domain,42,510,Sema
+O95754,Domain,512,563,PSI
+O95754,Domain,580,635,Ig-like C2-type
+Q9UPZ6,Domain,57,116,TSP type-1 1
+Q9UPZ6,Domain,120,192,TSP type-1 2
+Q9UPZ6,Domain,194,247,TSP type-1 3
+Q9UPZ6,Domain,360,416,TSP type-1 4
+Q9UPZ6,Domain,423,510,TSP type-1 5
+Q9UPZ6,Domain,512,574,TSP type-1 6
+Q9UPZ6,Domain,634,695,TSP type-1 7
+Q9UPZ6,Domain,696,769,TSP type-1 8
+Q9UPZ6,Domain,771,831,TSP type-1 9
+Q9UPZ6,Domain,832,904,TSP type-1 10
+Q9UPZ6,Domain,906,959,TSP type-1 11
+Q9UPZ6,Domain,960,1033,TSP type-1 12
+Q9UPZ6,Domain,1035,1095,TSP type-1 13
+Q9UPZ6,Domain,1096,1163,TSP type-1 14
+Q9UPZ6,Domain,1166,1220,TSP type-1 15
+Q9UPZ6,Domain,1221,1284,TSP type-1 16
+Q9UPZ6,Domain,1286,1341,TSP type-1 17
+Q9UPZ6,Domain,1342,1412,TSP type-1 18
+Q9UPZ6,Domain,1414,1475,TSP type-1 19
+P35916,Domain,30,127,Ig-like C2-type 1
+P35916,Domain,151,213,Ig-like C2-type 2
+P35916,Domain,219,326,Ig-like C2-type 3
+P35916,Domain,331,415,Ig-like C2-type 4
+P35916,Domain,422,552,Ig-like C2-type 5
+P35916,Domain,555,671,Ig-like C2-type 6
+P35916,Domain,678,764,Ig-like C2-type 7
+P35916,Domain,845,1173,Protein kinase
+Q9UPX0,Domain,24,129,Ig-like 1
+Q9UPX0,Domain,139,226,Ig-like 2
+Q9UPX0,Domain,228,320,Ig-like 3
+Q9UPX0,Domain,324,415,Ig-like 4
+Q9UPX0,Domain,420,504,Ig-like 5
+Q9UPX0,Domain,512,604,Fibronectin type-III 1
+Q9UPX0,Domain,614,708,Fibronectin type-III 2
+Q9NR96,Repeat,62,85,LRR 1
+Q9NR96,Repeat,87,110,LRR 2
+Q9NR96,Repeat,122,147,LRR 3
+Q9NR96,Repeat,150,166,LRR 4
+Q9NR96,Repeat,167,190,LRR 5
+Q9NR96,Repeat,198,221,LRR 6
+Q9NR96,Repeat,223,242,LRR 7
+Q9NR96,Repeat,243,268,LRR 8
+Q9NR96,Repeat,283,306,LRR 9
+Q9NR96,Repeat,308,332,LRR 10
+Q9NR96,Repeat,333,356,LRR 11
+Q9NR96,Repeat,363,386,LRR 12
+Q9NR96,Repeat,390,413,LRR 13
+Q9NR96,Repeat,415,440,LRR 14
+Q9NR96,Repeat,470,494,LRR 15
+Q9NR96,Repeat,496,519,LRR 16
+Q9NR96,Repeat,520,543,LRR 17
+Q9NR96,Repeat,545,572,LRR 18
+Q9NR96,Repeat,574,598,LRR 19
+Q9NR96,Repeat,600,622,LRR 20
+Q9NR96,Repeat,627,650,LRR 21
+Q9NR96,Repeat,652,675,LRR 22
+Q9NR96,Repeat,676,699,LRR 23
+Q9NR96,Repeat,701,723,LRR 24
+Q9NR96,Repeat,724,747,LRR 25
+Q9NR96,Repeat,749,772,LRR 26
+Q9NR96,Domain,868,1016,TIR
+Q96IQ7,Domain,24,137,Ig-like V-type
+Q96IQ7,Domain,144,233,Ig-like C2-type
+P30511,Domain,206,296,Ig-like C1-type
+Q9P244,Domain,32,65,LRRNT
+Q9P244,Repeat,66,87,LRR 1
+Q9P244,Repeat,90,111,LRR 2
+Q9P244,Repeat,114,135,LRR 3
+Q9P244,Repeat,138,159,LRR 4
+Q9P244,Repeat,163,184,LRR 5
+Q9P244,Repeat,187,208,LRR 6
+Q9P244,Repeat,211,232,LRR 7
+Q9P244,Domain,252,298,LRRCT
+Q9P244,Domain,299,386,Ig-like
+Q9P244,Domain,424,520,Fibronectin type-III
+Q9HB29,Domain,20,111,Ig-like C2-type 1
+Q9HB29,Domain,126,211,Ig-like C2-type 2
+Q9HB29,Domain,222,318,Ig-like C2-type 3
+Q9HB29,Domain,381,539,TIR
+Q8TF66,Domain,22,53,LRRNT
+Q8TF66,Repeat,54,75,LRR 1
+Q8TF66,Repeat,78,99,LRR 2
+Q8TF66,Repeat,102,123,LRR 3
+Q8TF66,Repeat,126,147,LRR 4
+Q8TF66,Repeat,150,171,LRR 5
+Q8TF66,Repeat,174,195,LRR 6
+Q8TF66,Repeat,198,219,LRR 7
+Q8TF66,Repeat,222,243,LRR 8
+Q8TF66,Repeat,246,267,LRR 9
+Q8TF66,Repeat,270,291,LRR 10
+Q8TF66,Repeat,294,315,LRR 11
+Q8TF66,Repeat,318,339,LRR 12
+Q8TF66,Repeat,342,363,LRR 13
+Q8TF66,Repeat,366,387,LRR 14
+Q8TF66,Repeat,390,411,LRR 15
+Q8TF66,Domain,423,475,LRRCT
+O75022,Domain,42,100,Ig-like C2-type 1
+O75022,Domain,111,229,Ig-like C2-type 2
+O75022,Domain,225,314,Ig-like C2-type 3
+O75022,Domain,338,419,Ig-like C2-type 4
+O15394,Domain,21,108,Ig-like C2-type 1
+O15394,Domain,113,202,Ig-like C2-type 2
+O15394,Domain,208,297,Ig-like C2-type 3
+O15394,Domain,302,396,Ig-like C2-type 4
+O15394,Domain,401,491,Ig-like C2-type 5
+O15394,Domain,498,591,Fibronectin type-III 1
+O15394,Domain,593,688,Fibronectin type-III 2
+Q6UXL0,Domain,37,136,Fibronectin type-III 1
+Q6UXL0,Domain,144,228,Fibronectin type-III 2
+P43626,Domain,42,107,Ig-like C2-type 1
+P43626,Domain,142,205,Ig-like C2-type 2
+Q9BRK3,Domain,29,157,Ig-like V-type 1
+Q9BRK3,Domain,160,288,Ig-like V-type 2
+Q9NYQ8,Domain,34,148,Cadherin 1
+Q9NYQ8,Domain,149,256,Cadherin 2
+Q9NYQ8,Domain,363,458,Cadherin 3
+Q9NYQ8,Domain,459,564,Cadherin 4
+Q9NYQ8,Domain,565,669,Cadherin 5
+Q9NYQ8,Domain,716,820,Cadherin 6
+Q9NYQ8,Domain,821,925,Cadherin 7
+Q9NYQ8,Domain,926,1032,Cadherin 8
+Q9NYQ8,Domain,1033,1137,Cadherin 9
+Q9NYQ8,Domain,1138,1242,Cadherin 10
+Q9NYQ8,Domain,1243,1346,Cadherin 11
+Q9NYQ8,Domain,1350,1448,Cadherin 12
+Q9NYQ8,Domain,1449,1555,Cadherin 13
+Q9NYQ8,Domain,1556,1660,Cadherin 14
+Q9NYQ8,Domain,1661,1758,Cadherin 15
+Q9NYQ8,Domain,1759,1872,Cadherin 16
+Q9NYQ8,Domain,1969,2070,Cadherin 17
+Q9NYQ8,Domain,2071,2171,Cadherin 18
+Q9NYQ8,Domain,2172,2272,Cadherin 19
+Q9NYQ8,Domain,2273,2379,Cadherin 20
+Q9NYQ8,Domain,2380,2481,Cadherin 21
+Q9NYQ8,Domain,2482,2585,Cadherin 22
+Q9NYQ8,Domain,2586,2691,Cadherin 23
+Q9NYQ8,Domain,2692,2797,Cadherin 24
+Q9NYQ8,Domain,2798,2906,Cadherin 25
+Q9NYQ8,Domain,2907,3011,Cadherin 26
+Q9NYQ8,Domain,3012,3113,Cadherin 27
+Q9NYQ8,Domain,3114,3218,Cadherin 28
+Q9NYQ8,Domain,3219,3321,Cadherin 29
+Q9NYQ8,Domain,3322,3426,Cadherin 30
+Q9NYQ8,Domain,3427,3531,Cadherin 31
+Q9NYQ8,Domain,3532,3642,Cadherin 32
+Q9NYQ8,Domain,3773,3944,Laminin G-like
+Q9NYQ8,Domain,3947,3984,EGF-like 1
+Q9NYQ8,Domain,3986,4022,EGF-like 2
+P08514,Repeat,35,96,FG-GAP 1
+P08514,Repeat,110,173,FG-GAP 2
+P08514,Repeat,187,238,FG-GAP 3
+P08514,Repeat,251,305,FG-GAP 4
+P08514,Repeat,306,371,FG-GAP 5
+P08514,Repeat,373,432,FG-GAP 6
+P08514,Repeat,435,496,FG-GAP 7
+P48357,Domain,239,333,Fibronectin type-III 1
+P48357,Domain,331,429,Ig-like
+P48357,Domain,539,634,Fibronectin type-III 2
+P48357,Domain,639,732,Fibronectin type-III 3
+P48357,Domain,740,833,Fibronectin type-III 4
+Q9Y5I3,Domain,30,133,Cadherin 1
+Q9Y5I3,Domain,157,242,Cadherin 2
+Q9Y5I3,Domain,243,350,Cadherin 3
+Q9Y5I3,Domain,351,455,Cadherin 4
+Q9Y5I3,Domain,456,565,Cadherin 5
+Q9Y5I3,Domain,588,678,Cadherin 6
+Q9Y5I3,Repeat,734,737,PXXP 1
+Q9Y5I3,Repeat,799,802,PXXP 2
+Q9Y5I3,Repeat,832,835,PXXP 3
+Q9Y5I3,Repeat,873,876,PXXP 4
+Q9Y5I3,Repeat,891,894,PXXP 5
+Q9Y5F0,Domain,36,134,Cadherin 1
+Q9Y5F0,Domain,139,243,Cadherin 2
+Q9Y5F0,Domain,248,348,Cadherin 3
+Q9Y5F0,Domain,353,451,Cadherin 4
+Q9Y5F0,Domain,456,561,Cadherin 5
+Q9Y5F0,Domain,568,671,Cadherin 6
+Q6UXE8,Domain,138,218,Ig-like V-type
+Q6UXE8,Domain,270,463,B30.2/SPRY
+P27037,Domain,192,485,Protein kinase
+P17301,Repeat,34,92,FG-GAP 1
+P17301,Repeat,101,161,FG-GAP 2
+P17301,Domain,188,365,VWFA
+P17301,Repeat,366,420,FG-GAP 3
+P17301,Repeat,423,475,FG-GAP 4
+P17301,Repeat,477,539,FG-GAP 5
+P17301,Repeat,540,598,FG-GAP 6
+P17301,Repeat,602,664,FG-GAP 7
+P20701,Repeat,31,82,FG-GAP 1
+P20701,Repeat,83,141,FG-GAP 2
+P20701,Domain,156,327,VWFA
+P20701,Repeat,338,389,FG-GAP 3
+P20701,Repeat,390,445,FG-GAP 4
+P20701,Repeat,446,506,FG-GAP 5
+P20701,Repeat,507,563,FG-GAP 6
+P20701,Repeat,567,627,FG-GAP 7
+Q9BZA8,Domain,58,171,Cadherin 1
+Q9BZA8,Domain,172,281,Cadherin 2
+Q9BZA8,Domain,282,387,Cadherin 3
+Q9BZA8,Domain,394,498,Cadherin 4
+Q9BZA8,Domain,499,602,Cadherin 5
+Q9BZA8,Domain,603,705,Cadherin 6
+Q9BZA8,Domain,709,827,Cadherin 7
+Q9Y5I4,Domain,43,148,Cadherin 1
+Q9Y5I4,Domain,149,257,Cadherin 2
+Q9Y5I4,Domain,258,365,Cadherin 3
+Q9Y5I4,Domain,374,469,Cadherin 4
+Q9Y5I4,Domain,470,579,Cadherin 5
+Q9Y5I4,Domain,594,691,Cadherin 6
+Q9Y5I4,Repeat,856,859,PXXP 1
+Q9Y5I4,Repeat,889,892,PXXP 2
+Q9Y5I4,Repeat,930,933,PXXP 3
+Q9Y5I4,Repeat,948,951,PXXP 4
+P14616,Domain,483,603,Fibronectin type-III 1
+P14616,Domain,607,707,Fibronectin type-III 2
+P14616,Domain,818,913,Fibronectin type-III 3
+P14616,Domain,979,1254,Protein kinase
+P51841,Domain,532,812,Protein kinase
+P51841,Domain,884,1014,Guanylate cyclase
+Q9Y5H7,Domain,33,132,Cadherin 1
+Q9Y5H7,Domain,156,241,Cadherin 2
+Q9Y5H7,Domain,242,349,Cadherin 3
+Q9Y5H7,Domain,350,454,Cadherin 4
+Q9Y5H7,Domain,455,564,Cadherin 5
+Q9Y5H7,Domain,580,677,Cadherin 6
+Q9Y5H7,Repeat,773,776,PXXP 1
+Q9Y5H7,Repeat,785,788,PXXP 2
+Q9Y5H7,Repeat,818,821,PXXP 3
+Q9Y5H7,Repeat,873,876,PXXP 4
+Q9Y5H7,Repeat,877,890,PXXP 5
+Q9NZQ7,Domain,19,127,Ig-like V-type
+Q9NZQ7,Domain,133,225,Ig-like C2-type
+Q9UN75,Domain,30,133,Cadherin 1
+Q9UN75,Domain,134,242,Cadherin 2
+Q9UN75,Domain,243,350,Cadherin 3
+Q9UN75,Domain,351,455,Cadherin 4
+Q9UN75,Domain,456,565,Cadherin 5
+Q9UN75,Domain,581,678,Cadherin 6
+Q9UN75,Repeat,734,737,PXXP 1
+Q9UN75,Repeat,790,793,PXXP 2
+Q9UN75,Repeat,823,826,PXXP 3
+Q9UN75,Repeat,863,866,PXXP 4
+Q9UN75,Repeat,882,885,PXXP 5
+A8K4G0,Domain,18,120,Ig-like V-type
+Q8NFR9,Domain,487,624,SEFIR
+Q14627,Domain,34,134,Fibronectin type-III 1
+Q14627,Domain,139,235,Fibronectin type-III 2
+Q14627,Domain,240,333,Fibronectin type-III 3
+P20273,Domain,20,138,Ig-like V-type
+P20273,Domain,143,235,Ig-like C2-type 1
+P20273,Domain,242,326,Ig-like C2-type 2
+P20273,Domain,331,416,Ig-like C2-type 3
+P20273,Domain,419,500,Ig-like C2-type 4
+P20273,Domain,505,582,Ig-like C2-type 5
+P20273,Domain,593,676,Ig-like C2-type 6
+P43146,Domain,26,135,Ig-like C2-type 1
+P43146,Domain,139,229,Ig-like C2-type 2
+P43146,Domain,234,326,Ig-like C2-type 3
+P43146,Domain,331,416,Ig-like C2-type 4
+P43146,Domain,431,524,Fibronectin type-III 1
+P43146,Domain,530,620,Fibronectin type-III 2
+P43146,Domain,625,718,Fibronectin type-III 3
+P43146,Domain,728,821,Fibronectin type-III 4
+P43146,Domain,846,942,Fibronectin type-III 5
+P43146,Domain,947,1044,Fibronectin type-III 6
+Q96KG7,Domain,30,107,EMI
+Q96KG7,Domain,106,136,EGF-like 1
+Q96KG7,Domain,144,179,EGF-like 2
+Q96KG7,Domain,187,222,EGF-like 3
+Q96KG7,Domain,230,265,EGF-like 4
+Q96KG7,Domain,278,308,EGF-like 5
+Q96KG7,Domain,316,351,EGF-like 6
+Q96KG7,Domain,405,440,EGF-like 7
+Q96KG7,Domain,453,483,EGF-like 8
+Q96KG7,Domain,491,526,EGF-like 9
+Q96KG7,Domain,539,569,EGF-like 10
+Q96KG7,Domain,577,612,EGF-like 11
+Q96KG7,Domain,665,700,EGF-like 12
+Q96KG7,Domain,713,743,EGF-like 13
+Q96KG7,Domain,751,786,EGF-like 14
+Q96KG7,Domain,799,829,EGF-like 15
+P53708,Repeat,44,105,FG-GAP 1
+P53708,Repeat,122,183,FG-GAP 2
+P53708,Repeat,188,240,FG-GAP 3
+P53708,Repeat,253,306,FG-GAP 4
+P53708,Repeat,307,372,FG-GAP 5
+P53708,Repeat,373,431,FG-GAP 6
+P53708,Repeat,435,498,FG-GAP 7
+Q29980,Domain,207,298,Ig-like C1-type
+O76036,Domain,34,118,Ig-like 1
+O76036,Domain,129,211,Ig-like 2
+P31995,Domain,48,127,Ig-like C2-type 1
+P31995,Domain,131,213,Ig-like C2-type 2
+P56975,Domain,286,329,EGF-like
+O95944,Domain,22,120,Ig-like
+O95297,Domain,36,146,Ig-like V-type
+Q9P2S2,Domain,29,206,Laminin G-like 1
+Q9P2S2,Domain,202,242,EGF-like 1
+Q9P2S2,Domain,289,486,Laminin G-like 2
+Q9P2S2,Domain,493,686,Laminin G-like 3
+Q9P2S2,Domain,690,727,EGF-like 2
+Q9P2S2,Domain,732,904,Laminin G-like 4
+Q9P2S2,Domain,918,1093,Laminin G-like 5
+Q9P2S2,Domain,1096,1133,EGF-like 3
+Q9P2S2,Domain,1137,1345,Laminin G-like 6
+P55082,Domain,45,137,Ig-like C2-type
+O60462,Domain,28,142,CUB 1
+O60462,Domain,149,267,CUB 2
+O60462,Domain,277,427,F5/8 type C 1
+O60462,Domain,434,592,F5/8 type C 2
+O60462,Domain,642,802,MAM
+Q9UM47,Domain,40,77,EGF-like 1
+Q9UM47,Domain,78,118,EGF-like 2
+Q9UM47,Domain,119,156,EGF-like 3
+Q9UM47,Domain,158,195,EGF-like 4
+Q9UM47,Domain,197,234,EGF-like 5
+Q9UM47,Domain,236,272,EGF-like 6
+Q9UM47,Domain,274,312,EGF-like 7
+Q9UM47,Domain,314,350,EGF-like 8
+Q9UM47,Domain,351,389,EGF-like 9
+Q9UM47,Domain,391,429,EGF-like 10
+Q9UM47,Domain,431,467,EGF-like 11
+Q9UM47,Domain,469,505,EGF-like 12
+Q9UM47,Domain,507,543,EGF-like 13
+Q9UM47,Domain,545,580,EGF-like 14
+Q9UM47,Domain,582,618,EGF-like 15
+Q9UM47,Domain,620,655,EGF-like 16
+Q9UM47,Domain,657,693,EGF-like 17
+Q9UM47,Domain,695,730,EGF-like 18
+Q9UM47,Domain,734,770,EGF-like 19
+Q9UM47,Domain,771,808,EGF-like 20
+Q9UM47,Domain,810,847,EGF-like 21
+Q9UM47,Domain,849,885,EGF-like 22
+Q9UM47,Domain,887,922,EGF-like 23
+Q9UM47,Domain,924,960,EGF-like 24
+Q9UM47,Domain,962,998,EGF-like 25
+Q9UM47,Domain,1000,1034,EGF-like 26
+Q9UM47,Domain,1047,1082,EGF-like 27
+Q9UM47,Domain,1084,1120,EGF-like 28
+Q9UM47,Domain,1122,1158,EGF-like 29
+Q9UM47,Domain,1160,1203,EGF-like 30
+Q9UM47,Domain,1205,1244,EGF-like 31
+Q9UM47,Domain,1246,1287,EGF-like 32
+Q9UM47,Domain,1289,1325,EGF-like 33
+Q9UM47,Domain,1335,1373,EGF-like 34
+Q9UM47,Repeat,1387,1427,LNR 1
+Q9UM47,Repeat,1428,1458,LNR 2
+Q9UM47,Repeat,1467,1505,LNR 3
+Q9UM47,Repeat,1838,1867,ANK 1
+Q9UM47,Repeat,1871,1901,ANK 2
+Q9UM47,Repeat,1905,1934,ANK 3
+Q9UM47,Repeat,1938,1967,ANK 4
+Q9UM47,Repeat,1971,2000,ANK 5
+Q6Q8B3,Domain,46,132,Ig-like V-type
+Q6Q8B3,Domain,133,221,Ig-like C2-type
+P38570,Repeat,22,79,FG-GAP 1
+P38570,Repeat,80,138,FG-GAP 2
+P38570,Domain,200,389,VWFA
+P38570,Repeat,390,442,FG-GAP 3
+P38570,Repeat,447,499,FG-GAP 4
+P38570,Repeat,500,560,FG-GAP 5
+P38570,Repeat,563,627,FG-GAP 6
+P38570,Repeat,631,691,FG-GAP 7
+P15529,Domain,35,96,Sushi 1
+P15529,Domain,97,159,Sushi 2
+P15529,Domain,160,225,Sushi 3
+P15529,Domain,226,285,Sushi 4
+Q8WUT4,Repeat,51,74,LRR 1
+Q8WUT4,Repeat,75,97,LRR 2
+Q8WUT4,Repeat,98,123,LRR 3
+Q8WUT4,Repeat,125,144,LRR 4
+Q8WUT4,Repeat,145,168,LRR 5
+Q8WUT4,Repeat,174,197,LRR 6
+Q8WUT4,Repeat,203,226,LRR 7
+Q8WUT4,Repeat,228,251,LRR 8
+Q8WUT4,Repeat,253,276,LRR 9
+Q8WUT4,Repeat,277,300,LRR 10
+Q8WUT4,Domain,579,679,Fibronectin type-III
+Q9Y5G5,Domain,30,133,Cadherin 1
+Q9Y5G5,Domain,134,242,Cadherin 2
+Q9Y5G5,Domain,243,347,Cadherin 3
+Q9Y5G5,Domain,348,452,Cadherin 4
+Q9Y5G5,Domain,453,562,Cadherin 5
+Q9Y5G5,Domain,570,682,Cadherin 6
+Q9Y5F1,Domain,35,133,Cadherin 1
+Q9Y5F1,Domain,138,242,Cadherin 2
+Q9Y5F1,Domain,247,347,Cadherin 3
+Q9Y5F1,Domain,352,451,Cadherin 4
+Q9Y5F1,Domain,456,561,Cadherin 5
+Q9Y5F1,Domain,568,671,Cadherin 6
+Q9UN74,Domain,30,133,Cadherin 1
+Q9UN74,Domain,134,242,Cadherin 2
+Q9UN74,Domain,243,350,Cadherin 3
+Q9UN74,Domain,351,455,Cadherin 4
+Q9UN74,Domain,456,565,Cadherin 5
+Q9UN74,Domain,588,678,Cadherin 6
+Q9UN74,Repeat,734,737,PXXP 1
+Q9UN74,Repeat,774,777,PXXP 2
+Q9UN74,Repeat,796,799,PXXP 3
+Q9UN74,Repeat,829,832,PXXP 4
+Q9UN74,Repeat,870,873,PXXP 5
+Q9UN74,Repeat,888,891,PXXP 6
+Q9Y5G9,Domain,60,164,Cadherin 1
+Q9Y5G9,Domain,165,273,Cadherin 2
+Q9Y5G9,Domain,274,378,Cadherin 3
+Q9Y5G9,Domain,379,483,Cadherin 4
+Q9Y5G9,Domain,484,598,Cadherin 5
+Q9Y5G9,Domain,601,713,Cadherin 6
+Q9Y5G0,Domain,31,133,Cadherin 1
+Q9Y5G0,Domain,134,242,Cadherin 2
+Q9Y5G0,Domain,243,343,Cadherin 3
+Q9Y5G0,Domain,344,448,Cadherin 4
+Q9Y5G0,Domain,449,558,Cadherin 5
+Q9Y5G0,Domain,566,671,Cadherin 6
+P13598,Domain,41,98,Ig-like C2-type 1
+P13598,Domain,127,197,Ig-like C2-type 2
+Q93033,Domain,22,139,Ig-like C2-type 1
+Q93033,Domain,144,265,Ig-like C2-type 2
+Q93033,Domain,279,389,Ig-like C2-type 3
+Q93033,Domain,408,525,Ig-like C2-type 4
+Q93033,Domain,541,651,Ig-like C2-type 5
+Q93033,Domain,656,794,Ig-like C2-type 6
+Q93033,Domain,808,925,Ig-like C2-type 7
+Q8TAB3,Domain,22,129,Cadherin 1
+Q8TAB3,Domain,130,238,Cadherin 2
+Q8TAB3,Domain,239,346,Cadherin 3
+Q8TAB3,Domain,350,453,Cadherin 4
+Q8TAB3,Domain,454,563,Cadherin 5
+Q8TAB3,Domain,569,672,Cadherin 6
+Q9Y5E4,Domain,35,133,Cadherin 1
+Q9Y5E4,Domain,138,242,Cadherin 2
+Q9Y5E4,Domain,247,346,Cadherin 3
+Q9Y5E4,Domain,351,450,Cadherin 4
+Q9Y5E4,Domain,455,560,Cadherin 5
+Q9Y5E4,Domain,567,670,Cadherin 6
+Q9Y5I0,Domain,34,133,Cadherin 1
+Q9Y5I0,Domain,134,242,Cadherin 2
+Q9Y5I0,Domain,243,350,Cadherin 3
+Q9Y5I0,Domain,351,455,Cadherin 4
+Q9Y5I0,Domain,456,565,Cadherin 5
+Q9Y5I0,Domain,581,678,Cadherin 6
+Q9Y5I0,Repeat,734,737,PXXP 1
+Q9Y5I0,Repeat,774,777,PXXP 2
+Q9Y5I0,Repeat,799,802,PXXP 3
+Q9Y5I0,Repeat,832,835,PXXP 4
+Q9Y5I0,Repeat,873,876,PXXP 5
+Q9Y5I0,Repeat,891,894,PXXP 6
+P78536,Domain,223,474,Peptidase M12B
+P78536,Domain,475,563,Disintegrin
+P13591,Domain,20,111,Ig-like C2-type 1
+P13591,Domain,116,205,Ig-like C2-type 2
+P13591,Domain,212,301,Ig-like C2-type 3
+P13591,Domain,308,413,Ig-like C2-type 4
+P13591,Domain,416,501,Ig-like C2-type 5
+P13591,Domain,509,608,Fibronectin type-III 1
+P13591,Domain,611,706,Fibronectin type-III 2
+P78410,Domain,30,139,Ig-like V-type
+O75882,Domain,101,129,EGF-like
+O75882,Domain,132,248,CUB
+O75882,Repeat,352,402,Kelch 1
+O75882,Repeat,404,451,Kelch 2
+O75882,Repeat,461,508,Kelch 3
+O75882,Repeat,513,564,Kelch 4
+O75882,Repeat,566,624,Kelch 5
+O75882,Repeat,625,671,Kelch 6
+O75882,Domain,703,748,PSI 1
+O75882,Domain,755,794,PSI 2
+O75882,Domain,795,919,C-type lectin
+O75882,Domain,932,983,PSI 3
+O75882,Domain,986,1061,PSI 4
+O75882,Domain,1063,1108,Laminin EGF-like 1
+O75882,Domain,1109,1157,Laminin EGF-like 2
+P11912,Domain,33,116,Ig-like C2-type
+P11912,Domain,177,205,ITAM
+O43570,Domain,30,289,Alpha-carbonic anhydrase
+Q14954,Domain,42,107,Ig-like C2-type 1
+Q14954,Domain,142,205,Ig-like C2-type 2
+P43629,Domain,42,102,Ig-like C2-type 1
+P43629,Domain,137,202,Ig-like C2-type 2
+P43629,Domain,237,300,Ig-like C2-type 3
+Q8TDF5,Domain,41,155,CUB 1
+Q8TDF5,Domain,172,287,CUB 2
+Q8TDF5,Domain,291,327,LDL-receptor class A
+P78325,Domain,200,400,Peptidase M12B
+P78325,Domain,408,494,Disintegrin
+P78325,Domain,609,641,EGF-like
+Q8N6P7,Domain,17,124,Fibronectin type-III 1
+Q8N6P7,Domain,141,221,Fibronectin type-III 2
+Q9UK23,Domain,358,390,EGF-like
+O14931,Domain,19,126,Ig-like
+P18084,Domain,27,76,PSI
+P18084,Domain,136,378,VWFA
+P18084,Repeat,465,512,I
+P18084,Repeat,513,554,II
+P18084,Repeat,555,593,III
+P18084,Repeat,594,630,IV
+Q8NCW0,Domain,35,119,Kringle
+Q8NCW0,Domain,121,215,WSC
+Q8NCW0,Domain,219,326,CUB
+Q8NHL6,Domain,27,115,Ig-like C2-type 1
+Q8NHL6,Domain,116,221,Ig-like C2-type 2
+Q8NHL6,Domain,222,312,Ig-like C2-type 3
+Q8NHL6,Domain,313,409,Ig-like C2-type 4
+Q9ULB1,Domain,31,217,Laminin G-like 1
+Q9ULB1,Domain,213,256,EGF-like 1
+Q9ULB1,Domain,283,473,Laminin G-like 2
+Q9ULB1,Domain,480,672,Laminin G-like 3
+Q9ULB1,Domain,676,713,EGF-like 2
+Q9ULB1,Domain,718,891,Laminin G-like 4
+Q9ULB1,Domain,905,1080,Laminin G-like 5
+Q9ULB1,Domain,1083,1120,EGF-like 3
+Q9ULB1,Domain,1126,1294,Laminin G-like 6
+Q9UMF0,Domain,48,130,Ig-like C2-type 1
+Q9UMF0,Domain,135,235,Ig-like C2-type 2
+Q9UMF0,Domain,242,329,Ig-like C2-type 3
+Q9UMF0,Domain,337,402,Ig-like C2-type 4
+Q9UMF0,Domain,408,486,Ig-like C2-type 5
+Q9UMF0,Domain,491,568,Ig-like C2-type 6
+Q9UMF0,Domain,573,662,Ig-like C2-type 7
+Q9UMF0,Domain,666,739,Ig-like C2-type 8
+Q9UMF0,Domain,746,830,Ig-like C2-type 9
+Q16288,Repeat,104,125,LRR 1
+Q16288,Repeat,128,149,LRR 2
+Q16288,Domain,160,209,LRRCT
+Q16288,Domain,210,300,Ig-like C2-type 1
+Q16288,Domain,309,382,Ig-like C2-type 2
+Q16288,Domain,538,839,Protein kinase
+O14511,Domain,237,332,Ig-like C2-type
+O14511,Domain,341,382,EGF-like
+P42701,Domain,46,136,Fibronectin type-III 1
+P42701,Domain,142,234,Fibronectin type-III 2
+P42701,Domain,237,337,Fibronectin type-III 3
+P42701,Domain,338,444,Fibronectin type-III 4
+P42701,Domain,448,542,Fibronectin type-III 5
+P13612,Repeat,35,100,FG-GAP 1
+P13612,Repeat,110,177,FG-GAP 2
+P13612,Repeat,185,237,FG-GAP 3
+P13612,Repeat,238,291,FG-GAP 4
+P13612,Repeat,292,351,FG-GAP 5
+P13612,Repeat,355,412,FG-GAP 6
+P13612,Repeat,416,478,FG-GAP 7
+P13747,Domain,206,294,Ig-like C1-type
+Q8WWG1,Domain,5,46,EGF-like
+Q8N6Y1,Domain,64,209,Cadherin 1
+Q8N6Y1,Domain,210,320,Cadherin 2
+Q8N6Y1,Domain,321,535,Cadherin 3
+Q8N6Y1,Domain,536,639,Cadherin 4
+Q8N6Y1,Domain,640,742,Cadherin 5
+Q8N6Y1,Domain,746,863,Cadherin 6
+P01871,Domain,6,102,Ig-like 1
+P01871,Domain,111,211,Ig-like 2
+P01871,Domain,229,319,Ig-like 3
+P01871,Domain,329,430,Ig-like 4
+Q6UXM1,Domain,38,74,LRRNT
+Q6UXM1,Repeat,75,96,LRR 1
+Q6UXM1,Repeat,99,120,LRR 2
+Q6UXM1,Repeat,122,142,LRR 3
+Q6UXM1,Repeat,146,167,LRR 4
+Q6UXM1,Repeat,168,189,LRR 5
+Q6UXM1,Repeat,193,214,LRR 6
+Q6UXM1,Repeat,216,237,LRR 7
+Q6UXM1,Repeat,240,261,LRR 8
+Q6UXM1,Repeat,264,285,LRR 9
+Q6UXM1,Repeat,288,309,LRR 10
+Q6UXM1,Repeat,312,333,LRR 11
+Q6UXM1,Repeat,336,357,LRR 12
+Q6UXM1,Repeat,360,382,LRR 13
+Q6UXM1,Repeat,387,408,LRR 14
+Q6UXM1,Repeat,411,432,LRR 15
+Q6UXM1,Domain,444,495,LRRCT
+Q6UXM1,Domain,499,598,Ig-like C2-type 1
+Q6UXM1,Domain,603,692,Ig-like C2-type 2
+Q6UXM1,Domain,697,783,Ig-like C2-type 3
+P50281,Repeat,316,364,Hemopexin 1
+P50281,Repeat,365,410,Hemopexin 2
+P50281,Repeat,412,460,Hemopexin 3
+P50281,Repeat,461,508,Hemopexin 4
+P04234,Domain,138,166,ITAM
+P08069,Domain,491,609,Fibronectin type-III 1
+P08069,Domain,610,708,Fibronectin type-III 2
+P08069,Domain,735,828,Fibronectin type-III 3
+P08069,Domain,834,927,Fibronectin type-III 4
+P08069,Domain,999,1274,Protein kinase
+Q01638,Domain,19,103,Ig-like C2-type 1
+Q01638,Domain,114,197,Ig-like C2-type 2
+Q01638,Domain,212,319,Ig-like C2-type 3
+Q01638,Domain,375,538,TIR
+Q86YD5,Domain,28,65,LDL-receptor class A 1
+Q86YD5,Domain,70,107,LDL-receptor class A 2
+Q86YD5,Domain,112,148,LDL-receptor class A 3
+Q9Y5E1,Domain,35,133,Cadherin 1
+Q9Y5E1,Domain,138,242,Cadherin 2
+Q9Y5E1,Domain,247,347,Cadherin 3
+Q9Y5E1,Domain,352,451,Cadherin 4
+Q9Y5E1,Domain,456,561,Cadherin 5
+Q9Y5E1,Domain,568,671,Cadherin 6
+Q9Y5H6,Domain,30,133,Cadherin 1
+Q9Y5H6,Domain,157,242,Cadherin 2
+Q9Y5H6,Domain,243,350,Cadherin 3
+Q9Y5H6,Domain,351,455,Cadherin 4
+Q9Y5H6,Domain,456,565,Cadherin 5
+Q9Y5H6,Domain,581,678,Cadherin 6
+Q9Y5H6,Repeat,774,777,PXXP 1
+Q9Y5H6,Repeat,799,802,PXXP 2
+Q9Y5H6,Repeat,832,835,PXXP 3
+Q9Y5H6,Repeat,873,876,PXXP 4
+Q9Y5H6,Repeat,891,894,PXXP 5
+Q9UN66,Domain,36,134,Cadherin 1
+Q9UN66,Domain,139,243,Cadherin 2
+Q9UN66,Domain,248,348,Cadherin 3
+Q9UN66,Domain,353,452,Cadherin 4
+Q9UN66,Domain,457,562,Cadherin 5
+Q9UN66,Domain,569,672,Cadherin 6
+Q96FE7,Domain,24,101,Kringle
+Q5VT99,Domain,28,56,LRRNT
+Q5VT99,Repeat,57,78,LRR 1
+Q5VT99,Repeat,81,102,LRR 2
+Q5VT99,Repeat,105,126,LRR 3
+Q5VT99,Repeat,129,150,LRR 4
+Q5VT99,Repeat,153,174,LRR 5
+Q5VT99,Domain,186,241,LRRCT
+Q9Y5I1,Domain,30,133,Cadherin 1
+Q9Y5I1,Domain,157,242,Cadherin 2
+Q9Y5I1,Domain,243,349,Cadherin 3
+Q9Y5I1,Domain,350,454,Cadherin 4
+Q9Y5I1,Domain,455,564,Cadherin 5
+Q9Y5I1,Domain,580,677,Cadherin 6
+Q9Y5I1,Repeat,733,736,PXXP 1
+Q9Y5I1,Repeat,773,776,PXXP 2
+Q9Y5I1,Repeat,795,798,PXXP 3
+Q9Y5I1,Repeat,831,834,PXXP 4
+Q9Y5I1,Repeat,872,875,PXXP 5
+Q9Y5I1,Repeat,890,893,PXXP 6
+Q9Y5F8,Domain,31,133,Cadherin 1
+Q9Y5F8,Domain,134,242,Cadherin 2
+Q9Y5F8,Domain,243,347,Cadherin 3
+Q9Y5F8,Domain,348,452,Cadherin 4
+Q9Y5F8,Domain,453,562,Cadherin 5
+Q9Y5F8,Domain,570,675,Cadherin 6
+Q9Y5I2,Domain,29,132,Cadherin 1
+Q9Y5I2,Domain,133,241,Cadherin 2
+Q9Y5I2,Domain,242,349,Cadherin 3
+Q9Y5I2,Domain,350,454,Cadherin 4
+Q9Y5I2,Domain,455,564,Cadherin 5
+Q9Y5I2,Domain,587,689,Cadherin 6
+Q9Y5I2,Repeat,732,735,PXXP 1
+Q9Y5I2,Repeat,772,775,PXXP 2
+Q9Y5I2,Repeat,797,800,PXXP 3
+Q9Y5I2,Repeat,830,833,PXXP 4
+Q9Y5I2,Repeat,871,874,PXXP 5
+Q9Y5I2,Repeat,889,892,PXXP 6
+O60245,Domain,29,143,Cadherin 1
+O60245,Domain,144,308,Cadherin 2
+O60245,Domain,309,415,Cadherin 3
+O60245,Domain,424,535,Cadherin 4
+O60245,Domain,536,639,Cadherin 5
+O60245,Domain,640,742,Cadherin 6
+O60245,Domain,745,862,Cadherin 7
+Q8NAC3,Domain,583,735,SEFIR
+Q9Y5E5,Domain,34,132,Cadherin 1
+Q9Y5E5,Domain,137,241,Cadherin 2
+Q9Y5E5,Domain,246,346,Cadherin 3
+Q9Y5E5,Domain,351,450,Cadherin 4
+Q9Y5E5,Domain,455,560,Cadherin 5
+Q9Y5E5,Domain,567,670,Cadherin 6
+Q9Y5G8,Domain,30,133,Cadherin 1
+Q9Y5G8,Domain,134,242,Cadherin 2
+Q9Y5G8,Domain,243,347,Cadherin 3
+Q9Y5G8,Domain,348,452,Cadherin 4
+Q9Y5G8,Domain,453,562,Cadherin 5
+Q9Y5G8,Domain,570,683,Cadherin 6
+Q9Y5G1,Domain,31,133,Cadherin 1
+Q9Y5G1,Domain,134,242,Cadherin 2
+Q9Y5G1,Domain,243,347,Cadherin 3
+Q9Y5G1,Domain,348,452,Cadherin 4
+Q9Y5G1,Domain,453,562,Cadherin 5
+Q9Y5G1,Domain,570,675,Cadherin 6
+Q9Y5H0,Domain,30,133,Cadherin 1
+Q9Y5H0,Domain,134,242,Cadherin 2
+Q9Y5H0,Domain,243,347,Cadherin 3
+Q9Y5H0,Domain,348,452,Cadherin 4
+Q9Y5H0,Domain,453,562,Cadherin 5
+Q9Y5H0,Domain,570,682,Cadherin 6
+Q13410,Domain,27,138,Ig-like V-type 1
+Q13410,Domain,148,234,Ig-like V-type 2
+Q13410,Domain,285,479,B30.2/SPRY
+Q8WWV6,Domain,61,169,Ig-like V-type
+Q6UWL6,Domain,24,118,Ig-like C2-type 1
+Q6UWL6,Domain,123,222,Ig-like C2-type 2
+Q6UWL6,Domain,227,307,Ig-like C2-type 3
+Q6UWL6,Domain,312,394,Ig-like C2-type 4
+Q6UWL6,Domain,398,501,Ig-like C2-type 5
+P32004,Domain,35,125,Ig-like C2-type 1
+P32004,Domain,139,226,Ig-like C2-type 2
+P32004,Domain,240,328,Ig-like C2-type 3
+P32004,Domain,333,420,Ig-like C2-type 4
+P32004,Domain,425,507,Ig-like C2-type 5
+P32004,Domain,518,607,Ig-like C2-type 6
+P32004,Domain,615,712,Fibronectin type-III 1
+P32004,Domain,717,810,Fibronectin type-III 2
+P32004,Domain,814,916,Fibronectin type-III 3
+P32004,Domain,920,1015,Fibronectin type-III 4
+P32004,Domain,1016,1115,Fibronectin type-III 5
+Q14943,Domain,42,102,Ig-like C2-type 1
+Q14943,Domain,137,202,Ig-like C2-type 2
+Q14943,Domain,237,300,Ig-like C2-type 3
+P18627,Domain,37,167,Ig-like V-type
+P18627,Domain,168,252,Ig-like C2-type 1
+P18627,Domain,265,343,Ig-like C2-type 2
+P18627,Domain,348,419,Ig-like C2-type 3
+Q9Y5F2,Domain,35,133,Cadherin 1
+Q9Y5F2,Domain,138,242,Cadherin 2
+Q9Y5F2,Domain,247,347,Cadherin 3
+Q9Y5F2,Domain,352,451,Cadherin 4
+Q9Y5F2,Domain,456,561,Cadherin 5
+Q9Y5F2,Domain,568,671,Cadherin 6
+Q9Y5E3,Domain,34,132,Cadherin 1
+Q9Y5E3,Domain,137,241,Cadherin 2
+Q9Y5E3,Domain,246,345,Cadherin 3
+Q9Y5E3,Domain,350,449,Cadherin 4
+Q9Y5E3,Domain,454,559,Cadherin 5
+Q9Y5E3,Domain,566,669,Cadherin 6
+P01906,Domain,113,205,Ig-like C1-type
+Q9NRM6,Domain,331,477,SEFIR
+Q9Y561,Domain,47,159,CUB 1
+Q9Y561,Domain,165,201,LDL-receptor class A 1
+Q9Y561,Domain,214,255,LDL-receptor class A 2
+Q9Y561,Domain,259,372,CUB 2
+Q9Y561,Domain,374,411,LDL-receptor class A 3
+Q9Y561,Domain,412,449,LDL-receptor class A 4
+Q9Y561,Domain,450,486,LDL-receptor class A 5
+O75144,Domain,19,129,Ig-like V-type
+O75144,Domain,141,227,Ig-like C2-type
+P10321,Domain,209,297,Ig-like C1-type
+Q86YC3,Domain,29,56,LRRNT
+Q86YC3,Repeat,58,79,LRR 1
+Q86YC3,Repeat,82,103,LRR 2
+Q86YC3,Repeat,106,127,LRR 3
+Q86YC3,Repeat,133,155,LRR 4
+Q86YC3,Repeat,158,179,LRR 5
+Q86YC3,Repeat,182,203,LRR 6
+Q86YC3,Repeat,206,227,LRR 7
+Q86YC3,Repeat,228,239,LRR 8
+Q86YC3,Repeat,251,272,LRR 9
+Q86YC3,Repeat,273,294,LRR 10
+Q86YC3,Repeat,329,350,LRR 11
+Q86YC3,Repeat,353,374,LRR 12
+Q86YC3,Repeat,377,398,LRR 13
+Q86YC3,Repeat,403,424,LRR 14
+Q86YC3,Repeat,427,447,LRR 15
+Q86YC3,Repeat,463,484,LRR 16
+Q86YC3,Repeat,486,507,LRR 17
+Q86YC3,Repeat,512,534,LRR 18
+Q86YC3,Repeat,537,558,LRR 19
+Q86YC3,Repeat,559,580,LRR 20
+Q86YC3,Repeat,585,594,LRR 21
+Q86YC3,Domain,595,643,LRRCT
+O00478,Domain,30,139,Ig-like V-type 1
+O00478,Domain,145,236,Ig-like V-type 2
+O00478,Domain,322,518,B30.2/SPRY
+A8MVZ5,Domain,27,146,Ig-like V-type
+Q6UX41,Domain,19,132,Ig-like V-type 1
+Q6UX41,Domain,133,222,Ig-like V-type 2
+Q6UX41,Domain,270,466,B30.2/SPRY
+P54760,Domain,17,202,Eph LBD
+P54760,Domain,323,432,Fibronectin type-III 1
+P54760,Domain,436,529,Fibronectin type-III 2
+P54760,Domain,615,899,Protein kinase
+P54760,Domain,907,971,SAM
+P98172,Domain,30,164,Ephrin RBD
+Q8N109,Domain,42,102,Ig-like C2-type 1
+Q8N109,Domain,137,200,Ig-like C2-type 2
+Q86VZ4,Domain,99,184,MANSC
+Q86VZ4,Domain,210,305,PKD
+Q86VZ4,Domain,309,345,LDL-receptor class A
+Q13683,Repeat,35,103,FG-GAP 1
+Q13683,Repeat,110,175,FG-GAP 2
+Q13683,Repeat,185,238,FG-GAP 3
+Q13683,Repeat,292,349,FG-GAP 4
+Q13683,Repeat,350,411,FG-GAP 5
+Q13683,Repeat,412,467,FG-GAP 6
+Q13683,Repeat,471,530,FG-GAP 7
+Q13683,Repeat,1157,1160,1
+Q13683,Repeat,1165,1168,2
+Q13683,Repeat,1173,1176,3
+Q9Y5F7,Domain,30,133,Cadherin 1
+Q9Y5F7,Domain,134,242,Cadherin 2
+Q9Y5F7,Domain,243,350,Cadherin 3
+Q9Y5F7,Domain,351,455,Cadherin 4
+Q9Y5F7,Domain,456,565,Cadherin 5
+Q9Y5F7,Domain,572,676,Cadherin 6
+Q9Y5F6,Domain,30,133,Cadherin 1
+Q9Y5F6,Domain,134,242,Cadherin 2
+Q9Y5F6,Domain,243,350,Cadherin 3
+Q9Y5F6,Domain,351,454,Cadherin 4
+Q9Y5F6,Domain,455,564,Cadherin 5
+Q9Y5F6,Domain,571,677,Cadherin 6
+P17181,Domain,32,126,Fibronectin type-III 1
+P17181,Domain,127,227,Fibronectin type-III 2
+P17181,Domain,231,329,Fibronectin type-III 3
+P17181,Domain,331,432,Fibronectin type-III 4
+Q13478,Domain,33,121,Ig-like C2-type 1
+Q13478,Domain,133,212,Ig-like C2-type 2
+Q13478,Domain,220,312,Ig-like C2-type 3
+Q13478,Domain,373,523,TIR
+Q8NI17,Domain,24,122,Fibronectin type-III 1
+Q8NI17,Domain,124,225,Fibronectin type-III 2
+Q8NI17,Domain,223,315,Fibronectin type-III 3
+Q8NI17,Domain,319,416,Fibronectin type-III 4
+Q8NI17,Domain,421,515,Fibronectin type-III 5
+A6NI73,Domain,51,136,Ig-like C2-type 1
+A6NI73,Domain,142,230,Ig-like C2-type 2
+O15146,Domain,28,116,Ig-like 1
+O15146,Domain,121,205,Ig-like 2
+O15146,Domain,212,302,Ig-like 3
+O15146,Domain,312,450,FZ
+O15146,Domain,575,856,Protein kinase
+Q6GTX8,Domain,29,117,Ig-like C2-type
+Q9HBW1,Domain,39,75,LRRNT
+Q9HBW1,Repeat,76,97,LRR 1
+Q9HBW1,Repeat,100,121,LRR 2
+Q9HBW1,Repeat,124,145,LRR 3
+Q9HBW1,Repeat,148,169,LRR 4
+Q9HBW1,Repeat,172,194,LRR 5
+Q9HBW1,Repeat,197,218,LRR 6
+Q9HBW1,Repeat,219,240,LRR 7
+Q9HBW1,Repeat,243,264,LRR 8
+Q9HBW1,Repeat,267,288,LRR 9
+Q9HBW1,Domain,300,352,LRRCT
+Q9HBW1,Domain,353,442,Ig-like
+O75197,Repeat,75,119,LDL-receptor class B 1
+O75197,Repeat,78,81,YWTD 1
+O75197,Repeat,120,162,LDL-receptor class B 2
+O75197,Repeat,123,126,YWTD 2
+O75197,Repeat,163,206,LDL-receptor class B 3
+O75197,Repeat,166,169,YWTD 3
+O75197,Repeat,207,247,LDL-receptor class B 4
+O75197,Repeat,248,290,LDL-receptor class B 5
+O75197,Repeat,251,254,YWTD 4
+O75197,Domain,295,337,EGF-like 1
+O75197,Repeat,385,427,LDL-receptor class B 6
+O75197,Repeat,388,391,YWTD 5
+O75197,Repeat,428,470,LDL-receptor class B 7
+O75197,Repeat,431,434,YWTD 6
+O75197,Repeat,471,514,LDL-receptor class B 8
+O75197,Repeat,474,477,YWTD 7
+O75197,Repeat,515,557,LDL-receptor class B 9
+O75197,Repeat,558,600,LDL-receptor class B 10
+O75197,Repeat,559,562,YWTD 8
+O75197,Domain,601,641,EGF-like 2
+O75197,Repeat,687,729,LDL-receptor class B 11
+O75197,Repeat,690,693,YWTD 9
+O75197,Repeat,730,772,LDL-receptor class B 12
+O75197,Repeat,773,815,LDL-receptor class B 13
+O75197,Repeat,816,855,LDL-receptor class B 14
+O75197,Repeat,819,822,YWTD 10
+O75197,Repeat,856,898,LDL-receptor class B 15
+O75197,Repeat,859,862,YWTD 11
+O75197,Domain,902,942,EGF-like 3
+O75197,Repeat,989,1035,LDL-receptor class B 16
+O75197,Repeat,1036,1078,LDL-receptor class B 17
+O75197,Repeat,1079,1123,LDL-receptor class B 18
+O75197,Repeat,1124,1164,LDL-receptor class B 19
+O75197,Repeat,1165,1207,LDL-receptor class B 20
+O75197,Domain,1213,1254,EGF-like 4
+O75197,Domain,1258,1296,LDL-receptor class A 1
+O75197,Domain,1297,1333,LDL-receptor class A 2
+O75197,Domain,1335,1371,LDL-receptor class A 3
+Q9UHF4,Domain,37,135,Fibronectin type-III 1
+Q9UHF4,Domain,136,242,Fibronectin type-III 2
+O75121,Domain,47,141,Ig-like C2-type
+Q8N423,Domain,27,110,Ig-like C2-type 1
+Q8N423,Domain,111,229,Ig-like C2-type 2
+Q8N423,Domain,230,318,Ig-like C2-type 3
+Q8N423,Domain,330,419,Ig-like C2-type 4
+P01903,Domain,112,204,Ig-like C1-type
+P41217,Domain,31,141,Ig-like V-type
+P41217,Domain,142,232,Ig-like C2-type
+Q8IZS8,Domain,256,438,VWFA
+Q8IZS8,Domain,452,549,Cache
+P10747,Domain,28,137,Ig-like V-type
+Q9ULB4,Domain,54,159,Cadherin 1
+Q9ULB4,Domain,160,268,Cadherin 2
+Q9ULB4,Domain,269,383,Cadherin 3
+Q9ULB4,Domain,384,486,Cadherin 4
+Q9ULB4,Domain,487,608,Cadherin 5
+P04439,Domain,209,295,Ig-like C1-type
+Q5DX21,Domain,23,136,Ig-like V-type
+Q5DX21,Domain,144,234,Ig-like C2-type
+P01589,Domain,22,84,Sushi 1
+P01589,Domain,123,186,Sushi 2
+Q86UE6,Domain,35,63,LRRNT
+Q86UE6,Repeat,64,87,LRR 1
+Q86UE6,Repeat,89,111,LRR 2
+Q86UE6,Repeat,112,135,LRR 3
+Q86UE6,Repeat,137,159,LRR 4
+Q86UE6,Repeat,161,183,LRR 5
+Q86UE6,Repeat,184,207,LRR 6
+Q86UE6,Repeat,209,231,LRR 7
+Q86UE6,Repeat,233,255,LRR 8
+Q86UE6,Repeat,256,278,LRR 9
+Q86UE6,Repeat,279,302,LRR 10
+Q86UE6,Domain,314,365,LRRCT
+Q6UXZ3,Domain,19,125,Ig-like V-type
+Q3T906,Repeat,438,473,LNR 1
+Q3T906,Repeat,505,545,LNR 2
+Q3T906,Domain,700,813,DMAP-interaction
+Q3T906,Domain,1005,1040,EF-hand
+Q16820,Domain,62,256,Peptidase M12A
+Q16820,Domain,260,429,MAM
+Q16820,Domain,430,585,MATH
+Q16820,Domain,604,644,EGF-like
+Q13477,Domain,23,112,Ig-like 1
+Q13477,Domain,113,231,Ig-like 2
+Q13477,Repeat,228,231,1
+Q13477,Repeat,232,239,2
+Q13477,Repeat,240,247,3
+Q13477,Repeat,248,255,4
+Q13477,Repeat,256,263,5
+Q13477,Repeat,264,271,6
+Q86VH5,Domain,31,61,LRRNT
+Q86VH5,Repeat,63,83,LRR 1
+Q86VH5,Repeat,86,107,LRR 2
+Q86VH5,Repeat,110,131,LRR 3
+Q86VH5,Repeat,134,155,LRR 4
+Q86VH5,Repeat,158,179,LRR 5
+Q86VH5,Repeat,182,203,LRR 6
+Q86VH5,Repeat,206,226,LRR 7
+Q86VH5,Repeat,230,251,LRR 8
+Q86VH5,Repeat,254,275,LRR 9
+Q86VH5,Repeat,279,300,LRR 10
+Q86VH5,Domain,312,363,LRRCT
+Q8IU57,Domain,26,126,Fibronectin type-III
+P13762,Domain,126,216,Ig-like C1-type
+Q9BX67,Domain,35,127,Ig-like V-type
+Q9BX67,Domain,139,236,Ig-like C2-type
+P35070,Domain,65,105,EGF-like
+Q6UXG8,Domain,54,135,Ig-like V-type
+Q6UXG8,Domain,310,509,B30.2/SPRY
+Q8TDQ1,Domain,20,126,Ig-like V-type
+P21709,Domain,27,209,Eph LBD
+P21709,Domain,332,445,Fibronectin type-III 1
+P21709,Domain,447,538,Fibronectin type-III 2
+P21709,Domain,624,884,Protein kinase
+P21709,Domain,913,976,SAM
+P19235,Domain,147,247,Fibronectin type-III
+P05538,Domain,128,216,Ig-like C1-type
+P01920,Domain,129,217,Ig-like C1-type
+Q9NY47,Domain,291,469,VWFA
+Q9NY47,Domain,485,574,Cache
+P01911,Domain,126,214,Ig-like C1-type
+Q96KC8,Domain,65,129,J
+Q96KC8,Domain,325,379,SANT 1
+Q96KC8,Domain,492,547,SANT 2
+Q9BWV1,Domain,36,123,Ig-like C2-type 1
+Q9BWV1,Domain,129,213,Ig-like C2-type 2
+Q9BWV1,Domain,235,315,Ig-like C2-type 3
+Q9BWV1,Domain,323,409,Ig-like C2-type 4
+Q9BWV1,Domain,474,571,Fibronectin type-III 1
+Q9BWV1,Domain,608,703,Fibronectin type-III 2
+Q9BWV1,Domain,712,812,Fibronectin type-III 3
+Q6PCB8,Domain,71,158,Ig-like V-type 1
+Q6PCB8,Domain,159,253,Ig-like V-type 2
+Q13349,Repeat,19,76,FG-GAP 1
+Q13349,Repeat,77,136,FG-GAP 2
+Q13349,Domain,150,332,VWFA
+Q13349,Repeat,339,390,FG-GAP 3
+Q13349,Repeat,391,442,FG-GAP 4
+Q13349,Repeat,443,503,FG-GAP 5
+Q13349,Repeat,506,564,FG-GAP 6
+Q13349,Repeat,569,629,FG-GAP 7
+P14770,Domain,17,51,LRRNT
+P14770,Repeat,60,83,LRR
+P14770,Domain,85,137,LRRCT
+Q14626,Domain,27,110,Ig-like C2-type
+Q14626,Domain,112,219,Fibronectin type-III 1
+Q14626,Domain,220,317,Fibronectin type-III 2
+Q8TDW7,Domain,44,158,Cadherin 1
+Q8TDW7,Domain,159,266,Cadherin 2
+Q8TDW7,Domain,264,375,Cadherin 3
+Q8TDW7,Domain,377,472,Cadherin 4
+Q8TDW7,Domain,473,578,Cadherin 5
+Q8TDW7,Domain,579,681,Cadherin 6
+Q8TDW7,Domain,727,831,Cadherin 7
+Q8TDW7,Domain,832,936,Cadherin 8
+Q8TDW7,Domain,937,1043,Cadherin 9
+Q8TDW7,Domain,1044,1148,Cadherin 10
+Q8TDW7,Domain,1149,1254,Cadherin 11
+Q8TDW7,Domain,1255,1359,Cadherin 12
+Q8TDW7,Domain,1363,1460,Cadherin 13
+Q8TDW7,Domain,1461,1566,Cadherin 14
+Q8TDW7,Domain,1567,1769,Cadherin 15
+Q8TDW7,Domain,1770,1883,Cadherin 16
+Q8TDW7,Domain,1884,1986,Cadherin 17
+Q8TDW7,Domain,1983,2084,Cadherin 18
+Q8TDW7,Domain,2085,2186,Cadherin 19
+Q8TDW7,Domain,2187,2287,Cadherin 20
+Q8TDW7,Domain,2288,2394,Cadherin 21
+Q8TDW7,Domain,2395,2496,Cadherin 22
+Q8TDW7,Domain,2497,2600,Cadherin 23
+Q8TDW7,Domain,2601,2708,Cadherin 24
+Q8TDW7,Domain,2709,2814,Cadherin 25
+Q8TDW7,Domain,2815,2924,Cadherin 26
+Q8TDW7,Domain,2925,3029,Cadherin 27
+Q8TDW7,Domain,3030,3131,Cadherin 28
+Q8TDW7,Domain,3132,3236,Cadherin 29
+Q8TDW7,Domain,3237,3341,Cadherin 30
+Q8TDW7,Domain,3342,3446,Cadherin 31
+Q8TDW7,Domain,3447,3551,Cadherin 32
+Q8TDW7,Domain,3552,3653,Cadherin 33
+Q8TDW7,Domain,3795,3833,EGF-like 1
+Q8TDW7,Domain,3835,4018,Laminin G-like
+Q8TDW7,Domain,4021,4058,EGF-like 2
+Q8TDW7,Domain,4060,4096,EGF-like 3
+Q8TDW7,Domain,4098,4134,EGF-like 4
+Q96AP7,Domain,30,143,Ig-like V-type
+Q96AP7,Domain,153,242,Ig-like C2-type
+Q9ULB5,Domain,49,153,Cadherin 1
+Q9ULB5,Domain,154,262,Cadherin 2
+Q9ULB5,Domain,263,377,Cadherin 3
+Q9ULB5,Domain,378,482,Cadherin 4
+Q9ULB5,Domain,482,599,Cadherin 5
+P56199,Repeat,30,91,FG-GAP 1
+P56199,Repeat,101,160,FG-GAP 2
+P56199,Domain,161,360,VWFA
+P56199,Repeat,365,417,FG-GAP 3
+P56199,Repeat,422,475,FG-GAP 4
+P56199,Repeat,476,538,FG-GAP 5
+P56199,Repeat,557,615,FG-GAP 6
+P56199,Repeat,619,679,FG-GAP 7
+P20036,Domain,118,210,Ig-like C1-type
+P17813,Domain,363,533,ZP
+Q15768,Domain,28,167,Ephrin RBD
+Q99075,Domain,104,144,EGF-like
+P36894,Domain,204,233,GS
+P36894,Domain,234,525,Protein kinase
+Q99467,Domain,33,53,LRRNT
+Q99467,Repeat,54,75,LRR 1
+Q99467,Repeat,78,99,LRR 2
+Q99467,Repeat,102,123,LRR 3
+Q99467,Repeat,126,147,LRR 4
+Q99467,Repeat,150,171,LRR 5
+Q99467,Repeat,174,195,LRR 6
+Q99467,Repeat,201,221,LRR 7
+Q99467,Repeat,275,296,LRR 8
+Q99467,Repeat,299,320,LRR 9
+Q99467,Repeat,322,343,LRR 10
+Q99467,Repeat,346,366,LRR 11
+Q99467,Repeat,371,391,LRR 12
+Q99467,Repeat,397,418,LRR 13
+Q99467,Repeat,421,442,LRR 14
+Q99467,Repeat,446,466,LRR 15
+Q99467,Repeat,470,493,LRR 16
+Q99467,Repeat,497,518,LRR 17
+Q99467,Repeat,521,544,LRR 18
+Q99467,Repeat,546,564,LRR 19
+Q99467,Domain,577,627,LRRCT
+Q9H6D8,Domain,47,140,Fibronectin type-III
+Q8NFT8,Domain,44,92,EGF-like 1
+Q8NFT8,Domain,94,133,EGF-like 2
+Q8NFT8,Domain,309,348,EGF-like 3
+Q8NFT8,Domain,349,390,EGF-like 4
+Q8NFT8,Domain,392,428,EGF-like 5
+Q8NFT8,Domain,430,466,EGF-like 6
+Q8NFT8,Domain,468,503,EGF-like 7
+Q8NFT8,Domain,505,541,EGF-like 8
+Q8NFT8,Domain,543,579,EGF-like 9
+Q8NFT8,Domain,546,568,Follistatin-like
+Q8NFT8,Domain,581,617,EGF-like 10
+P26842,Repeat,26,63,TNFR-Cys 1
+P26842,Repeat,64,104,TNFR-Cys 2
+P26842,Repeat,105,141,TNFR-Cys 3
+O43184,Domain,214,416,Peptidase M12B
+O43184,Domain,424,510,Disintegrin
+O43184,Domain,656,688,EGF-like
+Q9UKF2,Domain,203,393,Peptidase M12B
+Q9UKF2,Domain,399,485,Disintegrin
+Q9UKF2,Domain,629,663,EGF-like
+Q9UKF2,Repeat,732,740,1
+Q9UKF2,Repeat,741,749,2
+Q9UKF2,Repeat,750,758,3
+Q9UKF2,Repeat,759,767,4
+Q9UKF2,Repeat,768,776,5
+Q6DN72,Domain,20,95,Ig-like C2-type 1
+Q6DN72,Domain,111,197,Ig-like C2-type 2
+Q6DN72,Domain,207,293,Ig-like C2-type 3
+Q9UGN4,Domain,19,123,Ig-like V-type
+O43506,Domain,207,400,Peptidase M12B
+O43506,Domain,407,493,Disintegrin
+O43506,Domain,635,663,EGF-like
+P08637,Domain,24,105,Ig-like C2-type 1
+P08637,Domain,107,189,Ig-like C2-type 2
+P06340,Domain,113,205,Ig-like C1-type
+Q08708,Domain,22,130,Ig-like V-type
+Q6UW88,Domain,56,96,EGF-like
+P54764,Domain,30,209,Eph LBD
+P54764,Domain,328,439,Fibronectin type-III 1
+P54764,Domain,440,537,Fibronectin type-III 2
+P54764,Domain,621,882,Protein kinase
+P54764,Domain,911,975,SAM
+Q5JZY3,Domain,35,216,Eph LBD
+Q5JZY3,Domain,340,452,Fibronectin type-III 1
+Q5JZY3,Domain,456,554,Fibronectin type-III 2
+Q5JZY3,Domain,645,900,Protein kinase
+Q5JZY3,Domain,933,997,SAM
+Q96PL5,Domain,30,140,Ig-like V-type
+Q96PL5,Domain,220,418,B30.2/SPRY
+P04440,Domain,124,212,Ig-like C1-type
+Q9UF33,Domain,34,212,Eph LBD
+Q9UF33,Domain,331,441,Fibronectin type-III 1
+Q9UF33,Domain,442,537,Fibronectin type-III 2
+Q9UF33,Domain,631,944,Protein kinase
+Q9UF33,Domain,961,1025,SAM
+P01133,Repeat,86,127,LDL-receptor class B 1
+P01133,Repeat,128,169,LDL-receptor class B 2
+P01133,Repeat,170,211,LDL-receptor class B 3
+P01133,Repeat,212,258,LDL-receptor class B 4
+P01133,Domain,314,355,EGF-like 1
+P01133,Domain,356,396,EGF-like 2
+P01133,Domain,397,437,EGF-like 3
+P01133,Domain,435,477,EGF-like 4
+P01133,Repeat,483,523,LDL-receptor class B 5
+P01133,Repeat,524,566,LDL-receptor class B 6
+P01133,Repeat,567,609,LDL-receptor class B 7
+P01133,Repeat,610,653,LDL-receptor class B 8
+P01133,Repeat,654,696,LDL-receptor class B 9
+P01133,Domain,741,781,EGF-like 5
+P01133,Domain,831,869,EGF-like 6
+P01133,Domain,870,911,EGF-like 7
+P01133,Domain,912,952,EGF-like 8
+P01133,Domain,972,1013,EGF-like 9
+Q9ULX7,Domain,20,278,Alpha-carbonic anhydrase
+O75077,Domain,299,496,Peptidase M12B
+O75077,Domain,502,588,Disintegrin
+O75077,Domain,732,769,EGF-like
+Q01113,Domain,149,259,Fibronectin type-III
+Q9BQS7,Domain,24,206,Plastocyanin-like 1
+Q9BQS7,Domain,218,366,Plastocyanin-like 2
+Q9BQS7,Domain,379,560,Plastocyanin-like 3
+Q9BQS7,Domain,570,718,Plastocyanin-like 4
+Q9BQS7,Domain,731,903,Plastocyanin-like 5
+Q9BQS7,Domain,911,1087,Plastocyanin-like 6
+Q6PJG9,Domain,17,48,LRRNT
+Q6PJG9,Repeat,49,70,LRR 1
+Q6PJG9,Repeat,73,94,LRR 2
+Q6PJG9,Repeat,97,118,LRR 3
+Q6PJG9,Repeat,121,142,LRR 4
+Q6PJG9,Repeat,146,161,LRR 5
+Q6PJG9,Repeat,170,191,LRR 6
+Q6PJG9,Repeat,194,215,LRR 7
+Q6PJG9,Domain,234,280,LRRCT
+Q6PJG9,Domain,281,367,Ig-like
+Q6PJG9,Domain,405,502,Fibronectin type-III
+Q8NHJ6,Domain,27,118,Ig-like C2-type 1
+Q8NHJ6,Domain,124,218,Ig-like C2-type 2
+Q14953,Domain,42,107,Ig-like C2-type 1
+Q14953,Domain,142,205,Ig-like C2-type 2
+P40198,Domain,35,142,Ig-like V-type
+O75871,Domain,36,139,Ig-like V-type
+Q9UM73,Domain,264,427,MAM 1
+Q9UM73,Domain,437,473,LDL-receptor class A
+Q9UM73,Domain,478,636,MAM 2
+Q9UM73,Domain,1116,1392,Protein kinase
+Q9NPY3,Domain,32,174,C-type lectin
+Q9NPY3,Domain,260,301,EGF-like 1
+Q9NPY3,Domain,302,344,EGF-like 2
+Q9NPY3,Domain,345,384,EGF-like 3
+Q9NPY3,Domain,385,426,EGF-like 4
+Q9NPY3,Domain,427,468,EGF-like 5
+Q7Z6M3,Domain,35,118,Ig-like C2-type 1
+Q7Z6M3,Domain,128,213,Ig-like C2-type 2
+P34810,Repeat,70,99,1
+P34810,Repeat,100,129,2
+Q9BZW8,Domain,22,127,Ig-like 1
+Q9BZW8,Domain,131,215,Ig-like 2
+Q9H756,Repeat,48,68,LRR 1
+Q9H756,Repeat,74,95,LRR 2
+Q9H756,Repeat,98,119,LRR 3
+Q9H756,Repeat,122,143,LRR 4
+Q9H756,Repeat,146,169,LRR 5
+Q9H756,Domain,176,228,LRRCT
+Q9Y624,Domain,28,125,Ig-like V-type 1
+Q9Y624,Domain,135,228,Ig-like V-type 2
+Q01344,Domain,32,123,Fibronectin type-III 1
+Q01344,Domain,241,334,Fibronectin type-III 2
+Q9ULH4,Domain,21,52,LRRNT
+Q9ULH4,Repeat,53,74,LRR 1
+Q9ULH4,Repeat,77,98,LRR 2
+Q9ULH4,Repeat,101,122,LRR 3
+Q9ULH4,Repeat,125,146,LRR 4
+Q9ULH4,Repeat,150,171,LRR 5
+Q9ULH4,Repeat,174,195,LRR 6
+Q9ULH4,Repeat,198,219,LRR 7
+Q9ULH4,Domain,242,288,LRRCT
+Q9ULH4,Domain,289,375,Ig-like
+Q9ULH4,Domain,421,518,Fibronectin type-III
+Q9BTN0,Domain,19,59,LRRNT
+Q9BTN0,Repeat,60,83,LRR 1
+Q9BTN0,Repeat,84,105,LRR 2
+Q9BTN0,Repeat,108,129,LRR 3
+Q9BTN0,Repeat,132,153,LRR 4
+Q9BTN0,Repeat,157,178,LRR 5
+Q9BTN0,Repeat,181,202,LRR 6
+Q9BTN0,Repeat,205,226,LRR 7
+Q9BTN0,Domain,249,295,LRRCT
+Q9BTN0,Domain,295,382,Ig-like
+Q9BTN0,Domain,425,523,Fibronectin type-III
+Q7KYR7,Domain,29,141,Ig-like V-type
+Q7KYR7,Domain,310,506,B30.2/SPRY
+Q8NFM7,Domain,355,509,SEFIR
+Q95460,Domain,203,299,Ig-like C1-type
+P24071,Domain,42,107,Ig-like C2-type 1
+P24071,Domain,139,200,Ig-like C2-type 2
+Q30154,Domain,126,214,Ig-like C1-type
+O95976,Domain,30,134,Ig-like C2-type
+P40197,Domain,17,50,LRRNT
+P40197,Repeat,75,96,LRR 1
+P40197,Repeat,99,120,LRR 2
+P40197,Repeat,123,144,LRR 3
+P40197,Repeat,147,168,LRR 4
+P40197,Repeat,171,193,LRR 5
+P40197,Repeat,195,216,LRR 6
+P40197,Repeat,219,240,LRR 7
+P40197,Repeat,243,264,LRR 8
+P40197,Repeat,267,288,LRR 9
+P40197,Repeat,291,312,LRR 10
+P40197,Repeat,340,361,LRR 11
+P40197,Repeat,364,385,LRR 12
+P40197,Repeat,388,409,LRR 13
+P40197,Domain,421,474,LRRCT
+Q6UY11,Domain,27,58,EGF-like 1
+Q6UY11,Domain,62,89,EGF-like 2
+Q6UY11,Domain,91,129,EGF-like 3
+Q6UY11,Domain,131,172,EGF-like 4
+Q6UY11,Domain,174,210,EGF-like 5
+Q6UY11,Domain,212,248,EGF-like 6
+Q14956,Domain,240,327,PKD
+P26010,Domain,150,389,VWFA
+P26010,Repeat,478,526,I
+P26010,Repeat,527,565,II
+P26010,Repeat,566,604,III
+P26010,Repeat,605,640,IV
+Q9Y219,Domain,196,240,DSL
+Q9Y219,Domain,241,274,EGF-like 1
+Q9Y219,Domain,275,305,EGF-like 2
+Q9Y219,Domain,307,345,EGF-like 3
+Q9Y219,Domain,347,383,EGF-like 4
+Q9Y219,Domain,385,421,EGF-like 5
+Q9Y219,Domain,423,459,EGF-like 6
+Q9Y219,Domain,461,496,EGF-like 7
+Q9Y219,Domain,498,534,EGF-like 8
+Q9Y219,Domain,536,572,EGF-like 9
+Q9Y219,Domain,574,634,EGF-like 10
+Q9Y219,Domain,636,672,EGF-like 11
+Q9Y219,Domain,674,710,EGF-like 12
+Q9Y219,Domain,712,748,EGF-like 13
+Q9Y219,Domain,751,787,EGF-like 14
+Q9Y219,Domain,789,825,EGF-like 15
+Q9Y219,Domain,827,863,EGF-like 16
+Q9Y219,Domain,870,944,VWFC
+Q9NP60,Domain,18,132,Ig-like C2-type 1
+Q9NP60,Domain,141,232,Ig-like C2-type 2
+Q9NP60,Domain,239,347,Ig-like C2-type 3
+Q9NP60,Domain,400,559,TIR
+P01909,Domain,112,204,Ig-like C1-type
+Q9UNE0,Repeat,30,71,TNFR-Cys 1
+Q9UNE0,Repeat,73,113,TNFR-Cys 2
+Q9UNE0,Repeat,115,148,TNFR-Cys 3
+Q9UNE0,Domain,358,431,Death
+P19256,Domain,30,121,Ig-like
+Q16819,Domain,66,260,Peptidase M12A
+Q16819,Domain,264,433,MAM
+Q16819,Domain,434,593,MATH
+Q16819,Domain,670,710,EGF-like
+Q7Z6A9,Domain,31,132,Ig-like V-type
+P06127,Domain,35,133,SRCR 1
+P06127,Domain,159,268,SRCR 2
+P06127,Domain,276,368,SRCR 3
+P55899,Domain,202,289,Ig-like C1-type
+P52799,Domain,28,164,Ephrin RBD
+Q5VWK5,Domain,127,217,Fibronectin type-III 1
+Q5VWK5,Domain,219,318,Fibronectin type-III 2
+A6NJW9,Domain,19,132,Ig-like V-type
+Q9HBT6,Domain,61,165,Cadherin 1
+Q9HBT6,Domain,166,274,Cadherin 2
+Q9HBT6,Domain,275,389,Cadherin 3
+Q9HBT6,Domain,390,494,Cadherin 4
+Q9HBT6,Domain,494,610,Cadherin 5
+P12314,Domain,22,101,Ig-like C2-type 1
+P12314,Domain,95,184,Ig-like C2-type 2
+P12314,Domain,190,277,Ig-like C2-type 3
+P08174,Domain,35,96,Sushi 1
+P08174,Domain,96,160,Sushi 2
+P08174,Domain,161,222,Sushi 3
+P08174,Domain,223,285,Sushi 4
+Q96LA6,Domain,17,104,Ig-like C2-type 1
+Q96LA6,Domain,109,200,Ig-like C2-type 2
+Q96LA6,Domain,208,291,Ig-like C2-type 3
+Q9NR61,Domain,173,217,DSL
+Q9NR61,Domain,218,251,EGF-like 1
+Q9NR61,Domain,252,282,EGF-like 2
+Q9NR61,Domain,284,322,EGF-like 3
+Q9NR61,Domain,324,360,EGF-like 4
+Q9NR61,Domain,362,400,EGF-like 5
+Q9NR61,Domain,402,438,EGF-like 6
+Q9NR61,Domain,440,476,EGF-like 7
+Q9NR61,Domain,480,518,EGF-like 8
+P79483,Domain,126,214,Ig-like C1-type
+P18564,Domain,131,371,VWFA
+P18564,Repeat,456,501,I
+P18564,Repeat,502,543,II
+P18564,Repeat,544,582,III
+P18564,Repeat,583,619,IV
+Q96F46,Domain,377,534,SEFIR
+Q96P31,Domain,21,98,Ig-like C2-type 1
+Q96P31,Domain,99,182,Ig-like C2-type 2
+Q96P31,Domain,192,270,Ig-like C2-type 3
+Q96P31,Domain,284,369,Ig-like C2-type 4
+Q96P31,Domain,383,470,Ig-like C2-type 5
+Q96P31,Domain,476,563,Ig-like C2-type 6
+P54753,Domain,39,217,Eph LBD
+P54753,Domain,339,451,Fibronectin type-III 1
+P54753,Domain,452,545,Fibronectin type-III 2
+P54753,Domain,633,896,Protein kinase
+P54753,Domain,925,989,SAM
+Q08334,Domain,23,111,Fibronectin type-III 1
+Q08334,Domain,114,216,Fibronectin type-III 2
+P07359,Domain,17,47,LRRNT
+P07359,Repeat,48,68,LRR 1
+P07359,Repeat,72,93,LRR 2
+P07359,Repeat,94,115,LRR 3
+P07359,Repeat,117,137,LRR 4
+P07359,Repeat,141,162,LRR 5
+P07359,Repeat,165,186,LRR 6
+P07359,Repeat,189,210,LRR 7
+P07359,Domain,221,282,LRRCT
+Q15375,Domain,32,210,Eph LBD
+Q15375,Domain,331,441,Fibronectin type-III 1
+Q15375,Domain,442,537,Fibronectin type-III 2
+Q15375,Domain,633,894,Protein kinase
+Q15375,Domain,923,987,SAM
+P29322,Domain,31,209,Eph LBD
+P29322,Domain,328,438,Fibronectin type-III 1
+P29322,Domain,439,534,Fibronectin type-III 2
+P29322,Domain,635,896,Protein kinase
+P29322,Domain,930,994,SAM
+P32942,Domain,46,103,Ig-like C2-type 1
+P32942,Domain,132,197,Ig-like C2-type 2
+P32942,Domain,234,301,Ig-like C2-type 3
+P32942,Domain,329,382,Ig-like C2-type 4
+P32942,Domain,416,469,Ig-like C2-type 5
+P01889,Domain,209,295,Ig-like C1-type
+Q5ZPR3,Domain,29,139,Ig-like V-type 1
+Q5ZPR3,Domain,145,238,Ig-like C2-type 1
+Q5ZPR3,Domain,243,357,Ig-like V-type 2
+Q5ZPR3,Domain,363,456,Ig-like C2-type 2
+P50895,Domain,32,142,Ig-like V-type 1
+P50895,Domain,147,257,Ig-like V-type 2
+P50895,Domain,274,355,Ig-like C2-type 1
+P50895,Domain,363,441,Ig-like C2-type 2
+P50895,Domain,448,541,Ig-like C2-type 3
+P26012,Domain,146,384,VWFA
+P26012,Repeat,471,510,I
+P26012,Repeat,511,552,II
+P26012,Repeat,553,592,III
+P26012,Repeat,593,629,IV
+Q9HBE5,Domain,21,118,Fibronectin type-III 1
+Q9HBE5,Domain,119,228,Fibronectin type-III 2
+P16871,Domain,131,231,Fibronectin type-III
+Q9H013,Domain,210,408,Peptidase M12B
+Q9H013,Domain,416,502,Disintegrin
+Q9H013,Domain,650,682,EGF-like
+P78552,Domain,34,123,Fibronectin type-III 1
+P78552,Domain,128,226,Fibronectin type-III 2
+P78552,Domain,227,339,Fibronectin type-III 3
+P20963,Domain,61,89,ITAM 1
+P20963,Domain,100,128,ITAM 2
+P20963,Domain,131,159,ITAM 3
+P54762,Domain,19,201,Eph LBD
+P54762,Domain,322,432,Fibronectin type-III 1
+P54762,Domain,433,528,Fibronectin type-III 2
+P54762,Domain,619,882,Protein kinase
+P54762,Domain,911,975,SAM
+Q9NYJ7,Domain,176,215,DSL
+Q9NYJ7,Domain,216,249,EGF-like 1
+Q9NYJ7,Domain,274,310,EGF-like 2
+Q9NYJ7,Domain,312,351,EGF-like 3
+Q9NYJ7,Domain,353,389,EGF-like 4
+Q9NYJ7,Domain,391,427,EGF-like 5
+Q9NYJ7,Domain,429,465,EGF-like 6
+O14944,Domain,64,104,EGF-like
+Q7Z3S7,Domain,291,473,VWFA
+Q7Z3S7,Domain,487,580,Cache
+O95196,Domain,371,413,EGF-like
+Q99665,Domain,126,221,Fibronectin type-III 1
+Q99665,Domain,226,319,Fibronectin type-III 2
+Q99665,Domain,320,419,Fibronectin type-III 3
+Q99665,Domain,423,520,Fibronectin type-III 4
+Q99665,Domain,521,620,Fibronectin type-III 5
+O95256,Domain,149,235,Ig-like C2-type 1
+O95256,Domain,251,353,Ig-like C2-type 2
+O95256,Domain,406,562,TIR
+Q13797,Repeat,35,96,FG-GAP 1
+Q13797,Repeat,111,174,FG-GAP 2
+Q13797,Repeat,182,232,FG-GAP 3
+Q13797,Repeat,233,289,FG-GAP 4
+Q13797,Repeat,290,349,FG-GAP 5
+Q13797,Repeat,351,408,FG-GAP 6
+Q13797,Repeat,411,474,FG-GAP 7
+P16066,Domain,528,805,Protein kinase
+P16066,Domain,876,1006,Guanylate cyclase
+O75078,Domain,239,438,Peptidase M12B
+O75078,Domain,444,531,Disintegrin
+O75078,Domain,677,709,EGF-like
+A6NF34,Domain,76,246,VWFA
+P22607,Domain,24,126,Ig-like C2-type 1
+P22607,Domain,151,244,Ig-like C2-type 2
+P22607,Domain,253,355,Ig-like C2-type 3
+P22607,Domain,472,761,Protein kinase
+Q16671,Domain,203,518,Protein kinase
+Q9NZV1,Domain,35,112,IGFBP N-terminal
+Q9NZV1,Domain,334,391,VWFC 1
+Q9NZV1,Domain,401,457,VWFC 2
+Q9NZV1,Domain,469,498,Antistasin-like 1
+Q9NZV1,Domain,505,532,Antistasin-like 2
+Q9NZV1,Domain,539,564,Antistasin-like 3
+Q9NZV1,Domain,567,592,Antistasin-like 4
+Q9NZV1,Domain,606,663,VWFC 3
+Q9NZV1,Domain,677,735,VWFC 4
+Q9NZV1,Domain,751,809,VWFC 5
+Q9NZV1,Domain,817,874,VWFC 6
+Q8NER5,Domain,165,194,GS
+Q8NER5,Domain,195,485,Protein kinase
+Q8N441,Domain,29,115,Ig-like C2-type 1
+Q8N441,Domain,147,237,Ig-like C2-type 2
+Q8N441,Domain,246,354,Ig-like C2-type 3
+P54289,Domain,253,430,VWFA
+P54289,Domain,446,556,Cache
+Q86WK6,Domain,28,61,LRRNT
+Q86WK6,Repeat,62,83,LRR 1
+Q86WK6,Repeat,87,108,LRR 2
+Q86WK6,Repeat,111,132,LRR 3
+Q86WK6,Repeat,135,156,LRR 4
+Q86WK6,Repeat,159,179,LRR 5
+Q86WK6,Repeat,186,206,LRR 6
+Q86WK6,Domain,221,272,LRRCT
+Q86WK6,Domain,269,353,Ig-like C2-type
+Q9P0K1,Domain,239,438,Peptidase M12B
+Q9P0K1,Domain,444,531,Disintegrin
+Q9P0K1,Domain,675,712,EGF-like
+Q6UY09,Domain,58,154,Ig-like C2-type 1
+Q6UY09,Domain,160,246,Ig-like C2-type 2
+Q6UY09,Domain,256,341,Ig-like C2-type 3
+Q6UY09,Domain,346,432,Ig-like C2-type 4
+Q13634,Domain,54,159,Cadherin 1
+Q13634,Domain,160,268,Cadherin 2
+Q13634,Domain,269,383,Cadherin 3
+Q13634,Domain,384,486,Cadherin 4
+Q13634,Domain,487,608,Cadherin 5
+O00481,Domain,30,139,Ig-like V-type 1
+O00481,Domain,145,236,Ig-like V-type 2
+O00481,Domain,322,513,B30.2/SPRY
+P15812,Domain,191,301,Ig-like
+P09564,Domain,26,130,Ig-like
+P09564,Repeat,145,153,1
+P09564,Repeat,154,162,2
+P09564,Repeat,163,171,3
+P09564,Repeat,172,180,4
+P42081,Domain,33,131,Ig-like V-type
+P42081,Domain,150,225,Ig-like C2-type
+P29016,Domain,185,295,Ig-like
+P37023,Domain,172,201,GS
+P37023,Domain,202,492,Protein kinase
+O75309,Domain,25,126,Cadherin 1
+O75309,Domain,131,235,Cadherin 2
+O75309,Domain,242,336,Cadherin 3
+O75309,Domain,341,449,Cadherin 4
+O75309,Domain,455,564,Cadherin 5
+O75309,Domain,569,665,Cadherin 6
+P33681,Domain,35,135,Ig-like V-type
+P33681,Domain,145,230,Ig-like C2-type
+Q496F6,Domain,18,120,Ig-like V-type
+Q86SJ2,Domain,40,68,LRRNT
+Q86SJ2,Repeat,69,90,LRR 1
+Q86SJ2,Repeat,94,115,LRR 2
+Q86SJ2,Repeat,118,139,LRR 3
+Q86SJ2,Repeat,142,163,LRR 4
+Q86SJ2,Repeat,166,187,LRR 5
+Q86SJ2,Repeat,193,214,LRR 6
+Q86SJ2,Domain,228,284,LRRCT
+Q86SJ2,Domain,289,379,Ig-like C2-type
+Q9UKJ8,Domain,208,398,Peptidase M12B
+Q9UKJ8,Domain,406,492,Disintegrin
+Q9UKJ8,Domain,634,663,EGF-like
+O00238,Domain,174,203,GS
+O00238,Domain,204,494,Protein kinase
+P13224,Domain,27,55,LRRNT
+P13224,Repeat,60,83,LRR
+P13224,Domain,89,143,LRRCT
+O15197,Domain,33,237,Eph LBD
+O15197,Domain,369,486,Fibronectin type-III 1
+O15197,Domain,487,582,Fibronectin type-III 2
+O15197,Domain,670,919,Protein kinase
+O15197,Domain,948,1012,SAM
+Q8NAU1,Domain,36,127,Fibronectin type-III
+Q96PD2,Domain,72,186,CUB
+Q96PD2,Domain,187,285,LCCL
+Q96PD2,Domain,292,449,F5/8 type C
+P12319,Domain,30,110,Ig-like 1
+P12319,Domain,111,193,Ig-like 2
+Q8WVV5,Domain,34,145,Ig-like V-type
+Q8WVV5,Domain,153,234,Ig-like C2-type
+Q8WVV5,Domain,309,502,B30.2/SPRY
+Q99795,Domain,22,134,Ig-like V-type
+Q99795,Domain,140,227,Ig-like C2-type
+Q9UKF5,Domain,198,390,Peptidase M12B
+Q9UKF5,Domain,397,483,Disintegrin
+Q9UKF5,Domain,625,654,EGF-like
+Q9UKF5,Repeat,739,747,1
+Q9UKF5,Repeat,748,756,2
+Q9UKF5,Repeat,757,765,3
+Q9UKF5,Repeat,766,774,4
+Q9UKF5,Repeat,775,783,5
+Q9UKF5,Repeat,784,792,6
+Q9UKF5,Repeat,793,801,7
+Q9UKF5,Repeat,802,810,8
+Q9UKF5,Repeat,811,819,9
+Q9UKQ2,Domain,204,399,Peptidase M12B
+Q9UKQ2,Domain,407,493,Disintegrin
+Q9UKQ2,Domain,625,657,EGF-like
+Q86XX4,Domain,27,88,VWFC 1
+Q86XX4,Domain,93,153,VWFC 2
+Q86XX4,Domain,157,217,VWFC 3
+Q86XX4,Domain,219,279,VWFC 4
+Q86XX4,Domain,283,343,VWFC 5
+Q86XX4,Domain,347,417,VWFC 6
+Q86XX4,Repeat,409,460,FU 1
+Q86XX4,Repeat,462,505,FU 2
+Q86XX4,Repeat,507,553,FU 3
+Q86XX4,Repeat,555,599,FU 4
+Q86XX4,Repeat,602,647,FU 5
+Q86XX4,Repeat,649,705,FU 6
+Q86XX4,Repeat,708,753,FU 7
+Q86XX4,Repeat,755,800,FU 8
+Q86XX4,Repeat,803,852,FU 9
+Q86XX4,Repeat,854,900,FU 10
+Q86XX4,Repeat,903,948,FU 11
+Q86XX4,Repeat,952,997,FU 12
+Q86XX4,Repeat,999,1042,FU 13
+Q86XX4,Repeat,1046,1089,FU 14
+Q86XX4,Repeat,1102,1197,CSPG 1
+Q86XX4,Repeat,1217,1308,CSPG 2
+Q86XX4,Repeat,1329,1438,CSPG 3
+Q86XX4,Repeat,1463,1559,CSPG 4
+Q86XX4,Repeat,1595,1689,CSPG 5
+Q86XX4,Repeat,1710,1810,CSPG 6
+Q86XX4,Repeat,1833,1936,CSPG 7
+Q86XX4,Repeat,1957,2057,CSPG 8
+Q86XX4,Repeat,2078,2177,CSPG 9
+Q86XX4,Repeat,2199,2291,CSPG 10
+Q86XX4,Repeat,2311,2404,CSPG 11
+Q86XX4,Repeat,2439,2536,CSPG 12
+Q86XX4,Domain,2543,2646,Calx-beta 1
+Q86XX4,Domain,2659,2770,Calx-beta 2
+Q86XX4,Domain,2784,2890,Calx-beta 3
+Q86XX4,Domain,2905,3007,Calx-beta 4
+Q86XX4,Domain,3025,3129,Calx-beta 5
+Q9H6B4,Domain,19,127,Ig-like C2-type 1
+Q9H6B4,Domain,135,224,Ig-like C2-type 2
